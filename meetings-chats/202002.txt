@@ -1,0 +1,29 @@
+00:29:42	Martin Knobloch:	can you steel it from the wiki?
+https://wiki.owasp.org/index.php/File:Martin-knobloch_6.png
+00:35:57	Anant Shrivastava:	just a FYI project page is public. hence should be kept correct
+00:36:28	Admin Admin:	Yes Anant, we do try to keep these as updated as possible
+00:37:10	Dawn:	Kelly is on vacation today
+00:37:18	Anant Shrivastava:	there was a comment that its considered internal so we just need to ensure we keep ourselves clear whats kept in public whats not and try to ensure things are correct everyone or simply use one place for all things.
+00:54:56	Anant Shrivastava:	right on track sherif
+00:55:27	Anant Shrivastava:	we are looking at increasing membership what is the plan to show why they should register. any advantage people get.
+00:56:30	Anant Shrivastava:	Why is “501(c)(3) worldwide not-for-profit charitable organization” removed from mission statement.
+00:57:34	Anant Shrivastava:	“OWASP is in a unique position to provide impartial, practical information” <- another section removed. any specific reason are we becoming partial.
+00:57:45	Sherif Mansour:	Shall we vote - sans the mission statement?
+00:58:58	Vandana Verma:	Sherif, i have few questions which I highlighted
+00:59:29	Vandana Verma:	I found three keywords missing in the new mission statement which are worldwide, Charitable and impartial. can we discuss on how we can include them
+00:59:56	Vandana Verma:	501(c)(3) worldwide not-for-profit is also removed
+01:01:39	Anant Shrivastava:	https://github.com/OWASP/www-staff/commits/master/operating-plan/2020.md <- all updates done on the document.
+01:01:52	Anant Shrivastava:	6 edits since November.
+01:03:28	Sherif Mansour:	https://docs.google.com/document/d/1ZZiE-lHKvk8_IWzG04Kjcbp0cr5J23B2CjOVokRilPo/edit
+01:03:37	Vandana Verma:	https://docs.google.com/document/d/1ZZiE-lHKvk8_IWzG04Kjcbp0cr5J23B2CjOVokRilPo/edit
+01:20:46	Sherif Mansour:	We have 10 minutes on the call left
+01:21:32	Lisa:	Transparency
+01:25:29	Anant Shrivastava:	without going to github you cant
+01:25:38	Anant Shrivastava:	that’s the way the website operates now.
+01:26:07	Anant Shrivastava:	721c52e
+01:27:34	Anant Shrivastava:	yes commit it
+01:27:36	Anant Shrivastava:	that’s better
+01:27:50	Anant Shrivastava:	every change is different commit it
+01:27:51	Anant Shrivastava:	id*
+01:29:07	Sherif Mansour:	Another thing to note is that as a BoD member I did not have access to edit the new/old business so add a point to today’s meeting
+01:33:19	Sherif Mansour:	https://docs.google.com/document/d/14gzKJTXBChI59FPq1_K0-OUJiS3V2G2c_hNN4x382dA/edit
