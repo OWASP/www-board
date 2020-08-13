@@ -33,14 +33,14 @@ As part of our recent website migration, we have been migrating old Board conten
 </ul>
 
 ## Meeting recordings
-[August 2020 Special Meeting](https://drive.google.com/file/d/1-CbNlgDtgx5D38zD9qx7M8NlT5FwUGyz/view?usp=sharing)
-[July 2020](https://drive.google.com/file/d/1u_6wbjyBtRcmkSl_uuUAZZcRbY1bC9N7/view?usp=sharing)
-[June 2020](https://drive.google.com/file/d/1G6L1FR5KktWfKVY1ebsVeov2AAWnrkpk/view?usp=sharing)
-[May 2020](https://drive.google.com/file/d/1G6yn2tP8odxVEd3oGUeUb6e4yfJj_VeU/view?usp=sharing)
-[April 2020](https://drive.google.com/file/d/1GAeGM247FjiEMahhBJPd8SVwxYbi9qTB/view?usp=sharing)
-[February 2020](https://drive.google.com/file/d/1GCkopvPUONSybj7EobrUNP4rWINiNzre/view?usp=sharing)
-[January 2020](https://drive.google.com/file/d/1GDjvk9n8Z7FhD4cfS_L_z85ctUEh0r6V/view?usp=sharing)
-[November 2019](https://drive.google.com/file/d/1G3IiggueKUSCIls-ARZGcGYOiBnc4Frz/view?usp=sharing) - Audio
+* [August 2020 Special Meeting](https://drive.google.com/file/d/1-CbNlgDtgx5D38zD9qx7M8NlT5FwUGyz/view?usp=sharing)
+* [July 2020](https://drive.google.com/file/d/1u_6wbjyBtRcmkSl_uuUAZZcRbY1bC9N7/view?usp=sharing)
+* [June 2020](https://drive.google.com/file/d/1G6L1FR5KktWfKVY1ebsVeov2AAWnrkpk/view?usp=sharing)
+* [May 2020](https://drive.google.com/file/d/1G6yn2tP8odxVEd3oGUeUb6e4yfJj_VeU/view?usp=sharing)
+* [April 2020](https://drive.google.com/file/d/1GAeGM247FjiEMahhBJPd8SVwxYbi9qTB/view?usp=sharing)
+* [February 2020](https://drive.google.com/file/d/1GCkopvPUONSybj7EobrUNP4rWINiNzre/view?usp=sharing)
+* [January 2020](https://drive.google.com/file/d/1GDjvk9n8Z7FhD4cfS_L_z85ctUEh0r6V/view?usp=sharing)
+* [November 2019](https://drive.google.com/file/d/1G3IiggueKUSCIls-ARZGcGYOiBnc4Frz/view?usp=sharing) - Audio
 
 ## Historical Board Members
 Please visit the [Global Board History](/www-board/elections/board_history) for the timeline of board members since 2004 
