@@ -62,7 +62,7 @@ The OWASP Foundation Board of Directors currently consists of seven elected volu
 
 Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [OWASP Foundation Bylaws](/www-policy/legal/bylaws).  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [Governance page](/governance/).
 
-Please reach out to our [current Board Members](/about/) if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
+Please reach out to our [current Board Members](/corporate/) if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
 
 Additional Responsibilities that the Global Board of Directors must adhere to can be found [on the Foundation Governance page](/governance/)
 
