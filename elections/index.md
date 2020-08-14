@@ -60,11 +60,11 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 
 The OWASP Foundation Board of Directors currently consists of seven elected volunteers who serve a two year term. These unpaid volunteers dedicate themselves to the organizational mission and playing a pivotal role in the software security community. Members of the Global Board of Directors are responsible for setting the strategic direction of the organization and ensuring the financial integrity of the Foundation.
 
-Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [OWASP Foundation Bylaws](#).  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [Governance page](#).
+Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [OWASP Foundation Bylaws](/www-policy/legal/bylaws).  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [Governance page](/governance/).
 
 Please reach out to our [current Board Members](/about/) if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
 
-Additional Responsibilities that the Global Board of Directors must adhere to can be found [on the Foundation Governance page](#)
+Additional Responsibilities that the Global Board of Directors must adhere to can be found [on the Foundation Governance page](/governance/)
 
 <!-- May need to include some representation of this  '''[[OWASP Board History|Board History]]''' -->
 
