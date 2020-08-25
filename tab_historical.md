@@ -33,6 +33,7 @@ As part of our recent website migration, we have been migrating old Board conten
 </ul>
 
 ## Meeting recordings
+* [August 2020](https://drive.google.com/file/d/1GE0WTtnmTqzDiYTbRq2-w6jfcvEEe6GA/view?usp=sharing){:target='_blank'}
 * [August 2020 Special Meeting](https://drive.google.com/file/d/1-CbNlgDtgx5D38zD9qx7M8NlT5FwUGyz/view?usp=sharing){:target='_blank'}
 * [July 2020](https://drive.google.com/file/d/1u_6wbjyBtRcmkSl_uuUAZZcRbY1bC9N7/view?usp=sharing){:target='_blank'}
 * [June 2020](https://drive.google.com/file/d/1G6L1FR5KktWfKVY1ebsVeov2AAWnrkpk/view?usp=sharing){:target='_blank'}
