@@ -69,7 +69,7 @@ Listed in order of nomination date. Three seats are open for this election.
 * Vinodh Kumar Allam
 * Mike Thompson
 * Haral Tsitsivas
-* Martn Knobloch
+* Martin Knobloch
 * Bil Corry
 * Joubin Jabbari
 * Diop Baka
