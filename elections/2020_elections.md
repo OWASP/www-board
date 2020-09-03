@@ -65,7 +65,14 @@ asked questions, please visit:
 
 Listed in order of nomination date. Three seats are open for this election.	
 
-* TBD	
+* Richard Greenberg
+* Vinodh Kumar Allam
+* Mike Thompson
+* Haral Tsitsivas
+* Martn Knobloch
+* Bil Corry
+* Joubin Jabbari
+* Diop Baka
 <br>
 <br>
 
