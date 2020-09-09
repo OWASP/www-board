@@ -78,7 +78,12 @@ Listed in order of nomination date. Three seats are open for this election.
 
 ### Candidates	
 
-*  TBD	
+* Richard Greenberg
+* Mike Thompson
+* Haral Tsitsivas
+* Martin Knobloch
+* Bil Corry
+* Joubin Jabbari
 <br>
 <br>
 
