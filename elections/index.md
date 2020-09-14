@@ -44,7 +44,7 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 * The 6-7 top questions from the community will be selected & shared with Candidates 
 * Email Reminder Membership Required to Vote
 * Email Reminder Membership Required to Vote
-* Recordings posted on the election page
+* Candidates to post their videos
 * Email/Social Media notifying the community the recordings are posted
 * Final Email Reminder Membership Required to Vote
 * Paid Membership Deadline
