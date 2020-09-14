@@ -42,12 +42,9 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 * Verification of candidates
 * Candidates announced via email and social media
 * The 6-7 top questions from the community will be selected & shared with Candidates 
-* Scheduling of group interviews
 * Email Reminder Membership Required to Vote
-* Group interviews will be held 
 * Email Reminder Membership Required to Vote
-* Deadline for interview recordings to be completed 
-* Recordings posted on the election wiki page
+* Recordings posted on the election page
 * Email/Social Media notifying the community the recordings are posted
 * Final Email Reminder Membership Required to Vote
 * Paid Membership Deadline
