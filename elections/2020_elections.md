@@ -40,6 +40,7 @@ asked questions, please visit:
 09-15-2020 - Email Reminder regarding Membership is a required to vote
 
 09-25-2020 - Email Reminder regarding Membership is a required to vote
+09-25-2020 - Reminder to Candidate to post their videos
 
 09-30-2020 - Candidates to post their videos<br>
 09-30-2020 - Paid membership deadline
