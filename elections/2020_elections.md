@@ -79,10 +79,11 @@ Listed in order of nomination date. Three seats are open for this election.
 
 ### Candidates	
 
-* Haral Tsitsivas
-* Martin Knobloch
-* Bil Corry
-* Joubin Jabbari
+* Bil Corry [Candidate Page](https://owasp.org/www-board-candidates/bil_corry)
+* Martin Knobloch 
+* Joubin Jabbari 
+* Haral Tsitsivas 
+
 <br>
 <br>
 
