@@ -1,33 +1,323 @@
+- date: 2020-09-22
+  year: 2020
+  attendees:
+    - name: Gary Robinson
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Martin Knobloch
+    - name: Grant Ongers
+    - name: Richard Greenberg
+  guests:
+    - name: Andrew van der Stock
+    - name: Mike McCamon
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Kelly Santalucia
+    - name: Lisa Jones
+- date: 2020-08-25
+  year: 2020
+  attendees:
+    - name: Gary Robinson
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Owen Pendlebury
+    - name: Martin Knobloch
+    - name: Grant Ongers
+    - name: Richard Greenberg
+  guests:
+    - name: Andrew van der Stock
+    - name: Mike McCamon
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Kelly Santalucia
+    - name: Lisa Jones
+- date: 2020-07-28
+  year: 2020
+  attendees:
+    - name: Owen Pendlebury
+    - name: Martin Knobloch
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Vandana Verma
+    - name: Grant Ongers
+  guests:
+    - name: Mike McCamon
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Kelly Santalucia
+    - name: Harold Blankenship
+    - name: Lisa Jones
+    - name: Various Community Members
+- date: 2020-06-23
+  year: 2020
+  attendees:
+    - name: Owen Pendlebury
+    - name: Martin Knobloch
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Vandana Verma
+    - name: Grant Ongers
+  guests:
+    - name: Mike McCamon
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Kelly Santalucia
+    - name: Harold Blankenship
+    - name: Lisa Jones
+    - name: Various Community Members
+- date: 2020-05-26
+  year: 2020
+  attendees:
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Gary Robinson
+    - name: Richard Greenberg
+    - name: Martin Knobloch
+    - name: Grant Ongers
+  guests:
+    - name: Mike McCamon
+    - name: Harold Blankenship
+    - name: Emily Berman
+    - name: Kelly Santalucia
+    - name: Tom Pappas
+    - name: Lisa Jones
+    - name: Bil Corry
+    - name: Mark Hoopes
+- date: 2020-04-28
+  year: 2020
+  attendees:
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Gary Robinson
+    - name: Richard Greenberg
+    - name: Martin Knobloch
+    - name: Grant Ongers
+  guests:
+    - name: Mike McCamon
+    - name: Harold Blankenship
+    - name: Emily Berman
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Tom Pappas
+    - name: Various Community Members
+- date: 2020-03-24
+  year: 2020
+  attendees:
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Gary Robinson
+    - name: Richard Greenberg
+    - name: Martin Knobloch
+    - name: Grant Ongers
+  guests:
+    - name: Mike McCamon
+    - name: Harold Blankenship
+    - name: Emily Berman
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Tom Pappas
+    - name: Various Community Members
+- date: 2020-02-18
+  year: 2020
+  attendees:
+    - name: Martin Knobloch
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Gary Robinson
+    - name: Grant Ongers
+    - name: Vandana Verma
+  guests:
+    - name: Mike McCamon
+    - name: Emily Berman
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
+    - name: Justin Ferguson
+    - name: Bjoern Kimminich
+- date: 2020-01-21
+  year: 2020
+  attendees:
+    - name: Martin Knobloch
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Grant Ongers
+    - name: Vandana Verma
+  guests:
+    - name: Mike McCamon
+    - name: Emily Berman
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Sibah Poede
 - date: 2019-12-17
-  attendees: "Martin Knobloch, Ofer Maor, Richard Greenberg, Chengxi Wang"
-  guests: "Mike McCamon, Tom Pappas, Grant Ongers, Vandana Verma Sehgal, Emily Berman, Kelly Santalucia, Lisa Jones, Sibah Poede, Haral Tsitsivas"
+  attendees:
+    - name: Martin Knobloch
+    - name: Ofer Maor
+    - name: Richard Greenberg
+    - name: Chengxi Wang
+  guests: 
+    - name: Mike McCamon
+    - name: Tom Pappas
+    - name: Grant Ongers
+    - name: Vandana Verma Sehgal
+    - name: Emily Berman
+    - name: Kelly Santalucia
+    - name: Lisa Jones
+    - name: Sibah Poede
+    - name: Haral Tsitsivas
 - date: 2019-11-19
-  attendees: "Owen Pendlebury, Sherif Mansour, Richard Greenberg, Gary Robinson"
-  guests: "Mike McCamon, Harold Blankenship, Kelly Santalucia, Dawn Aitken, Sibah Poede"
+  attendees:
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+  guests: 
+    - name: Mike McCamon
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Sibah Poede
 - date: 2019-10-15
-  attendees: "Chenxi Wang, Owen Pendlebury, Sherif Mansour, Richard Greenberg, Gary Robinson, Ofer Maor"
-  guests: "Mike McCamon, Emily Berman, Harold Blankenship, Kelly Santalucia, Dawn Aitken, Lisa Jones, Tom Pappas"
+  attendees: 
+    - name: Chenxi Wang
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Ofer Maor
+  guests: 
+    - name: Mike McCamon
+    - name: Emily Berman
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
 - date: 2019-09-25
-  attendees: "Martin Knobloch, Chenxi Wang, Owen Pendlebury, Sherif Mansour, Richard Greenberg, Gary Robinson, Ofer Maor"
-  guests: "Mike McCamon, Emily Berman, Harold Blankenship, Kelly Santalucia, Dawn Aitken, Lisa Jones, Tom Pappas"
+  attendees: 
+    - name: Martin Knobloch
+    - name: Chenxi Wang
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Ofer Maor
+  guests: 
+    - name: Mike McCamon
+    - name: Emily Berman
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
 - date: 2019-07-16
-  attendees: "Martin Knobloch, Owen Pendlebury, Richard Greenberg, Gary Robinson, Ofer Maor"
-  guests: "Mike McCamon, Emily Berman, Harold Blankenship, Kelly Santalucia, Dawn Aitken, Lisa Jones, Tom Pappas"
+  attendees: 
+    - name: Martin Knobloch
+    - name: Owen Pendlebury
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Ofer Maor
+  guests: 
+    - name: Mike McCamon
+    - name: Emily Berman
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
 - date: 2019-06-18
-  attendees: "Martin Knobloch, Owen Pendlebury, Sherif Mansour, Richard Greenberg, Gary Robinson, Ofer Maor"
-  guests: "Mike McCamon, Kelly Santalucia, Dawn Aitken, Lisa Jones, Tom Pappas"
+  attendees: 
+    - name: Martin Knobloch
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Ofer Maor
+  guests: 
+    - name: Mike McCamon
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
 - date: 2019-05-21
-  attendees: "Martin Knobloch, Chenxi Wang, Owen Pendlebury, Sherif Mansour, Gary Robinson, Ofer Maor"
-  guests: "Mike McCamon, Emily Berman, Kelly Santalucia, Dawn Aitken, Lisa Jones, Tom Pappas"
+  attendees: 
+    - name: Martin Knobloch
+    - name: Chenxi Wang
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Gary Robinson
+    - name: Ofer Maor"
+  guests: 
+    - name: Mike McCamon
+    - name: Emily Berman
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
 - date: 2019-04-29
-  attendees: "Martin Knobloch, Chenxi Wang, Owen Pendlebury, Sherif Mansour, Richard Greenberg, Gary Robinson"
-  guests: "Mike McCamon, Harold Blankenship, Kelly Santalucia, Dawn Aitken, Lisa Jones, Tom Pappas"
+  attendees: 
+    - name: Martin Knobloch
+    - name: Chenxi Wang
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+  guests: 
+    - name: Mike McCamon
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
 - date: 2019-03-18
-  attendees: "Martin Knobloch, Chenxi Wang, Owen Pendlebury, Sherif Mansour, Richard Greenberg, Gary Robinson, Ofer Maor"
-  guests: "Mike McCamon, Matt Tesauro, Harold Blankenship, Kelly Santalucia, Dawn Aitken, Lisa Jones, Tom Pappas"
+  attendees: 
+    - name: Martin Knobloch
+    - name: Chenxi Wang
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Ofer Maor
+  guests: 
+    - name: Mike McCamon
+    - name: Matt Tesauro
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
 - date: 2019-02-18
-  attendees: "Martin Knobloch, Chenxi Wang, Owen Pendlebury, Sherif Mansour, Richard Greenberg, Gary Robinson, Ofer Maor"
-  guests: "Mike McCamon, Matt Tesauro, Tom Pappas"
+  attendees: 
+    - name: Martin Knobloch
+    - name: Chenxi Wang
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Ofer Maor
+  guests: 
+    - name: Mike McCamon
+    - name: Matt Tesauro
+    - name: Tom Pappas
 - date: 2019-01-23
-  attendees: "Martin Knobloch, Chenxi Wang, Owen Pendlebury, Sherif Mansour, Richard Greenberg, Gary Robinson, Ofer Maor"
-  guests: "Mike McCamon, Kelly Santalucia, Dawn Aitken, Lisa Jones, Tom Pappas"
+  attendees: 
+    - name: Martin Knobloch
+    - name: Chenxi Wang
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Richard Greenberg
+    - name: Gary Robinson
+    - name: Ofer Maor
+  guests: 
+    - name: Mike McCamon
+    - name: Kelly Santalucia
+    - name: Dawn Aitken
+    - name: Lisa Jones
+    - name: Tom Pappas
