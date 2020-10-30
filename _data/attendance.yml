@@ -1,3 +1,20 @@
+- date: 2020-10-20
+  year: 2020
+  attendees:
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
+    - name: Martin Knobloch
+    - name: Gary Robinson
+    - name: Grant Ongers
+  guests:
+    - name: Andrew van der Stock
+    - name: Mike McCamon
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Kelly Santalucia
+    - name: Emily Berman
+    - name: Harold Blankenship
+    - name: Various Community Members
 - date: 2020-09-22
   year: 2020
   attendees:
