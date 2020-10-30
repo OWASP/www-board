@@ -40,7 +40,11 @@
             Note: Once established, the sub-committee will elect new officers at the start of each Board year per the bylaws (they didn't vote on that, but that's how it will operate).  
             Sherif Mansour motions, Grant Ongers seconds"
   result:  "In Favor:  5 (Sherif Mansour, Vandana Verma, Gary Robinson, Martin Knobloch and Grant Ongers)  Abstain:  2 (Richard Greenberg and Owen Pendlebury)"
-  vote:  "5-0"
+  vote:  "<br>5-0"
+- date:  2020-09-12
+  motion:  "It is resolved that the action by the Executive Director, Andrew van der Stock, to temporarily suspend and refer an OWASP leader to the Compliance Committee for review is supported by the Board." Grant Ongers motions, Vandana Verma seconds"
+  results:  "<br>In Favor:  6 (Martn Knobloch, Vandana Verma, Richard Greenberg, Grant Ongers, Gary Robinson and Owen Pendlebury)"
+  vote:  "<br>6-0"  
 - date:  2020-08-25
   motion: "It is resolved that to address the Compliance Committee’s recommendation that Foundation funds not be used for membership and that any such paid 
            membership (if any exists) shall constitute a non-voting membership. As this will affect the eligibility of AppSec Cali 2020 attendees who were 
