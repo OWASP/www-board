@@ -84,9 +84,11 @@ Listed in order of nomination date. Three seats are open for this election.
 * Haral Tsitsivas - [Candidate Page](https://owasp.org/www-board-candidates//haral_tsitsivas)
 <br>
 <br>
+
 ### 2020 Board Election Results	
 <br>
 <br>
+
 ### Confirmed Nominations - their term will start on January 1, 2021
 <br>
 
