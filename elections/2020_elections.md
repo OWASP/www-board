@@ -65,7 +65,6 @@ asked questions, please visit:
 ### Board Initial Submissions	
 
 Listed in order of nomination date. Three seats are open for this election.	
-
 * Richard Greenberg
 * Vinodh Kumar Allam
 * Mike Thompson
@@ -78,6 +77,7 @@ Listed in order of nomination date. Three seats are open for this election.
 <br>
 
 ### Candidates	
+
 * Bil Corry - [Candidate Page](https://owasp.org/www-board-candidates/bil_corry)
 * Martin Knobloch - [Candidate Page](https://owasp.org/www-board-candidates//martin_knobloch)
 * Joubin Jabbari - [Candidate Page](https://owasp.org/www-board-candidates//joubin_jabbari)
