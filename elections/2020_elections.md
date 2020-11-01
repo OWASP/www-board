@@ -89,4 +89,14 @@ Listed in order of nomination date. Three seats are open for this election.
 
 ### 2020 Board Election Results	
 
-* TBD
+* Martin Knobloch - 417
+* Bil Corry - 330
+* Joubin Jabbari - 267
+* Haral Tsitsivas - 252
+
+### Confirmed Nominations - their term will start on January 1, 2021
+* Martin Knobloch
+* Bil Corry
+* Joubin Jabbari 
+
+
