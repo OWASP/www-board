@@ -78,25 +78,15 @@ Listed in order of nomination date. Three seats are open for this election.
 <br>
 
 ### Candidates	
-
 * Bil Corry - [Candidate Page](https://owasp.org/www-board-candidates/bil_corry)
 * Martin Knobloch - [Candidate Page](https://owasp.org/www-board-candidates//martin_knobloch)
 * Joubin Jabbari - [Candidate Page](https://owasp.org/www-board-candidates//joubin_jabbari)
 * Haral Tsitsivas - [Candidate Page](https://owasp.org/www-board-candidates//haral_tsitsivas)
-
 <br>
 <br>
-
 ### 2020 Board Election Results	
-
-* Martin Knobloch - 417
-* Bil Corry - 330
-* Joubin Jabbari - 267
-* Haral Tsitsivas - 252
-
+<br>
+<br>
 ### Confirmed Nominations - their term will start on January 1, 2021
-* Martin Knobloch
-* Bil Corry
-* Joubin Jabbari 
-
+<br>
 
