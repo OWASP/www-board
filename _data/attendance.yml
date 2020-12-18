@@ -1,3 +1,20 @@
+- date: 2020-11-24
+  year: 2020
+  attendees:
+    - name: Gary Robinson
+    - name: Grant Ongers
+    - name: Martin Knobloch
+    - name: Owen Pendlebury
+    - name: Richard Greenberg
+    - name: Sherif Mansour
+    - name: Vandana Verma
+  guests:
+    - name: Joubin Jabbari
+    - name: Bil Corry
+    - name: Andrew van der Stock
+    - name: Tom Pappas
+    - name: Lisa Jones
+    - name: Sam Stepanyan
 - date: 2020-10-20
   year: 2020
   attendees:
