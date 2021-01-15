@@ -30,29 +30,6 @@ Andrew van der Stock, Tom Pappas, Dawn Aitken, Emily Berman, Harold Blankenship,
 
 ### NEW BUSINESS
 
-#### Motion to elect Chair
-
-**Motion:** "Resolved, that TBA will be elected as 2021 Chair."
-
-Note: Per RONR (12th ed) 46:47, the 2020 Chair opens the meeting, but at the conclusion of this vote, the office of Chair passes immediately to the new Chair, and the remainder of this meeting will be chaired by the new chair.
-
-- Sponsor: TBA
-- Second: TBA
-
-**Motion:** "Resolved, that TBA will be elected as 2021 Vice Chair."
-
-- Sponsor: TBA
-- Second: TBA
-
-**Motion:** "Resolved, that TBA will be elected as 2021 Secretary."
-
-- Sponsor: TBA
-- Second: TBA
-
-**Motion:** "Resolved, that TBA will be elected as 2021 Treasurer."
-
-- Sponsor: TBA
-- Second: TBA
 
 ### COMMENTS, ANNOUNCEMENTS, AND OTHER BUSINESS
 
