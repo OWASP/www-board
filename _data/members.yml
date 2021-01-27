@@ -1,42 +1,42 @@
-- name: Martin Knobloch
+- name: Sherif Mansour
+  title: Chair
+  term-ends: 2021
+  location: United Kingdom
+  image: /people/no-person.png
+  rank: 1
+- name: Vandana Verma
+  title: Vice Chair
+  location: India
+  term-ends: 2021
+  image: /people/no-person.png
+  rank: 2
+- name: Bil Corry
+  title: Secretary
+  term-ends: 2022
+  location: United States
+  image: /people/no-person.png
+  rank: 3
+- name: Grant Ongers
+  title: Treasurer
+  term-ends: 2021
+  location: United Kingdom
+  image: /people/no-person.png
+  rank: 4
+- name: Joubin Jabbari
   title: Member-at-large
-  term-ends: 2020
-  location: Netherlands
+  term-ends: 2022
+  location: Sacramento, CA
   image: /people/no-person.png
   rank: 5
+- name: Martin Knobloch
+  title: Member-at-large
+  term-ends: 2022
+  location: Netherlands
+  image: /people/no-person.png
+  rank: 6
 - name: Owen Pendlebury
-  title: Chair
+  title: Member-at-large
   term-ends: 2021
   location: Ireland
   image: /people/no-person.png
-  rank: 1
-- name: Sherif Mansour
-  title: Vice Chair
-  term-ends: 2021
-  location: United Kingdom
-  image: /people/no-person.png
-  rank: 2
-- name: Vandana Verma
-  title: Treasurer
-  location: India
-  term-ends: 2022
-  image: /people/no-person.png
-  rank: 3
-- name: Gary Robinson
-  title: Secretary
-  term-ends: 2020
-  location: Northern Ireland
-  image: /people/no-person.png
-  rank: 4
-- name: Richard Greenberg
-  title: Member-at-large
-  term-ends: 2020
-  location: United States
-  image: /people/no-person.png
-  rank: 5
-- name: Grant Ongers
-  title: Member-at-large
-  term-ends: 2022
-  location: United Kingdom
-  image: /people/no-person.png
-  rank: 5
+  rank: 7
