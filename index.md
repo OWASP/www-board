@@ -27,14 +27,14 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 - [Elections](/www-board/elections/){:target='_blank'}
 
 ## Current Membership
-* [Owen Pendlebury](mailto:owen.pendlebury@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}, Chair
-* [Sherif Mansour](mailto:sherif.mansour@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'{:target='_blank'}, Vice Chair
-* [Vandana Verma Sehgal](mailto:Vandana.verma@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}, Treasurer
-* [Martin Knobloch](mailto:martin.knobloch@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
-* [Grant Ongers](mailto:grant.ongers@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
-* [Bil Corry](mailto:bil.corry@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
-* [Joubin Jabbari](mailto:joubin.jabbari@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
 
+* [Sherif Mansour](mailto:sherif.mansour@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'{:target='_blank'}, Chair
+* [Vandana Verma Sehgal](mailto:Vandana.verma@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}, Vice Chair
+* [Bil Corry](mailto:bil.corry@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}, Secretary
+* [Grant Ongers](mailto:grant.ongers@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}, Treasurer
+* [Joubin Jabbari](mailto:joubin.jabbari@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
+* [Martin Knobloch](mailto:martin.knobloch@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
+* [Owen Pendlebury](mailto:owen.pendlebury@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
 
 ## Recent Meetings
 
