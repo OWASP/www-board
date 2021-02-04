@@ -16,7 +16,7 @@ As part of our recent website migration, we have been migrating old Board conten
 <ul>
 {% for page in pages %}
  {% if page.path contains 'historical/' %}
- <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
+ <li>{{page.date}}-<a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
