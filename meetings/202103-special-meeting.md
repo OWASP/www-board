@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: February 2021 Videoconference
+title: Special Meeting to Approve the 2021 Draft Budget
 date: 2021-03-08
 
 ---
@@ -37,7 +37,7 @@ Andrew van der Stock, Tom Pappas, Dawn Aitken, Kelly Santalucia
 
 **Background:** Each year, the Foundation sets a budget to match its operating plan and priorities. This year is slightly different, with a survival mode budget. This budget has the lowest expectation of income and expenses for many years, with the expectation that as the vaccination rollout proceeds, life can start to get back to normal, and we might be able to exceed this budget. If that doesn't happen, this budget has a very slim profit, and with careful stewardship of our funds throughout the year, there's every likelihood that we will not make a loss. The major risk is events: the previous events director did not prepare a formal budget, and many of the events had to change. Therefore, we envisage there might be some ad hoc requests for event budgets to allow events to go ahead where the Foundation thinks they will be profitable. The only planned events are LASCON and AppSec Australia, both regional AppSec Days events. Lastly, this budget assumes that there will be finance reform, and therefore makes allowances for limited awards & scholarships, grants, and expenses.
 
-Update: The Budget was tabled in the February board meeting, and corrections were made in the intervening period with meetings between Kelly Santalucia, Tom Pappas, Grant Ongers, and Andrew van der Stock. This revised budget is conservative in nearly all estimates, with many opportunities to exceed but also risks where income may fall flat. It will be vital that expenses are carefully managed throughout the year.
+Update: The draft Budget was tabled in the February board meeting after concerns and discussions, and corrections were made in the intervening period with meetings between Kelly Santalucia, Tom Pappas, Grant Ongers, and Andrew van der Stock. This revised budget is conservative in nearly all estimates, with many opportunities to exceed but also risks where income may fall flat. It will be vital that expenses are carefully managed throughout the year. All Board members voted, and the majority selected this time slot by preference, with only one Board member voting "if need be". The vote will need to be a majority vote (4/7 votes) to pass.
 
 - [Draft 2021 Budget](202103-draft-budget-summary.xlsx)
 
@@ -63,4 +63,3 @@ The next gneeral Board meeting is on March 23, at 12 pm US Eastern Time.
 
 Sponsor: Sherif Mansour
 Second: TBA
-
