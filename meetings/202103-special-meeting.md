@@ -43,7 +43,7 @@ Update: The draft Budget was tabled in the February board meeting after concerns
 
 **Motion**: "Resolved, the 2021 OWASP Foundation budget is formally approved."
 
-- Sponsor: Sherif Mansour
+- Sponsor: Grant Ongers
 - Second: Vandana Verma
 
 ### NEW BUSINESS
