@@ -1,90 +1,90 @@
-- date:  2021-05-25
-  year:  2021
+- date: 2021-05-25
+  year: 2021
   attendees:
-    - name:  Sherif Mansour
-    - name:  Vandana Verma
-    - name:  Grant Ongers
-    - name:  Bil Corry
-    - name:  Martin Knobloch
-    - name:  Joubin Jabbari
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Grant Ongers
+    - name: Bil Corry
+    - name: Martin Knobloch
+    - name: Joubin Jabbari
    guests:
-    - name:  Andrew van der Stock
-    - name:  Tom Pappas
-    - name:  Dawn Aitken
-    - name:  Harold Blankenship
-    - name:  Kelly Santalucia
-    - name:  Lisa Jones
-    - name:  various community members
-- date:  2021-04-27
-  year:  2021
+    - name: Andrew van der Stock
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Lisa Jones
+    - name: various community members
+- date: 2021-04-27
+  year: 2021
   attendees:
-    - name:  Sherif Mansour
-    - name:  Vandana Verma
-    - name:  Grant Ongers
-    - name:  Martin Knobloch
-    - name:  Owen Pendlebury
-    - name:  Joubin Jabbari
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Grant Ongers
+    - name: Martin Knobloch
+    - name: Owen Pendlebury
+    - name: Joubin Jabbari
   guests:
-    - name:  Andrew van der Stock
-    - name:  Tom Pappas
-    - name:  Dawn Aitken
-    - name:  Kelly Santalucia
-    - name:  Harold Blankenship
-    - name:  Lisa Jones
-    - name:  various community members  
-- date:  2021-03-23
-  year:  2021
+    - name: Andrew van der Stock
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Kelly Santalucia
+    - name: Harold Blankenship
+    - name: Lisa Jones
+    - name: various community members  
+- date: 2021-03-23
+  year: 2021
   attendees:
-    - name:  Sherif Mansour
-    - name:  Vandana Verma
-    - name:  Grant Ongers
-    - name:  Owen Pendlebury
-    - name:  Bil Corry
-    - name:  Joubin Jabbari
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Grant Ongers
+    - name: Owen Pendlebury
+    - name: Bil Corry
+    - name: Joubin Jabbari
   guests:
-    - name:  Andrew van der Stock
-    - name:  Tom Pappas
-    - name:  Dawn Aitken
-    - name:  Kelly Santalucia
-    - name:  Harold Blankenship
-    - name:  Lisa Jones
-    - name:  various community members
-- date:  2021-02-23
-  year:  2021
+    - name: Andrew van der Stock
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Kelly Santalucia
+    - name: Harold Blankenship
+    - name: Lisa Jones
+    - name: various community members
+- date: 2021-02-23
+  year: 2021
   attendees:
-    - name:  Sherif Mansour
-    - name:  Bil Corry
-    - name:  Martin Knobloch
-    - name:  Joubin Jabbari
-    - name:  Owen Pendlebury
-    - name:  Grant Ongers
-    - name:  Vandana Verma
+    - name: Sherif Mansour
+    - name: Bil Corry
+    - name: Martin Knobloch
+    - name: Joubin Jabbari
+    - name: Owen Pendlebury
+    - name: Grant Ongers
+    - name: Vandana Verma
   guests:  
-    - name:  Andrew van der Stock
-    - name:  Tom Pappas
-    - name:  Dawn Aitken
-    - name:  Harold Blankenship
-    - name:  Kelly Santalucia
-    - name:  Alonna Stock
-    - name:  Lisa Jones
-    - name:  various community members
-- date:  2021-01-26
-  year:  2021
+    - name: Andrew van der Stock
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Alonna Stock
+    - name: Lisa Jones
+    - name: various community members
+- date: 2021-01-26
+  year: 2021
   attendees:
-    - name:  Grant Ongers
-    - name:  Vandana Verma
-    - name:  Joubin Jabbari
-    - name:  Martin Knobloch
-    - name:  Bil Corry
-    - name:  Owen Pendlebury
-    - name:  Sherif Mansour
+    - name: Grant Ongers
+    - name: Vandana Verma
+    - name: Joubin Jabbari
+    - name: Martin Knobloch
+    - name: Bil Corry
+    - name: Owen Pendlebury
+    - name: Sherif Mansour
   guests:
-    - name:  Andrew van der Stock
-    - name:  Tom Pappas
-    - name:  Dawn Aitken
-    - name:  Harold Blankenship
-    - name:  Kelly Santalucia
-    - name:  Sam Stepanyan
+    - name: Andrew van der Stock
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Harold Blankenship
+    - name: Kelly Santalucia
+    - name: Sam Stepanyan
 - date: 2020-12-15
   year: 2020
   attendees:
