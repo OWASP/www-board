@@ -35,7 +35,7 @@ As part of our recent website migration, we have been migrating old Board conten
 
 ## Meeting recordings
 
-* [January 2020](https://drive.google.com/file/d/1hMnHYnFKnZ10eZBtm3TQDum3FBo8pxo4/view?usp=sharing){:target='_blank'}
+See meeting minutes for the recordings
 
 ## Historical meetings
 
