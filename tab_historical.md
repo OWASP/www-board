@@ -37,7 +37,7 @@ As part of our recent website migration, we have been migrating old Board conten
 
 See meeting minutes for the recordings
 
-## Historical meetings
+## Historical meetings prior to 2021
 
 ### 2020 
 
