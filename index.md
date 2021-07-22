@@ -24,7 +24,7 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 - [Board Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/global-board){:target='_blank'}
 - [Board Feedback Address - OWASP Members only](mailto:global-board-feedback@owasp.org){:target='_blank'}
 - [Action Tracker](https://github.com/OWASP/www-board/projects/1){:target='_blank'}
-- [Elections](/www-board/elections/){:target='_blank'}
+- [Elections](/www-board/elections/)
 
 ## Current Membership
 

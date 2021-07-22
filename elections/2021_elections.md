@@ -23,30 +23,30 @@ asked questions, please visit:
 
 ### Election Timeline
 
-08-15-2021 - **Call for Candidates**
-08-15-2021 - Submission for Questions from the community for the candidate interviews
-08-22-2021 - Email Reminder for Call for Candidates and Questions from the community for the candidate interviews
-08-29-2021 - Email Reminder for Call for Candidates and Questions from the community for the candidate interviews
-08-31-2020 - Call for Candidates and Questions from the community for the candidate interviews closes
+- 08-15-2021 - **Call for Candidates**
+- 08-15-2021 - Submission for Questions from the community for the candidate interviews
+- 08-22-2021 - Email Reminder for Call for Candidates and Questions from the community for the candidate interviews
+- 08-29-2021 - Email Reminder for Call for Candidates and Questions from the community for the candidate interviews
+- 08-31-2020 - Call for Candidates and Questions from the community for the candidate interviews closes
 
-09-01-2021 - Verification of Candidates
-09-01-2021 - Email Reminder regarding Membership is a required to vote
-09-10-2021 - **Candidates announced via email and social media**
-09-15-2021 - The top (6-7) questions from the community will be selected and shared with candidates
-09-15-2021 - Email Reminder regarding Membership is a required to vote
-09-25-2021 - Email Reminder regarding Membership is a required to vote
-09-25-2021 - Reminder to Candidate to post their videos
-09-30-2021 - Candidates deadline to post their videos
-09-30-2021 - **Paid membership deadline**
+- 09-01-2021 - Verification of Candidates
+- 09-01-2021 - Email Reminder regarding Membership is a required to vote
+- 09-10-2021 - **Candidates announced via email and social media**
+- 09-15-2021 - The top (6-7) questions from the community will be selected and shared with candidates
+- 09-15-2021 - Email Reminder regarding Membership is a required to vote
+- 09-25-2021 - Email Reminder regarding Membership is a required to vote
+- 09-25-2021 - Reminder to Candidate to post their videos
+- 09-30-2021 - Candidates deadline to post their videos
+- 09-30-2021 - **Paid membership deadline**
 
-10-01-2021 - Recordings to be posted on website
-10-01-2021 - Email and social media notifying the community that the recordings are posted
-10-15-2021 - **Voting opens**
-10-22-2021 - Email reminder for voting
-10-28-2021 - Email reminder for voting
-10-30-2021 - **Voting closes**
-10-31-2021 - Results shared with all candidates
-11-01-2021 - **Results shared via email and social media**
+- 10-01-2021 - Recordings to be posted on website
+- 10-01-2021 - Email and social media notifying the community that the recordings are posted
+- 10-15-2021 - **Voting opens**
+- 10-22-2021 - Email reminder for voting
+- 10-28-2021 - Email reminder for voting
+- 10-30-2021 - **Voting closes**
+- 10-31-2021 - Results shared with all candidates
+- 11-01-2021 - **Results shared via email and social media**
 
 ### Board Initial Submissions
 
