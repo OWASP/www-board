@@ -26,7 +26,6 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 * [2016 Board Elections](2016_elections)
 * [2015 Board Elections](2015_elections)
 
-
 #### General Election Timeline
 
 * Notify the current board member(s) whose term is up
