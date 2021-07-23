@@ -50,7 +50,7 @@ asked questions, please visit:
 
 ### Board Initial Submissions
 
-Listed in order of nomination date. Three seats are open for this election.
+Listed in order of nomination date. Four seats are open for this election.
 
 ### Candidates
 
