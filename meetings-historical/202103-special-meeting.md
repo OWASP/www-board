@@ -56,7 +56,7 @@ There are no agenda items for new business.
 
 #### Adjournment motion
 
-The next gneeral Board meeting is on March 23, at 12 pm US Eastern Time.
+The next general Board meeting is on March 23, at 12 pm US Eastern Time.
 - https://owasp.org/www-board/meetings/202103.html
 
 "It is moved, and seconded to adjourn. Those in favor, say "aye""
