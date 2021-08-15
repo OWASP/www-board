@@ -10,7 +10,7 @@ layout: col-generic
 The following individuals' Board Member Seats will expire on December 31, 2021.
 
 - Sherif Mansour
-- Owen Pendlebur
+- Owen Pendlebury
 - Grant Ongers
 - Vandana Verma
 
