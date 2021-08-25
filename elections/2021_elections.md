@@ -21,6 +21,22 @@ asked questions, please visit:
 
 - [OWASP Board Elections](/www-board/elections)
 
+### Call For Candidates
+
+Members who have been in good standing for more than 12 months can stand for the Board. To apply, there are two methods:
+
+1. OWASP Members have been emailed an email with the details of how to apply. Search for the following. The link to apply is within the email:
+
+> ```in:all "Elections - Call for Candidates and Interview Questions Reminder"```
+
+2. Click the "Call for Candidate" link in the [OWASP Member Portal](https://members.owasp.org/).
+
+- [OWASP Member Portal](https://members.owasp.org/)
+
+### Submit questions for the Board
+
+
+
 ### Election Timeline
 
 - 08-15-2021 - **Call for Candidates**
