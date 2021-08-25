@@ -29,13 +29,9 @@ Members who have been in good standing for more than 12 months can stand for the
 
 > ```in:all "Elections - Call for Candidates and Interview Questions Reminder"```
 
-2. Click the "Call for Candidate" link in the [OWASP Member Portal](https://members.owasp.org/).
+2. Click the "Apply for the OWASP Global Board" link in the [OWASP Member Portal](https://members.owasp.org/).
 
 - [OWASP Member Portal](https://members.owasp.org/)
-
-### Submit questions for the Board
-
-
 
 ### Election Timeline
 
