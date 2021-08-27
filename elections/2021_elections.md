@@ -35,9 +35,9 @@ Members who have been in good standing for more than 12 months can stand for the
 
 ### Election Timeline
 
-- 08-15-2021 - **Call for Candidates**
-- 08-15-2021 - Submission for Questions from the community for the candidate interviews
-- 08-22-2021 - Email Reminder for Call for Candidates and Questions from the community for the candidate interviews
+- ~~08-15-2021 - **Call for Candidates**~~
+- ~~08-15-2021 - Submission for Questions from the community for the candidate interviews~~
+- ~~08-22-2021 - Email Reminder for Call for Candidates and Questions from the community for the candidate interviews~~
 - 08-29-2021 - Email Reminder for Call for Candidates and Questions from the community for the candidate interviews
 - 08-31-2020 - Call for Candidates and Questions from the community for the candidate interviews closes
 
