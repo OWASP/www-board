@@ -1,3 +1,18 @@
+- date: 2021-08-24
+  year: 2021
+  attendees:
+    - name: Sherif Mansour
+    - name: Vandana Verma
+    - name: Grant Ongers
+    - name: Bil Corry
+    - name: Owen Pendlebury
+    - name: Joubin Jabbari
+  guests:
+    - name: Andrew van der Stock
+    - name: Tom Pappas
+    - name: Dawn Aitken
+    - name: Harold Blankenship
+    - name: Lisa Jones
 - date: 2021-07-27
   year: 2021
   attendees:
