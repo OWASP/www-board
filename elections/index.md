@@ -37,17 +37,17 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 * Email Reminder Call for Questions from the Community
 * Email Reminder Call For Candidates
 * Email Reminder Call for Questions from the Community
-* Deadline for Call for Candidates Closes 
-* Deadline for Questions from the Community 
+* Deadline for Call for Candidates Closes
+* Deadline for Questions from the Community
 * Verification of candidates
 * Candidates announced via email and social media
-* The 6-7 top questions from the community will be selected & shared with Candidates 
+* The 6-7 top questions from the community will be selected & shared with Candidates
 * Email Reminder Membership Required to Vote
 * Email Reminder Membership Required to Vote
 * Candidates to post their videos
 * Email/Social Media notifying the community the recordings are posted
 * Final Email Reminder Membership Required to Vote
-* Paid Membership Deadline
+* Membership Deadline
 * Voting opens
 * Voting closes
 * Results shared with all candidates
@@ -66,26 +66,27 @@ Additional Responsibilities that the Global Board of Directors must adhere to ca
 <!-- May need to include some representation of this  '''[[OWASP Board History|Board History]]''' -->
 
 #### Eligibility Requirements for Board Candidates
-You need to be an OWASP individual paid in good standing for a twelve (12) month period of time prior to Paid Membership Deadline above.
- 
-Candidates are required to create a wiki page that includes: a bio, current membership status, a brief description of why you feel 
-you are the best candidate, and why you would like to be elected. You will be contacted to schedule a group audio interview. 
-If you are interested in running for a seat on the OWASP Global Board please submit your intention along with the requirements 
-listed above. All submissions will be reviewed and verified by OWASP.  
+
+You need to be an OWASP individual member in good standing for a twelve (12) month period of time prior to the Membership Deadline above. See [Section 3.02 Qualifications](/www-policy/legal/bylaws#section-302-number-tenure-and-qualifications) of the bylaws for more details.
+
+Candidates are required to submit to the OWASP Foundation: a bio, current membership status, a brief description of why you feel you are the best candidate, and why you would like to be elected at the time of submission. After vetting as a formal candidate for the election, the Foundation will create a candidate page for you with these supplied details from the application form. You will be encouraged to record a short video of your answers to the community's questions to be posted prior to mid September. Once recorded, please provide a link to the OWASP Foundation so they can be added to your candidate page.
+
+If elected, successful candidates will need to become a paid member prior to taking their seat on the Board. We recommend obtaining sufficient paid membership, such as two year or Lifetime membership, to cover the entire elected term to avoid issues with good standing. See [Section 4.02 Qualifications](/www-policy/legal/bylaws#section-402-qualifications) of the bylaws for more details.
+If you are interested in running for a seat on the OWASP Global Board please submit your intention along with the requirements listed above. All submissions will be reviewed and verified by OWASP.
 
 #### Who Can Vote?
-OWASP paid Individual Members, paid Corporate Members and Honorary Members registered as of the Paid Membership Deadline will have 
-(1) vote per seat. 
 
-If you are not a member yet, we encourage you to [join](/membership/)
+OWASP Individual Members, Corporate Members, and Honorary Members registered as of the Paid Membership Deadline will have (1) vote per seat.
+
+If you are not a member yet, we encourage you to [join](/membership/) by the deadline, which is usually on or around September 30.
 
 #### How to Vote?
-Eligible voting members will receive an email to their registered email address from owasp@simplyvoting.com with subject 
-"BALLOT FOR OWASP [YEAR] Board Election" 
+
+Eligible voting members will receive an email to their registered email address from owasp@simplyvoting.com with subject
+"BALLOT FOR OWASP [YEAR] Board Election"
 
 This email will include a specific link for you to cast your vote.  Please do ***NOT*** share this link with anyone.  
-It is a specific link ***JUST FOR YOU***! 
+It is a specific link ***JUST FOR YOU***!
 
 Additionally, eligible voting members will also receive an email from the OWASP Foundation notifying them that their ballot has 
 been sent. In the instance that they did not receive a ballot they are asked to [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
-

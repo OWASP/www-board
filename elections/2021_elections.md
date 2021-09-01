@@ -49,7 +49,7 @@ Members who have been in good standing for more than 12 months can stand for the
 - 09-25-2021 - Email Reminder regarding Membership is a required to vote
 - 09-25-2021 - Reminder to Candidate to post their videos
 - 09-30-2021 - Candidates deadline to post their videos
-- 09-30-2021 - **Paid membership deadline**
+- 09-30-2021 - **Membership deadline**
 
 - 10-01-2021 - Recordings to be posted on website
 - 10-01-2021 - Email and social media notifying the community that the recordings are posted
@@ -59,6 +59,11 @@ Members who have been in good standing for more than 12 months can stand for the
 - 10-30-2021 - **Voting closes**
 - 10-31-2021 - Results shared with all candidates
 - 11-01-2021 - **Results shared via email and social media**
+- 12-31-2021 - All Director-elects must be paid members before they can take their seat
+- 01-01-2022 - Any Director-elect who is not a paid member by this date has not qualified to be a Director under our bylaws, and has 7 days grace to obtain paid membership
+- 08-01-2022 - Any Director-elect who still has not obtained paid membership after the grace period, has not qualified to be a Director. The next most voted candidate will take their place
+
+Directors are solely responsible for maintaining good standing as a paid member throughout their term, or a vote of confidence will be held by the Board. This has happened several times in the past. We strongly urge Director-elects to take out sufficient membership to cover their entire term to avoid issues with standing. Adding a two year membership to your current membership or changing to a Lifetime membership is the ideal way to avoid this issue entirely.
 
 ### Board Initial Submissions
 
