@@ -72,6 +72,7 @@ You need to be an OWASP individual member in good standing for a twelve (12) mon
 Candidates are required to submit to the OWASP Foundation: a bio, current membership status, a brief description of why you feel you are the best candidate, and why you would like to be elected at the time of submission. After vetting as a formal candidate for the election, the Foundation will create a candidate page for you with these supplied details from the application form. You will be encouraged to record a short video of your answers to the community's questions to be posted prior to mid September. Once recorded, please provide a link to the OWASP Foundation so they can be added to your candidate page.
 
 If elected, successful candidates will need to become a paid member prior to taking their seat on the Board. We recommend obtaining sufficient paid membership, such as two year or Lifetime membership, to cover the entire elected term to avoid issues with good standing. See [Section 4.02 Qualifications](/www-policy/legal/bylaws#section-402-qualifications) of the bylaws for more details.
+
 If you are interested in running for a seat on the OWASP Global Board please submit your intention along with the requirements listed above. All submissions will be reviewed and verified by OWASP.
 
 #### Who Can Vote?
