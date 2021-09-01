@@ -1,0 +1,311 @@
+---
+
+layout: col-sidebar
+title: August 2021 Board Minutes
+date: 2021-08-24
+
+---
+
+## Meeting Details
+
+- Date: 24 August 2021
+- Time: 12PM US Eastern, UTC 1700 [convert](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2020&month=11&day=24&hour=17&min=0&sec=0&p1=16&p2=919&p3=78&p4=136&p5=137&p6=176&p7=179)
+- Location: Remote
+- Call-in: [Zoom Meeting](https://zoom.us/j/675935446)
+
+## Agenda
+
+### CALL TO ORDER
+
+<!--
+Board Members
+- Sherif Mansour
+- Vandana Verma
+- Grant Ongers
+- Bil Corry
+- Owen Pendlebury
+- Joubin Jabbari
+
+Guests
+- Andrew van der Stock
+- Tom Pappas
+- Dawn Aitken
+- Harold Blankenship
+- Lisa Jones
+
+-->
+
+### CHANGES TO THE AGENDA
+
+### APPROVAL OF MINUTES
+
+- [Previous Meeting Minutes](/www-board/minutes/202107) Sherif Mansour motions, Owen Pendlebury seconds
+
+**Vote**
+- Owen Pendlebury - Yes
+- Joubin Jabbari - Yes
+- Bil Corry - Yes
+- Vandana Verma - Yes
+- Grant Ongers - Yes
+- Sherif Mansour - Yes
+
+**Passed:  6-0**
+
+
+### REPORTS
+
+[Staff reports](#staff-reports), including [Executive Director](#executive-director) and [Finance](#finance) can be found after the agenda.
+
+```
+KPI                 August          Delta
+Members             4686            49.33% YoY growth
+Chapter meetings    75              116.3% of average
+RSVPs               1,507           47.0% of average
+Visitors            4.1m            98.4% of average
+YTD net income      (\$124801)      + \$3,299 compared to July
+Cash assets         1,442,362       + \$262,546 compared to July
+```
+
+![KPI Summary](/www-board/attachments/202108-kpi-summary.PNG)
+
+#### Milestones completed in August
+
+- Draft Expenses policy ready for approval
+- 2020 audited financials delivered for 990
+- Corporate Sponsorship Drive Month 1
+- Preparation and launch the election - announcements, ensuring memberships are accurate, etc
+
+#### Milestones due to be completed by end of August
+
+- Email clean up program due to be completed
+- Business Continuity Plan draft ready for Board review
+- 2020 Annual Report draft for fundraising purposes
+- Preparation for September Lifetime Membership drive
+
+#### Milestones due in September
+
+- Draft Events policy ready for approval
+- Draft Projects policy ready for approval
+- Travel policy drafted and ready for community review
+
+#### Delayed or Stalled Milestones
+
+- Events Committee
+- Mission Statement
+- Bylaws review (postponed to 2022)
+
+#### Finance Summary
+
+- [July Financial Package](/www-board/attachments/202107-finance-package.xlsx)
+
+### e-Votes to read into minutes
+
+#### Motion to offer a corporate membership discount rate
+
+**Background:** The OWASP Foundation wished to offer a discount promotion for Corporate Membership. Membership fees are set by the Board. A vote was held to determine if the discount was permissible.
+
+Discussion: [https://groups.google.com/u/3/a/owasp.org/g/global-board/c/w453Ayx_RFk](https://groups.google.com/u/3/a/owasp.org/g/global-board/c/w453Ayx_RFk)
+
+**Motion**: "Resolved, the OWASP Foundation is permitted to run a time-limited discount for Corporate Membership up until all qualifying conditions are completed, or September 24th at the latest."
+
+- Sponsor: Vandana Verma
+- Second: Grant Ongers
+
+Vote: [https://doodle.com/poll/n9qnywsvcseansxe](https://doodle.com/poll/n9qnywsvcseansxe)
+
+```
+Sherif Mansour:  Nay
+Vandana Verma:   Nay
+Grant Ongers:    Nay
+Bil Corry:       Nay
+Owen Pendlebury: Nay
+Joubin Jabbari:  Nay
+
+Martin Knobloch: No vote
+```
+
+0 Yes/6 Nay. The motion, and its two subsidiary motions, did not pass.
+
+#### Upcoming confidence motion
+
+There is currently occurring confidence motion. The results of this vote will be tabulated just prior to the Board meeting. If Board members have not voted as yet, please look at your owasp.org email and take the time to have your say.
+
+### NEW BUSINESS
+
+#### Motion to approve Expenses Policy
+
+**Background:** The revised Expenses policy is the penultimate part of finance reform started in the 2021 Operating Plan, with only the Travel Policy to come. There have been two sets of Town Halls to discuss with the community at large, and discussions with Project and Event leaders to garner stakeholder buy in. The new Expenses policy is fairly similar to both our previous Expenses policy in terms of permitted expenses, but operates in the same way as the COVID restrictions temporary expenses process. The goal is for expenses to become more petty cash level reimbursements for project, chapter, and budgeted event expenses, with a level of oversight and responsibility placed on the shoulders of those submitting the claims. This should reduce the friction between the community and the Foundation on "acceptable" expenses, whilst protecting the Foundation from many unreasonable expense claims.
+
+- [Draft Expenses Policy](https://owasp.org/www-policy/operational/expense-reimbursement)
+
+**Motion**: "Resolved, the revised Expenses Policy is approved, effective August 24, 2021."
+
+- Sponsor: Grant Ongers
+- Second: Bil Corry
+
+### COMMENTS, ANNOUNCEMENTS, AND OTHER BUSINESS
+
+Between the prep call and presenting this agenda, a couple of items were discussed at the meeting. As the motions are not yet written, and as the Chair wishes Board members to be deeply involved in the motions they champion, I am seeking sponsors and seconds for the following motions for either e-votes or September's meeting, and to work with me on motion wording and then to lead a discussion with the Board for a vote. Unless the Board does not wish to proceed with these potential motions, I don't think they need discussing at this Board meeting, so this business should proceed quickly.
+
+#### Sponsor and second sought for upcoming e-vote for Distinguished Lifetime Members
+
+During the Board officer prep call, it was proposed that we rename "Lifetime Honorary Member" to "Distinguished Lifetime Member", and modify what happens when the Board gives one of these to an existing Lifetime Member. I've prepared a PR for this change to the bylaws. As this motion is not yet crafted, I would like a sponsor and second to work on a motion to adopt the PR as an e-vote in preparation for our 20th Anniversary. This is a bylaw change and will require a 2/3 majority.
+
+- [Distinguished Lifetime Membership PR](https://github.com/OWASP/www-policy/pull/50)
+
+#### Sponsor and second sought to review and present Consent package PR for policy spell check and other fixes
+
+I have prepared a [pull request](https://github.com/OWASP/www-policy/pull/49) to for very minor changes to content, spell and grammar check all our operational policies, conversion to GitHub Flavored Markdown (GFM), and cleaned up Markdown linting errors for more accurate rendering on more devices. The change log is:
+
+Content Changes
+
+- In the Awards and Scholarships policy, replaced a TBA URL with the correct link to the Conflict of Interest policy, which describes the ethical barriers we will re-use, rather than define new policy
+- Added strikeout to the deprecated Community Engagement policy that is no longer in force so folks are not misled by now superseded policy. I would recommend a future update removes all depreciated or superseded policies, placing them in the historical policy folder. This hasn't been done to ensure that the changes are very minor.
+- Fixed the Compliance Committee's contact details to be accurate
+- Removed Bil's name from the Compliance Committee. I would recommend removing Fiona's too, as this is policy and it shouldn't need to be amended when new folks are added or existing folks step down. I didn't take that step to make sure the policy itself doesn't change.
+
+Fixes:
+
+- Spelling mistakes
+- Grammar and punctuation mistakes as identified by Microsoft Word and Grammarly
+
+Markdown linting:
+
+- Migrated all files to GitHub Flavored Markdown
+- Added missing lines
+- Removed excess lines
+- Removed trailing spaces
+- Eliminated double spacing with *extreme* prejudice
+- Hard tabs replaced with the correct number of spaces
+- Fix insufficient and excess heading levels
+
+The changes, although minor throughout, represent many changes in totality. I would like to bring this to a vote in September, and thus I would like to seek a sponsor and second, who should thoroughly review the requested change and introduce it at the next Board meeting as a Consent Package.
+
+- [Policy Fix PR](https://github.com/OWASP/www-policy/pull/49)
+
+As a consent package, per a previous Board vote on implementing consent packages, a simple majority vote should suffice despite this amending many policies. Careful review by the sponsors is recommended.
+
+#### Sponsor and second sought for proposed minor change to bylaws to prioritize adopted Chapter policy
+
+Lisa identified an issue whereby the current bylaws refer to a long deprecated guideline document, as if it is adopted policy. I would like the Board to consider changing the bylaw to point at the approved Chapter policy, which in turns discusses the role of the current (in need of an update) Chapter Handbook as guidance only. This change would remove the old document and also bring the language into line with our current chapter policy of not having a "local chapter board", which is now undefined in the bylaws and chapter policy.
+
+Section 5.02
+
+"*The chapter leader and local chapter board* has to manage the local chapter according to the guidance and rules defined in the *Chapter Leader Handbook*. "
+
+to
+
+"*Local chapter leadership* has to manage the local chapter according to the policies defined in the *Chapter Policy*."
+
+I am seeking a sponsor and second to lead discussion with the Board and see this through. As this is a bylaw change, requiring a 2/3 majority, I would not take this to an e-vote, but put into business for September's meeting.
+
+#### Sponsor and Second sought for election timetable policy change to nearest business day
+
+Dawn brought to my attention that during the prep for this year's election, the initial Call for Candidates, whilst released bang on time on August 15, fell on a Sunday. Not only did Dawn have to spend her Sunday working, this is not an ideal day to make a major announcement that has extensive consequences for the Board itself, and may result in low numbers of potential candidates, or if applied to the vote itself, obtaining membership in time, or voting. I would like to propose a motion in September to change the policy from:
+
+"The timeline will include notices, important dates, and milestones."
+
+to
+
+"*On the nearest business day, t*he timeline will include notices, important dates, and milestones."
+
+There are a set of dates straight after this. This proposal will have the effect of announcing the Call for Candidates on a Monday if August 15 fell on a Sunday, or a Friday if August 15 falls on a Saturday, and so on. This will permit us to promote these deadlines or activities to a much wider audience than if announced on a weekend, and reduce the need for the staff to work on their days off.
+
+- [Election policy](https://owasp.org/www-policy/operational/election)
+
+The next vital date, selecting the voters from our membership list, falls after the next Board meeting, so it is ok for this to be voted on at the September Board meeting. As a change to published policy, this vote will require a 2/3 majority.
+
+### ADJOURNMENT
+
+#### Adjournment motion
+
+The next general Board meeting is on September 28, at 12 pm US Eastern Time.
+
+- [https://owasp.org/www-board/meetings/202109.html](https://owasp.org/www-board/meetings/202109.html)
+
+"It is moved, and seconded to adjourn. Those in favor, say "aye""
+
+Sponsor: Sherif Mansour
+Second: TBA
+
+***
+
+### Staff Reports
+
+#### Executive Director
+
+This month, we have been working on back office operational plan outcomes, such as operationalizing the new corporate membership packages, readying a draft BCP plan, writing the annual report for 2020 for fundraising purposes, readying trademark license agreements, and more. Some of these tasks have not been completed at the time of writing, but should be complete by the end of the month or shortly thereafter.
+
+I have managed to get an account on the SBA website to appeal our EIDL loan application denial. Tom notes that we were given 100% of our PPP loan forgiveness. We will continue to apply for ERC benefits to help offset some of our salary costs.
+
+The election is getting close. Dawn launched the Election campaign on time on her day off. See above for a change to the policy which will be beneficial for both the process itself, as well as ensuring our staff do not have to work on their days off.
+
+Talking of the election, we have been working behind the scenes to address the membership list. We identified a number of members who had the wrong end dates. Harold is working on correcting all of these, and most of them will be already corrected. This issue would not stop people voting, but it may allow some to vote when they are not members. A tool to identify members with these identified issues will be run on the 30th of September to make sure that all eligible voters, and only eligible voters will receive a vote.
+
+Outside of the deliverables outlined above, we are getting ready for our 20th Anniversary Celebrations. We hope to do something every week during September, kicking off with a Lifetime membership drive. I do not propose to run Lifetime membership drives as they are very well priced already, but as it's our 20th Anniversary, I would like to encourage folks to take up Lifetime membership.
+
+At this month's Board Officer prep call, it was discussed that we should rename Honorary Membership to be something with a bit more gravitas. I've outlined a potential bylaw change that executes this. If there is support in the Board, I would appreciate a sponsor and second for an e-vote or to bring it to a vote at September's Board meeting. The next Board meeting is after the 20th Anniversary, so an e-vote may be required.
+
+Lisa made me aware of many spelling errors in the current policies, with the worst ones prior to my time as ED, but still some improvements could be made to nearly all policies. This is unacceptable to me as it should never have occurred. I ran all policies through a spelling and grammar check and improved the quality of the markdown to improve rendering on all devices. I have created a consent package (see above) for September's meeting. I would really appreciate a sponsor and second for that to be brought to the meeting, along with a commitment to review and approve the changes in GitHub. In the future, all policies brought to the Board via the policy review process will be spell and grammar checked prior to voting and approval.
+
+#### Finance
+
+Below is the PRELIMINARY write up for July 2021.
+
+Attached please find the preliminary OWASP Combined (Converted to USD for all reports) financial pkg for July 2021 which represents financial performance through the 7th month of Fiscal year 2021. I have included the 2021 Approved budget which I have spread on a monthly basis.
+
+I have also altered the Board summary to match the categories that the new FY 21 budget highlights.
+
+Income Statement:
+
+> - **Revenue**: On an accrual basis, total revenue, YTD was \$541.6K as compared to the budget of \$435.6K. The results are Better by \$106K, with Conference, Memberships and Donations, being over budget by \$9.6K and \$113.8K and \$32.6K, respectively. While Merchandise, and Trademark income were a combined <\$50K> below budget YTD. On a quarterly basis combined Actual was better than budget by \$42.8K with only Merch and Trademarks under budget.
+> - **Expenses**: Total spending YTD 2021 is \$666.4K which is LESS than they YTD Expense budget of \$693.4K by \$27K with only G&A over Budget by \$36K due to Underbudgeting Benefits/Taxes/Insperity fee, Legal fees, Unbudgeted Professional Development.
+> - **Net Income/Loss**: YTD 2021 Net income, on a combined Accrual basis is Negative \$124.8K which is better than the YTD 2021 APPROVED budget of negative <\$257.8K> by \$133K.
+> - **Chapter Funds**: US balance is \$853.1K , EU Ch balance is \$67.8K. US Proj balance is \$222K. EU Proj balance is \$-9K . All balances are fairly flat from the previous month
+
+**POINTS of NOTE**
+
+On a VERY good note, we have received final confirmation that the PPP loan has been forgiven. This was done in August so I will be reversing the \$112,700 in the August 2021 close as it is no longer a liability for the Foundation.
+
+Continuing the narrative theme from previous months, as of 7.31.21 our cash position was \$1,192K which is UP from 6.30.21 cash balance of \$1,180K. Our avg monthly spend for operations is roughly \$98K including all payroll, which is still roughly about 12 months of reserve, which is very good in the current environment. If we remove AP which totals \$29.9K (which is just under half a month of reserve taking, us to an estimated 11 months of operating reserve, again a good number, if we factor in the \$185K of open AR that takes us back to 12 months. Now the concern is the \$1,130 (flat month over month). On a good note, Deferred revenue, is starting to build up \$25K from last month at \$353K for events later in the year. which is a little over three months of reserve. Through July 2021 we are tracking a bit better than budget and we need to keep working on revenue while keeping costs down, while we are still in this no travel environment.
+
+I have the next board call as Tues August 24th and I will be attending.
+
+#### Chapters and Membership
+
+New members this month: 221
+Total: 4,683
+
+Membership Type:
+
+- One Year 3,000
+- Two Year 1,034
+- Lifetime 608
+- Complimentary 41
+
+Chapters
+
+- Chapter leaders 615
+- Chapters 244
+- New or reactivated chapters in the past 60 days: 9
+
+#### Events and Corporate Support
+
+Kelly provided her report in Google Docs format:
+
+- [Events Report](https://docs.google.com/document/d/1nDQyOGVpea0gqcjxafE4szSvAv80SgRnMp-z4LGA8KE/edit?usp=sharing)
+
+#### Operations
+
+- Global Board of Directors Election kickoff has started
+- Call for Candidates and Candidate Questions is now opened
+
+#### Projects and Technology
+
+- Email deactivation program had some hiccups and had to be paused.
+- Member end date validation process initiated many records corrected. A tool will be prepared to ensure that the September 30 voter list is accurate.
+
+Harold returns on Monday and there might be an update at that time
+
+
+
