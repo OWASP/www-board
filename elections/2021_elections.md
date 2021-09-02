@@ -69,9 +69,29 @@ Directors are solely responsible for maintaining good standing as a paid member 
 
 Listed in order of nomination date. Four seats are open for this election.
 
+- Milind Thombre
+- Vandana Verma Sehgal
+- Grant Ongers
+- Avi Douglen
+- Louis Griffith
+- Teuta Hsene
+- Glenn ten Cate
+- Jon McCoy
+- Diop Baka
+- Tomasz Janczewski
+- Walter Martin Villalba
+- Mike McCamon
+
 ### Candidates
 
-- Announced 10th September 2021
+- Vandana Verma Sehgal
+- Grant Ongers
+- Avi Douglen
+- Louis Griffith
+- Glenn ten Cate
+- Diop Baka
+- Walter Martin Villalba
+- Mike McCamon
 
 ### Board Election Results
 
