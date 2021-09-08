@@ -43,7 +43,7 @@ Members who have been in good standing for more than 12 months can stand for the
 
 - ~~09-01-2021 - Verification of Candidates~~
 - ~~09-01-2021 - Email Reminder regarding Membership is required to vote~~
-- 09-10-2021 - **Candidates announced via email and social media**
+- 09-10-2021 -   ~~**Candidates announced via email~~ and social media**
 - 09-15-2021 - The top (6-7) questions from the community will be selected and shared with candidates
 - 09-15-2021 - Email Reminder regarding Membership is a required to vote
 - 09-25-2021 - Email Reminder regarding Membership is a required to vote
