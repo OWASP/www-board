@@ -21,7 +21,7 @@ Board Members
 - Grant Ongers, Martin Knobloch, Owen Pendlebury, Sherif Mansour, Vandana Verma Sehgal, Joubin Jabbari, Bil Corry
 
 Guests
-Andrew van der Stock, Tom Pappas, Dawn Aitken, Harold Blankenship, Lisa Jones, Alonna Stock, Kelly Santalucia
+Andrew van der Stock, Tom Pappas, Dawn Aitken, Harold Blankenship, Lisa Jones, Kelly Santalucia
 -->
 
 ### CHANGES TO THE AGENDA
@@ -34,8 +34,8 @@ Andrew van der Stock, Tom Pappas, Dawn Aitken, Harold Blankenship, Lisa Jones, A
 
 #### Organizational KPIs
 
-```
-KPI	            MONTH        Delta
+```text
+KPI             MONTH        Delta
 Members         
 Visitors        
 OSD SLA met     
@@ -70,7 +70,7 @@ Background TBA
 
 Vote: TBA once the vote has concluded
 
-```
+```text
 Chair:          TBA
 Vice Chair:     TBA
 Secretary:      TBA
