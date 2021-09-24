@@ -91,7 +91,6 @@ Listed in order of nomination date. Four seats are open for this election.
 - Glenn ten Cate
 - Diop Baka
 - Walter Martin Villalba
-- Mike McCamon
 
 ### Board Election Results
 
