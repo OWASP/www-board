@@ -79,8 +79,8 @@ Listed in order of nomination date. Four seats are open for this election.
 - Jon McCoy
 - Diop Baka
 - Tomasz Janczewski
-- Walter Martin Villalba
-- Mike McCamon
+- Walter Martin Villalba  (withdrew candidancy)
+- Mike McCamon  (withdrew candidancy)
 
 ### Candidates
 
@@ -90,7 +90,6 @@ Listed in order of nomination date. Four seats are open for this election.
 - Louis Griffith
 - Glenn ten Cate
 - Diop Baka
-- Walter Martin Villalba
 
 ### Board Election Results
 
