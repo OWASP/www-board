@@ -89,7 +89,6 @@ Listed in order of nomination date. Four seats are open for this election.
 - Avi Douglen
 - Louis Griffith
 - Glenn ten Cate
-- Diop Baka
 
 ### Board Election Results
 
