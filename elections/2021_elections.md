@@ -86,7 +86,7 @@ Listed in order of nomination date. Four seats are open for this election.
 
 - Vandana Verma Sehgal
 - Grant Ongers
-- Avi Douglen
+- [Avi Douglen](https://owasp.org/www-board-candidates/avi_douglen.html)
 - Louis Griffith
 - Glenn ten Cate
 
