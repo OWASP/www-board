@@ -46,10 +46,10 @@ Members who have been in good standing for more than 12 months can stand for the
 - ~~09-10-2021 - **Candidates announced via email and social media**~~
 - ~~09-15-2021 - The top (6-7) questions from the community will be selected and shared with candidates~~
 - ~~09-15-2021 - Email Reminder regarding Membership is a required to vote~~
-- 09-25-2021 - Email Reminder regarding Membership is a required to vote
+- ~~09-25-2021 - Email Reminder regarding Membership is a required to vote~~
 - ~~09-25-2021 - Reminder to Candidate to post their videos~~
-- 09-30-2021 - Candidates deadline to post their videos
-- 09-30-2021 - **Membership deadline**
+- ~~09-30-2021 - Candidates deadline to post their videos~~
+- ~~09-30-2021 - **Membership deadline**~~
 
 - 10-01-2021 - Recordings to be posted on website
 - 10-01-2021 - Email and social media notifying the community that the recordings are posted
@@ -84,11 +84,11 @@ Listed in order of nomination date. Four seats are open for this election.
 
 ### Candidates
 
-- Vandana Verma Sehgal
-- Grant Ongers
+- [Vandana Verma Sehgal](https://owasp.org/www-board-candidates/vandana_verma_seghal.html)
+- [Grant Ongers](https://owasp.org/www-board-candidates/grant_ongers.html)
 - [Avi Douglen](https://owasp.org/www-board-candidates/avi_douglen.html)
-- Louis Griffith
-- Glenn ten Cate
+- [Louis Griffith](https://owasp.org/www-board-candidates/louis_griffith.html)
+- [Glenn ten Cate](https://owasp.org/www-board-candidates/glenn_ten_cate.html)
 
 ### Board Election Results
 
