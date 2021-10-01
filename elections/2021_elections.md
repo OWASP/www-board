@@ -82,7 +82,7 @@ Listed in order of nomination date. Four seats are open for this election.
 - Walter Martin Villalba  (withdrew candidancy)
 - Mike McCamon  (withdrew candidancy)
 
-### Candidates
+### Candidates Page 
 
 - [Vandana Verma Sehgal](https://owasp.org/www-board-candidates/vandana_verma_seghal.html)
 - [Grant Ongers](https://owasp.org/www-board-candidates/grant_ongers.html)
