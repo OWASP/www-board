@@ -88,7 +88,7 @@ Listed in order of nomination date. Four seats are open for this election.
 - [Glenn ten Cate](https://owasp.org/www-board-candidates/glenn_ten_cate.html)
 - [Grant Ongers](https://owasp.org/www-board-candidates/grant_ongers.html)
 - [Louis Griffith](https://owasp.org/www-board-candidates/louis_griffith.html)
-- [Vandana Verma Sehgal](https://owasp.org/www-board-candidates/vandana_verma_sehgal.html)
+- [Vandana Verma Sehgal](https://owasp.org/www-board-candidates/vandana_verma_seghal.html)
 
 ### Board Election Results
 
