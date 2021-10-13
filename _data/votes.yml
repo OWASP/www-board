@@ -4,11 +4,11 @@
   vote:  "<br>6-0"
 - date:  2021-09-28
   motion:  "Resolved, the OWASP Board grants the following individuals Distinguished Lifetime Membership for outstanding and extensive service to the OWASP Community.  Sherif Mansour motions, Grant Ongers seconds
-   - Mark Curphey, OWASP Founder
-   - Jeff Williams, OWASP Foundation Co-Founder, OWASP Top 10 Founder & Leader for 15 years
-   - Dave Wichers, OWASP Foundation Co-Founder, OWASP Top 10 Founder & Leader for 15 years
-   - Matteo Meucci, OWASP early contributor and Italy Chapter Leader from inception
-   - Fiona Collins, Long time Committee Member"
+            - Mark Curphey, OWASP Founder
+            - Jeff Williams, OWASP Foundation Co-Founder, OWASP Top 10 Founder & Leader for 15 years
+            - Dave Wichers, OWASP Foundation Co-Founder, OWASP Top 10 Founder & Leader for 15 years
+            - Matteo Meucci, OWASP early contributor and Italy Chapter Leader from inception
+            - Fiona Collins, Long time Committee Member"
   result:  "<br>In Favor:  (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
   vote:  "<br>7-0"
 - date:  2021-08-24
@@ -21,7 +21,7 @@
   vote:  "<br>6-0"
 - date:  2021-07-27
   motion:  "Resolved, that the Donations policy be updated to remove the calendar year de-restriction policy, and instead permit directed donations to remain restricted for a 12 month period. Approval of this motion would change https://owasp.org/www-policy/operational/donations from:<br>
-<br>Unspent Restricted donation balances become unrestricted at the end of each calendar year to Unspent Restricted donation balances become unrestricted after twelve (12) months.  Sherif Mansour motions, Grant Ongers seconds"
+            <br>Unspent Restricted donation balances become unrestricted at the end of each calendar year to Unspent Restricted donation balances become unrestricted after twelve (12) months.  Sherif Mansour motions, Grant Ongers seconds"
   result:  "<br>In Favor:  6 (Sherif Mansour, Grant Ongers, Joubin Jabbari, Owen Pendlebury, Bil Corry and Vandana Verma)"
   vote:  "<br>6-0"
 - date:  2021-05-25
@@ -38,12 +38,12 @@
   vote:  "<br>6-0"  
 - date:  2021-04-27
   motion:  "Resolved, that up until the week before the 2022 Board election being called, any member affected any of the following conditions:
-<br>
-- The lack of notification for renewal failing to be sent by the Foundation (for example, as described to the Board during the March public board call);
-- The membership renewal service not being operational during an attempt to renew within 24 hours of expiration, and the member then informed the Foundation of this fact; or
-- A Foundation-side operation issue which recorded a membership as having expired when it had not
-<br>
-be given one week to correct their membership status from the moment the Foundation informs them of their lapse, and for their membership to be considered uninterrupted for the duration for all intents and purposes.  Grant Ongers motions, Joubin Jabbari seconds"
+            <br>
+            - The lack of notification for renewal failing to be sent by the Foundation (for example, as described to the Board during the March public board call);
+            - The membership renewal service not being operational during an attempt to renew within 24 hours of expiration, and the member then informed the Foundation of this fact; or
+            - A Foundation-side operation issue which recorded a membership as having expired when it had not
+            <br>
+            be given one week to correct their membership status from the moment the Foundation informs them of their lapse, and for their membership to be considered uninterrupted for the duration for all intents and purposes.  Grant Ongers motions, Joubin Jabbari seconds"
   result:  "<br>In Favor:  6 (Sherif Mansour, Bil Corry, Grant Ongers, Owen Pendlebury, Martin Knobloch and Joubin Jabbari) Abstain:  1 (Vandana Verma)"
   vote:  "<br>6-0"
 - date:  2021-04-27
@@ -80,15 +80,15 @@ be given one week to correct their membership status from the moment the Foundat
   vote:  "<br>7-0"
 - date:  2021-02-23
   motion:  "Resolved, the updated limits in the Signing Authority policy are approved, and shall take effect February 23, 2021. Grant Ongers motions, Vandana Verma seconds
-  <br> Budgeted or Discretionary per transaction (or related transactions), grant making, awards and scholarships, expense approvals, legally binding contractual arrangements, and purchasing assets:
-    <p>$0 - $10,000 Executive Director can sign and approve without second approver
-    <p>$10,000 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
-    <p>$250,000 or more requires an affirmative Board vote
-    <p>Signing authority:
-    <p>
-    <p>Transferring funds between and managing OWASP bank accounts and other financial accounts $ 250,000
-    <p>Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $ 500,000
-    <p>The intent is that any unplanned discretionary approvals still remains within 10% of the quarterly plan, so if we have a quarterly plan of $250k, the ED will continue to have a discretionary power to spend up to $25k per quarter before requiring Board approval to continue with unplanned expenses. We have used that recently for legal fees."
+            <br> Budgeted or Discretionary per transaction (or related transactions), grant making, awards and scholarships, expense approvals, legally binding contractual arrangements, and purchasing assets:
+            <p>$0 - $10,000 Executive Director can sign and approve without second approver
+            <p>$10,000 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
+            <p>$250,000 or more requires an affirmative Board vote
+            <p>Signing authority:
+            <p>
+            <p>Transferring funds between and managing OWASP bank accounts and other financial accounts $ 250,000
+            <p>Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $ 500,000
+            <p>The intent is that any unplanned discretionary approvals still remains within 10% of the quarterly plan, so if we have a quarterly plan of $250k, the ED will continue to have a discretionary power to spend up to $25k per quarter before requiring Board approval to continue with unplanned expenses. We have used that recently for legal fees."
   result:  "<br>In Favor:  7 (Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Grant Ongers, Bil Corry, Vandana Verma and Sherif Mansour)"
   vote:  "<br>7-0"
 - date:  2021-02-23
