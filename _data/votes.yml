@@ -12,15 +12,15 @@
   vote:  "<br>7-0"
 - date:  2021-09-28
   motion:  "Resolved, that the Board by a two-thirds majority approves a change to the bylaws to adopt the approved Chapter policy for guidance for Chapter leadership, and to bring chapter leadership naming in line with current OWASP policy and practices.  Vandana Verma motions, Joubin Jabbari seconds
-  "<br>[Pull Request](https://github.com/OWASP/www-policy/pull/52)"
-"<br>Change Section 5.02 from*
-"<br>The chapter leader and local chapter board has to manage the local chapter according to the guidance and rules defined in the Chapter Leader Handbook *to* Local chapter leadership has to manage the local chapter according to the policies defined in the latest approved Chapter Policy.”
+           <br>[Pull Request](https://github.com/OWASP/www-policy/pull/52)
+           <br>Change Section 5.02 from*
+           <br>The chapter leader and local chapter board has to manage the local chapter according to the guidance and rules defined in the Chapter Leader Handbook *to* Local chapter leadership has to manage the local chapter according to the policies defined in the latest approved Chapter Policy.”
   result:  "<br>In Favor:  7 (Joubin Jabbari, Vandana Verma, Grant Ongers, Martin Knobloch, Bil Corry, Owen Pendlebury and Sherif Mansouri)"  
   vote:  "<br>7-0"
 - date:  2021-09-28
-  motion:  "Resolved, the Board adopts the following change to the election policy to adjust dates that fall on a weekend to be the nearest business day."
-"<br>[Pull Request](https://github.com/OWASP/www-policy/pull/53)"
-"<br> *Change*  The timeline will include notices, important dates, and milestones *to* On the nearest business day, the timeline will include notices, important dates, and milestones to be gazetted on the OWASP website prior to the election process starting each year.”
+  motion:  "Resolved, the Board adopts the following change to the election policy to adjust dates that fall on a weekend to be the nearest business day.
+            <br>[Pull Request](https://github.com/OWASP/www-policy/pull/53)
+            <br> *Change*  The timeline will include notices, important dates, and milestones *to* On the nearest business day, the timeline will include notices, important dates, and milestones to be gazetted on the OWASP website prior to the election process starting each year.”
   result:  "<br>In Favor:  7 (Joubin Jabbari, Grant Ongers, Martin Knobloch, Owen Pendlebury, Bil Corry, Sherif Mansour and Vandana Verma)"
   vote:  "<br>7-0" 
 - date:  2021-09-28
