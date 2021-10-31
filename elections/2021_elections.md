@@ -53,11 +53,11 @@ Members who have been in good standing for more than 12 months can stand for the
 
 - ~~10-01-2021 - Recordings to be posted on website~~
 - ~~10-01-2021 - Email and social media notifying the community that the recordings are posted~~
-- 10-15-2021 - **Voting opens**
-- 10-22-2021 - Email reminder for voting
-- 10-28-2021 - Email reminder for voting
-- 10-30-2021 - **Voting closes**
-- 10-31-2021 - Results shared with all candidates
+- ~~10-15-2021 - **Voting opens**~~
+- ~~10-22-2021 - Email reminder for voting~~
+- ~~10-28-2021 - Email reminder for voting~~
+- ~~10-30-2021 - **Voting closes**~~
+- ~~10-31-2021 - Results shared with all candidates~~
 - 11-01-2021 - **Results shared via email and social media**
 - 12-31-2021 - All Director-elects must be paid members before they can take their seat
 - 01-01-2022 - Any Director-elect who is not a paid member by this date has not qualified to be a Director under our bylaws, and has 7 days grace to obtain paid membership
