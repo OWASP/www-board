@@ -6,10 +6,12 @@ layout: col-generic
 ---
 
 <style>
-  table, td, row, col {
+  table th, table td, table tr {
+    padding: 15 px;
     border: none;
-  }
+}
 </style>
+
 ### Board Member Seats
 
 The following individuals' Board Member Seats will expire on December 31, 2021.
