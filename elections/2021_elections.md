@@ -99,10 +99,8 @@ Listed in order of nomination date. Four seats are open for this election.
 
 ### Board Election Results
 
-**Votes**
-
 | **Name**               | **Votes**    |
-| --------------------   | -----------: |
+| :--------------------   | :----------- |
 | Vandana Verma Sehgal   | 760 (25.4%)  |
 | Grant Ongers           | 682 (22.7%)  |
 | Avi Douglen            | 585 (19.5%)  |
