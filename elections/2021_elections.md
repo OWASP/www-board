@@ -92,8 +92,23 @@ Listed in order of nomination date. Four seats are open for this election.
 
 ### Board Election Results
 
-- 
+- Option
+Votes
+Vandana Verma Sehgal                760 (25.4%)
+Grant Ongers                        682 (22.7%)
+Avi Douglen                         585 (19.5%)
+Glenn ten Cate                      583 (19.4%)
+Louis Griffith                      388 (12.9%)
+
+VOTER SUMMARY
+Total                               1019
+Abstain                             9 (0.9%)
+
 
 ### Confirmed Nominations (4 seats) - their term will start on January 1, 2022
 
-- Announced 1st November 2021
+- Vandana Verma Sehgal
+- Grant Ongers
+- Avi Douglen
+- Glenn ten Cate
+
