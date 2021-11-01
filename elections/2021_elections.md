@@ -94,7 +94,7 @@ Listed in order of nomination date. Four seats are open for this election.
 
 **Votes**
 
-Name                     Votes 
+| Name                   | Votes        |
 | --------------------   | -----------: |
 | Vandana Verma Sehgal   | 760 (25.4%)  |
 | Grant Ongers           | 682 (22.7%)  |
