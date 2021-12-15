@@ -1,0 +1,214 @@
+---
+
+layout: col-sidebar
+title: November 2021 Global Board of Directors Meeting Minutes
+date: 2021-11-23
+
+---
+
+## Meeting Details
+
+- Date: 23 November 2021
+- Time: 12PM US Eastern, UTC 1700 [convert](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2020&month=11&day=24&hour=17&min=0&sec=0&p1=16&p2=919&p3=78&p4=136&p5=137&p6=176&p7=179)
+- Location: Remote
+- Call-in: [Zoom Meeting](https://us06web.zoom.us/j/89069321672?pwd=M212NUhmV1RwY05mVlZDNCtpOEFuQT09)
+
+## Agenda
+
+### CALL TO ORDER
+
+<!--
+Board Members
+- Grant Ongers, Martin Knobloch, Owen Pendlebury, Sherif Mansour, Vandana Verma Sehgal, Joubin Jabbari, Bil Corry
+
+Guests
+Andrew van der Stock, Tom Pappas, Dawn Aitken, Harold Blankenship, Lisa Jones, Kelly Santalucia
+-->
+
+### CHANGES TO THE AGENDA
+
+### APPROVAL OF MINUTES
+
+- [Previous Meeting Minutes](/www-board/minutes/202110)
+
+### REPORTS
+
+[Staff reports](#staff-reports), including [Executive Director](#executive-director-report) and [Finance](#finance) can be found after the agenda.
+
+#### Organizational KPIs
+
+- [OWASP Board Oversight Reporting](https://docs.google.com/presentation/d/1nhaaln4Aa1UgJC_Akb6xs_dTpT4WV_VZfeZNHQo8hHM/edit?usp=sharing)
+
+#### Finance Summary
+
+- [October Financial Package](/www-board/attachments/202110-finance-package.xlsx)
+
+### e-Votes to read into minutes
+
+#### Motion to approve Foundation credit cards
+
+**Background:** Currently, the OWASP Foundation has two credit cards under the personal guarantee of Andrew van der Stock. As a result, when large balances exist between months, his personal credit score is negatively impacted. As travel and other expenses are starting to ramp back up, a business credit card solution that is guaranteed by the Foundation is required, including expense receipt management. This e-vote permits the Foundation to obtain \$30k of credit to be used amongst staff for approved travel and business expenses.
+
+**Motion**: "Resolved, the OWASP Foundation Executive Director and CFO are authorized to establish Foundation secured corporate credit cards for staff expenses and travel, with a total limit of \$30k USD, replacing the personal guarantee Amex credit cards in use by the ED and one staff member today."
+
+- Sponsor: Grant Ongers
+- Second: Sherif Mansour
+
+Vote: [Doodle Poll](https://doodle.com/poll/xxayc36yir98wgzb)
+
+```
+Sherif Mansour:     Yes
+Vandana Verma:      Yes
+Bil Corry:          Yes
+Grant Ongers:       Yes
+Martin Knobloch:    Yes
+Joubin Jabbari:     Yes
+Owen Pendlebury:    No vote
+```
+
+Resolution passes 6 YES, 1 No vote.
+
+### NEW BUSINESS
+
+#### Motion to approve a new OWASP Foundation mission
+
+**Background:** The OWASP Foundation has not had a Board approved new mission since its inception. The current version used on IRS and EU tax forms, as well as used by charity rating firms does not reflect the majority of the Foundation's current income, fundraising, and program spending. Additionally, a weak mission does not permit the Foundation or Board to lens activities through the mission, to determine what is a priority or what it should not do. For example, the Foundation should not be in the business of fundraising for animal shelters. Therefore, earlier this year, Grant Ongers took on the mission of drafting a new mission statement. The mission statement has been through extensive rounds of community review. 
+
+- [Draft mission statement](https://docs.google.com/document/d/13uTO6LdXq5W7HADiA0P4QPQevyO0hzthf5KtvnFbt4s/edit)
+
+**Motion**: "Resolved, the OWASP Foundation's new mission, as linked in the motion background, is approved, effective Novemeber 23, 2021."
+
+- Sponsor: Grant Ongers
+- Second: Bil Corry
+
+#### Motion to remove six month leadership requirement for complimentary membership
+
+As complimentary membership is taken up by less than 70 individuals out of nearly 5300 (< 1.1%), the Foundation wishes to avoid investing any time or resources into complimentary membership, as it represents negative investment in our mission. The policy clause is currently unenforced, and would cost considerably more to create code to enforce it than the Foundation would ever receive in income. The Foundation has consulted with the Policy Review Team and has received advice that this policy change does not need to go through the Policy Review process, as it's a small change.
+
+**Motion**: "Resolved, the six month waiting period for complimentary membership is rescinded from all applicable policies. Additionally, any misspellings of "complimentary" will be fixed."
+
+Change bylaws from
+
+"Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership."
+
+to:
+
+"Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position ~~continuously for six months~~ prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership."
+
+Change Membership policy from:
+
+"Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics and has been in the top 5 position continuously for six months prior to applying for complimentary membership."
+
+to:
+
+"Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics and has been in the top 5 position ~~continuously for six months~~ prior to applying for complimentary membership."
+
+Sponsor: Grant Ongers
+Second: Bil Corry
+
+### COMMENTS, ANNOUNCEMENTS, AND OTHER BUSINESS
+
+#### Discussion for executive session in early January
+
+Each year, the incoming Board meets to decide officers of the Board. This item is a short discussion to identify some dates after January 3 and before the January 2022 Board executive session for the Board to meet.
+
+### ADJOURNMENT
+
+#### Adjournment motion
+
+The next general Board meeting is on December 21, at 12 pm US Eastern Time.
+
+- [December 21, 2021 Board Meeting](https://owasp.org/www-board/meetings/202112.html)
+
+"It is moved, and seconded to adjourn. Those in favor, say "aye""
+
+Sponsor: Sherif Mansour
+Second: TBA
+
+***
+
+### Staff Reports
+
+#### Executive Director
+
+The 2022 Budget process has started. I am meeting with each of the 2022 Board members to obtain their priorities to make sure that we have captured any desired programs that may incur costs or income. A key part of this process is a far greater focus on fundraising. Fundraising is critical to every non-profit Board, and it's not just referring corporate members, but actually planning and undertaking fundraising.
+
+Talking of fundraising, we have slowly reclaimed our Amazon Smile and other charity accounts, like Facebook and so on. I have been adding the 20th Anniversary Fundraiser to the 20th Anniversary videos that are going up. So far, these efforts have brought in only a small amount of funds. During the Board's initial 2022 strategy day, we need to think about how we can fundraise the next \$250k to \$1m, not the next \$1k. Everything helps, but some things help more than others. We will be promoting these fundraisers in our monthly membership benefits email to all members.
+
+Many firms are now approaching us for partnerships for member benefits. These have been tremendously successful in driving up our overall membership numbers, as well as the take up seen by our partners. Our members definitely like and value these partnerships. But it should not be a free for all.
+
+I believe that we will need to publicly publish our current guidelines to achieve vendor neutrality. Right now, we don't require partners to be corporate members, and yet if this pace continues, we should consider a discussion between stakeholders and the Board on defining a partnership policy.
+
+My current partnership settings are:
+
+- of benefit and relevance to OWASP members
+- no cost to OWASP members for at least an initial trial version
+- provide some benefit and low costs to the partner, such as ensuring that the offer uses Google SSO so that the offer cannot be used or redeemed by non-OWASP members
+- partners do not need to be corporate members, but it would be nice as this is a great way to get in front of the OWASP membership with less costs in some cases than being a corporate member
+- not a benefit that would hurt OWASP Foundation income elsewhere (i.e. training that would normally raise funds for OWASP and the trainer)
+
+We have tried and so far succeeded at ensuring that none of the benefits are the same thing, but to allow vendor neutrality and equality of access to our members under the same rules, we must permit this sooner or later. I would not recommend this be made into a permanent policy or inflexible guidelines.
+
+The Marketing Plan has moved forward. I've had several meetings with Matt Landry and Jim Cudahy, and the plan is to conduct a survey of members, the Board, and non-members to work out a priority plan that is strategically aligned. Preliminary results will be presented at December's board meeting, with the final report will be presented to the Board Meeting in January 2022.
+
+I've sent through a discussion on the OWASP Global Board mail list regarding a trial of StreamYards. A number of chapters have been using it with good success, so it is important to think about how to provide these services to all chapters rather than a select few. We will be running a trial. This would normally be an operational matter, and as it's unbudgeted and quite close to my signing limit, and likely to continue at least for a few years, I seek Board feedback before signing the first contract, which will provide 10 shared seats of StreamYard's Business Plan for 12 months.
+
+November saw us run our AppSec Global Virtual in the US time zone and run a training event in the Australian Western Standard Timezone. We are close to our budget figures for AppSec Global through no small part of all the efforts of the Events team and everyone who helped them put the events on. I thank Kelly and Lauren, who have worked so very hard at putting these events on. I don't want us to fall back into being an events company, but I deeply thank our community, the speakers, our trainers, and of course our event sponsors for supporting us by attending or sponsoring these events.
+
+#### Finance
+
+Below is the PRELIMINARY write up for Oct 2021. 
+
+Attached please find the preliminary OWASP Combined (Converted to USD for all reports) financial pkg for Oct 2021 which represents financial performance through the 8th month of Fiscal year 2021. I have included the 2021 Approved budget which I have spread on a monthly basis.
+
+I have also altered the Board summary to match the categories that the new FY 21 budget highlights.
+
+Income Statement:
+
+- **Revenue**: On an accrual basis, total revenue, YTD was \$922.4K (an increase of \$101.4K)  as compared to the budget of \$803.8K. The results are Better by \$118.7K, with Conference, Memberships and Donations, being over budget by \$106.9K and \$47.8K and \$31.8K, respectively. While Merchandise, and  Trademark income were a combined <\$67.9K> below budget YTD. On a quarterly basis combined Revenue Actual was Lower than budget by \$125.3K due to the 20th anniversary revenue as the event was in Sept but budgeted for Oct. 
+
+- **Expenses**: Total spending YTD 2021 is \$845.5K which is LESS than they YTD Expense budget of \$1,034.9K by \$189.4K  with only G&A over Budget by  \$27.4K due to Underbudgeting Benefits/Taxes/Insperity fee, Legal fees, Unbudgeted Professional Development. However this has been mitigated with the PPP forgiveness of \$112.7K and all other expenses being \$190.1K lower than budget.
+
+- **Net Income/Loss**: YTD 2021 Net income, on a combined Accrual basis is now a POSITIVE \$76.9K compared to the Negative \$231.2K, as of Oct 2021 and which is Better than the YTD 2021 APPROVED budget by \$308.1K, which give us a cushion to finish out 2021 with a “POSITIVE” Net income . 
+
+- **Project Funds**: US bal is \$231.4K , EU bal is \$-13.7K. 
+
+POINTS of NOTE:
+
+With regard to the 2021 Global AppSec US we have \$282.4K of deferred sponsorship Revenue and Deferred Registration of \$29.5K as of 11.18.21 for a total of \$311.9K vs a total revenue budget of \$350K so we need about \$38.1K more in Revenue. On the Expense side the Budget is \$75K and it is not expected to exceed that but rather come in a bit lower than that ( \$29.9K of Prepaid as of 11.18.21).
+
+With regard to cash reserves as of 10.31.21 our cash position was \$1,328.6K which is UP  from 9.30.21 cash bal of \$1,296.7K, by \$31.9K. Our avg monthly spend for operations is roughly \$98K including all payroll, which is still roughly about 13.2 months of reserve, which is very good in the current environment. If we remove AP which totals \$21.6K (which is about a third of a month of reserve taking, us to an estimated 13 months of Oper. reserve, again a good number, if we factor in the \$257.3K of open AR that takes us to over 15 months. If we also factor in the \$220K of Projects that is roughly 2 months of Operating reserves leaving at the end of Oct 2021 with 13 months of Operating reserve, or a bit better than previous months  On a better note, Through Oct 2021 we are tracking quite a bit  better than budgeted Net income by \$308.1K, which gives us a VERY good chance to not only achieve our year end net income goal of \$-99K but to actually show a POSITIVE net income for 2021. we need to keep working on revenue while keeping costs down, while we are still in this no travel environment.
+
+I have the next board call as Tues Nov 23rd and I will be attending
+
+#### Chapters and Membership
+
+The retooling of JIRA tickets for Membership and Chapters Support has been completed. This will make for an easier, simple, and better customer experience for submitting service ticket requests. The titles and information requested in each ticket are relevant and not just event-focused. The added feature of retooling is it creates quantitative metrics or KPI for analysis.
+
+#### Events and Corporate Support
+
+[Events Report](https://docs.google.com/document/d/1OiVEApirt7Lrn4FdJvSaq9a_wUNOJwyZjhbkgR9zEbs/edit?usp=sharing)
+
+#### Operations
+
+- 2021 Global Board of Directors elections results were posted
+- Updated Board induction materials, books, and agreements
+- Sent commitment agreement to elected candidates
+
+#### Projects and Technology
+
+- [Automated project status](https://owasp.org/projects/status/)
+  - 237 Projects
+  - 8 New projects in the last 60 days
+  - Project committee working on Vendor Neutrality Best Practices
+
+The following projects were promoted to Lab in October:
+
+- Threat Dragon
+- SamuraiWTF
+- pytm
+
+Technology:
+
+- Email for expired members/leaders cleanup testing on-going with final testing report due by 11/30
+- StreamYard use for leaders to help with virtual streaming of meetings/content pending approval of $8000 for limited rollout and year long trial
