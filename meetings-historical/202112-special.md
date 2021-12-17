@@ -28,6 +28,9 @@ Decision sought: I see two potential decisions: one on postponement, or if no po
 
 No vote or decision means we will need to pay the deposit for Dublin in early January and move forward with our existing plans, which may lead to a significant and material loss.
 
+[Meeting Slides](https://docs.google.com/presentation/d/1FDwGeAbUTKbNKxLrtIRQpPXm3itjLQr-ysrwAxPBE30/edit?usp=sharing)
+
+
 
 ```
 COMMENTS, ANNOUNCEMENTS, AND OTHER BUSINESS
