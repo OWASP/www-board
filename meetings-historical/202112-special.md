@@ -14,12 +14,19 @@ date: 2021-12-14
 
 ## Special Meeting Agenda
 
+In light of omicron, travel bans, quarantine periods, projected crowd sizes, unease with attending in person events by sponsors, and a rapidly upcoming installment payment for 94,000 euro on January 5, 2022, we will need to make a call at this special Board meeting on the best way forward for Globasl AppSec Dublin.
 
-## CHANGES TO THE AGENDA
+As running a deeply unprofitable event may impact our ability to trade as an ongoing concern, it is important to ensure that we weigh the pros and cons, consider the risks, and make a well informed decision. The differences in price are stark and well above my $10k signing authority.
+
+The Events team will brief the Board on modeling and budgets of various alternatives, assuming 1/4 attendance (e.g. Defcon 2021), 200 (Owen's projection), and various sizes or options including hybrid as to what is profitable. 
+- Present modelling of various scenarios, with budgets for each, risks, tradeoffs of alternatives including in person only, hybrid, virtual only, and risks and costs of postponing to 2023
 
 
-## OUT-OF-CYCLE MOTIONS 
+- Board to discuss a motion relating to 2022 viability for AppSec Global Dublin with an alternative or to push it to 2023
 
+Decision sought: I see two potential decisions: one on postponement, or if no postponement, a second vote on approving a model and budget for a 2022 Dublin event based upon the information presented at this session. Motions will need to be drafted at the meeting.
+
+No vote or decision means we will need to pay the deposit for Dublin in early January and move forward with our existing plans, which may lead to a significant and material loss.
 
 
 ```
