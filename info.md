@@ -9,4 +9,3 @@ The OWASP Global Board typically meets over video-conference on the third Tuesda
  {% endif %}
 {% endfor %}
 </ul>
-

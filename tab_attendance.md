@@ -4,7 +4,7 @@ title: Attendance
 displaytext: Director Attendance
 layout:  null
 tab: true
-order: 3
+order: 4
 tags: board
 
 ---
