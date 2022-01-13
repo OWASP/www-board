@@ -27,11 +27,11 @@ The following reflects the board attendance to meetings as a percentage of regul
 {% endfor %}
 {% endfor %}
 {% if mtg_count == 0 %}
-    {% assign mtg_percent = 0 %}
+- {{ director.name }} - No public meetings held as yet
 {% else %}
     {% assign mtg_percent = count | divided_by: mtg_count | times: 100 %}
+- {{ director.name }} ({{mtg_percent | round: 2}}%)
 {% endif %}
-- {{ director.name }} ( {{mtg_percent | round: 2}}%)
 {% endfor %}
 
 
