@@ -14,7 +14,12 @@ The following reflects the board attendance to meetings as a percentage of regul
 {% assign year = site.time | date: "%Y" %}
 {% assign yearly_meetings = site.data.attendance | where: 'year', year %}
 {% assign mtg_count = yearly_meetings.size %}
+
+{% if mtg_count == 0 %}
+### By Director (no meetings held yet in {{year}})
+{% else %}
 ### By Director (over the previous {{mtg_count}} meetings in calendar year {{year}})
+{% endif %}
 {% assign mtg_count = mtg_count | times: 1.0 %}
 {% assign directors = site.data.members | sort: 'rank' %}
 {% for director in directors %}
@@ -27,7 +32,7 @@ The following reflects the board attendance to meetings as a percentage of regul
 {% endfor %}
 {% endfor %}
 {% if mtg_count == 0 %}
-- {{ director.name }} - No public meetings held as yet
+- {{ director.name }} - No public meetings held
 {% else %}
     {% assign mtg_percent = count | divided_by: mtg_count | times: 100 %}
 - {{ director.name }} ({{mtg_percent | round: 2}}%)
