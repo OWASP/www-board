@@ -23,11 +23,15 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 
 ## Board of Directors
 
-The OWASP Foundation Global Board is comprised of seven elected members who serve for two-year terms. Each Fall, membership votes to elect new leadership for the Foundation. Generally our Board meets monthly and meetings are open to the public. The Global Board sets the strategic direction of the Foundation, its policies, and sets governance and leadership roles.
+The OWASP Foundation Global Board is comprised of seven elected members who serve for two-year terms. The Call for Global Board nominations occurs in June through August each year, after which OWASP members vote to elect vacancies from qualified nominees during October. Generally our Board meets monthly and meetings are open to the public.
+
+<p class="callout-mono right">Board members are the fiduciaries who steer the organization towards a sustainable future by adopting sound, ethical, and legal governance and financial management policies, as well as by making sure the nonprofit has adequate resources to advance its mission.</p>
+
+(Quoted from National Council of Nonprofits [Board Roles and Responsibilities](https://www.councilofnonprofits.org/tools-resources/board-roles-and-responsibilities))
 
 <section id="board" class="corporate">
 <div>	
- {% for member in site.data.board %}
+ {% for member in site.data.members %}
     <div class="member-container">
         <div class="member-img-container">	
             <div class="member-img" style="background-image: url(/assets/images{{ member.image }});"></div>
