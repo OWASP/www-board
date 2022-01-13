@@ -4,7 +4,7 @@ title: Resources
 displaytext: Board Resources
 layout:  null
 tab: true
-order: 3
+order: 5
 tags: board
 
 ---
