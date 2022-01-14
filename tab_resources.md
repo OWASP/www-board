@@ -16,7 +16,25 @@ tags: board
 - [Action Tracker](https://github.com/OWASP/www-board/projects/1){:target='_blank'}
 - [Elections](/www-board/elections/)
 
-## Onboarding for new Board Members
+### Board functions
+
+- Vision, Values, and Mission. OWASP has a new mission for the first time in 20 years. A strong and clear mission statement provides a lens for the Foundation to prioritize, or do less of, or not do at all.
+- Strategic direction. Each Board should set their goals, priorities, and strategic direction in a special general meeting early in the year
+- Fiduciary duty. Directors are accountable for Board decisions and Foundation actions
+- Financial oversight. The budget is set between September and November each year, and must be approved in the first general meeting of the year to permit spending on programs above the Executive Director's signing authority. If you want to get something done that will cost funds or better bring money to the Foundation, it needs to be in each upcoming budget, or it won't happen.
+- Fundraising. Every non-profit needs to fundraise. The Board must focus on bringing in funds, corporate members, sponsors, and donations.
+
+The Board delegates operational aspects to the Foundation. Please work through the Executive Director when directing the Foundation, so that staff don't end up with 7 bosses.
+
+The Board has delegated some of its powers to various committees. The Committees are governed by the Committees policy, and advise the Board, and have some decision making power relating to their charter. Committees are asked to provide a budget and objectives each year. The Board must approve the budget, and can scale back or increase funding. The Committee can spend budgeted money, but is not authorized to spend unbudgeted funds. Each committee has its own charter, published on the main website. This doesn't mean the Board can't make decisions in these areas, but should consult with the Committee prior to any motion, consider their advice, and ensure there is general support for a motion within the charter area.
+
+### Running for election
+
+If you are passionate about OWASP, being a Director of a non-profit is an awesome experience, but it can also be exhausting. If you have limited time, being a Director may not be for you. Board officers have more duties, and Board members at large are strongly encouraged to be a Board champion for a mission goal, such as Projects, Chapters, Members, Events, Outreach, or fundraising.
+
+If you want to run for election, you must have 12 months continuous membership in good standing, and nominate yourself when the call for candidates comes out. More details are maintained in the [elections page](https://owasp.org/www-board/elections/), including results.
+
+### Onboarding for new Board Members
 
 In the week after a new Board member has been elected, the OWASP Foundation will work with you to get your address to ensure everyone has received the Board induction books and Board Source either electronically or physically. There's a great Board training series on Board Source, which we need you to complete. Dawn will send you the instructions on how to sign up for it.
 
@@ -34,12 +52,12 @@ Directors can either be reimbursed for the purchase of the books (particularly u
 
 ### Completing Director qualifications
 
-- [ ] If you are not a financial member, Directors must become a financial member by the time they join the Board on January 1. The best way to do avoid any issues with standing and lapsed membership is to become a Lifetime member, followed by taking out sufficient sequential one or two year memberships to cover their entire term, or to use the ability to automatically renew membership.
-- [ ] New Board members must complete their induction reading and Board Source training before they sign the [Directors Commitment Agreement](https://owasp.org/www-policy/legal/directors-committment-agreement) to fully understand the role of the Board, and their fidiciary duty to the OWASP Foundation.
-- [ ] Directors who do not sign the [Director's Commitment Agreement](https://owasp.org/www-policy/legal/directors-committment-agreement) are not covered by OWASP's Director's and Officers (D&O) insurance, and may not sit or vote on the Board to prevent indemnity issues.
-- [ ] Each year, the Foundation must obtain an updated [Conflict of Interest](https://owasp.org/www-policy/operational/conflict-of-interest) questionnaire from each Board member. Directors can update this form at any time during their term. If a Director has a conflict of interest, they must [declare this interest to their fellow Board members, and recuse themselves](https://owasp.org/www-policy/legal/bylaws#section-702-disclosure-required) from discussion and voting. Bylaws have precedence over policy if there's any confusion.
+- If you are not a financial member, Directors must become a financial member by the time they join the Board on January 1. The best way to do avoid any issues with standing and lapsed membership is to become a Lifetime member, followed by taking out sufficient sequential one or two year memberships to cover their entire term, or to use the ability to automatically renew membership.
+- New Board members must complete their induction reading and Board Source training before they sign the [Directors Commitment Agreement](https://owasp.org/www-policy/legal/directors-committment-agreement) to fully understand the role of the Board, and their fidiciary duty to the OWASP Foundation.
+- Directors who do not sign the [Director's Commitment Agreement](https://owasp.org/www-policy/legal/directors-committment-agreement) are not covered by OWASP's Director's and Officers (D&O) insurance, and may not sit or vote on the Board to prevent indemnity issues.
+- Each year, the Foundation must obtain an updated [Conflict of Interest](https://owasp.org/www-policy/operational/conflict-of-interest) questionnaire from each Board member. Directors can update this form at any time during their term. If a Director has a conflict of interest, they must [declare this interest to their fellow Board members, and recuse themselves](https://owasp.org/www-policy/legal/bylaws#section-702-disclosure-required) from discussion and voting. Bylaws have precedence over policy if there's any confusion.
 
-If a Director fails to meet the qualifications set out in the bylaws, the Foundation will inform the pro tem Chair, incoming Chair, or incoming Board as a whole. The Board may decide to vote to declare the position unfilled through disqualification, and then fill the Director's seat per the [bylaw's vacancy process](https://owasp.org/www-policy/legal/bylaws#section-205-vacancies).
+If a Director fails to meet the qualifications set out in the bylaws, the Foundation will inform the *pro tem* Chair, incoming Chair, or incoming Board as a whole. The Board may decide to vote to declare the position unfilled through disqualification, and then fill the Director's seat per the [bylaw's vacancy process](https://owasp.org/www-policy/legal/bylaws#section-205-vacancies).
 
 ### Getting ready to be on the Board
 
@@ -51,18 +69,6 @@ Directors who can hit the ground running from the first meeting onwards are a tr
 - The Executive Director will meet with all Board members, to listen to your platform, goals, agenda, and ideas to make OWASP better and achieve our mission.
 - The Executive Director or Operations Manager will work with the Board to establish a calendar of public Board meetings. You will need to set aside two hours on the fourth Tuesday of each month, and sufficient time to read the agenda and any pre-reading materials to prepare for the meeting. If you have any questions about the agenda or materials, please contact the Executive Director in the first instance.
 - Please put time aside time in your calendar to travel and attend all of any in person AppSec Global events. Regardless of the format of the conference, there will be a public Board meeting at some point during the conference. AppSec Global events are a chance to meet with OWASP Members, Corporate Members, Event Sponsors, and participants, and listen to their feedback and concerns. Please make the time to attend all of the conference. Board travel and hotels are paid for by the OWASP Foundation.
-
-### Board functions
-
-- Vision, Values, and Mission. OWASP has a new mission for the first time in 20 years. A strong and clear mission statement provides a lens for the Foundation to prioritize, or do less of, or not do at all.
-- Strategic direction. Each Board should set their goals, priorities, and strategic direction in a special general meeting early in the year
-- Fiduciary duty. Directors are accountable for Board decisions and Foundation actions
-- Financial oversight. The budget is set between September and November each year, and must be approved in the first general meeting of the year to permit spending on programs above the Executive Director's signing authority. If you want to get something done that will cost funds or better bring money to the Foundation, it needs to be in each upcoming budget, or it won't happen.
-- Fundraising. Every non-profit needs to fundraise. The Board must focus on bringing in funds, corporate members, sponsors, and donations.
-
-The Board delegates operational aspects to the Foundation. Please work through the Executive Director when directing the Foundation, so that staff don't end up with 7 bosses.
-
-The Board has delegated some of its powers to various committees. The Committees are governed by the Committees policy, and advise the Board, and have some decision making power relating to their charter. Committees are asked to provide a budget and objectives each year. The Board must approve the budget, and can scale back or increase funding. The Committee can spend budgeted money, but is not authorized to spend unbudgeted funds. Each committee has its own charter, published on the main website. This doesn't mean the Board can't make decisions in these areas, but should consult with the Committee prior to any motion, consider their advice, and ensure there is general support for a motion within the charter area.
 
 ### Working with the Foundation
 
