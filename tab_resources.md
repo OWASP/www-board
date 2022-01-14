@@ -1,7 +1,7 @@
 ---
 
-title: Resources
-displaytext: Board Resources
+title: Induction
+displaytext: Board Induction Resources
 layout:  null
 tab: true
 order: 5
@@ -18,37 +18,35 @@ tags: board
 
 ### Board functions
 
-- Vision, Values, and Mission. OWASP has a new mission for the first time in 20 years. A strong and clear mission statement provides a lens for the Foundation to prioritize, or do less of, or not do at all.
-- Strategic direction. Each Board should set their goals, priorities, and strategic direction in a special general meeting early in the year
-- Fiduciary duty. Directors are accountable for Board decisions and Foundation actions
-- Financial oversight. The budget is set between September and November each year, and must be approved in the first general meeting of the year to permit spending on programs above the Executive Director's signing authority. If you want to get something done that will cost funds or better bring money to the Foundation, it needs to be in each upcoming budget, or it won't happen.
-- Fundraising. Every non-profit needs to fundraise. The Board must focus on bringing in funds, corporate members, sponsors, and donations.
+- **Vision, Values, and Mission**. OWASP has a new mission for the first time in 20 years. A strong and clear mission statement provides a lens for the Foundation to prioritize, or do less of, or not do at all.
+- **Strategic direction**. Each Board should set their goals, priorities, and strategic direction in a special general meeting early in the year
+- **Fiduciary duty**. Directors are accountable for Board decisions and Foundation actions
+- **Financial oversight**. The budget is set between September and November each year, and must be approved in the first general meeting of the year to permit spending on programs above the Executive Director's signing authority. If you want to get something done that will cost funds or better bring money to the Foundation, it needs to be in each upcoming budget, or it won't happen.
+- **Fundraising**. Every non-profit needs to fundraise. The Board must focus on bringing in funds, corporate members, sponsors, and donations.
 
-The Board delegates operational aspects to the Foundation. Please work through the Executive Director when directing the Foundation, so that staff don't end up with 7 bosses.
-
-The Board has delegated some of its powers to various committees. The Committees are governed by the Committees policy, and advise the Board, and have some decision making power relating to their charter. Committees are asked to provide a budget and objectives each year. The Board must approve the budget, and can scale back or increase funding. The Committee can spend budgeted money, but is not authorized to spend unbudgeted funds. Each committee has its own charter, published on the main website. This doesn't mean the Board can't make decisions in these areas, but should consult with the Committee prior to any motion, consider their advice, and ensure there is general support for a motion within the charter area.
+The Board can make motions on any topic as long as they do not attempt to bind future Boards, or if a motion contravenes our mission, bylaws, or policies. No Board may bind a future Board. Binding future Boards doesn't work, because every Board can change the mission, bylaws, policies, and can alter, reverse, or annul any past motion. If the Board wishes to undertake policy or culture reform or transformation, they should do so with care and with a great deal of consultation with key stakeholders as well as the wider community.
 
 ### Running for election
 
-If you are passionate about OWASP, being a Director of a non-profit is an awesome experience, but it can also be exhausting. If you have limited time, being a Director may not be for you. Board officers have more duties, and Board members at large are strongly encouraged to be a Board champion for a mission goal, such as Projects, Chapters, Members, Events, Outreach, or fundraising.
+If you are passionate about OWASP, being a Director of a non-profit is an awesome experience, but it can also be exhausting. If you have limited time, being a Director may not be for you. Board officers have more duties than General Members At Large. General Members at Large (i.e. those that aren't the Chair, Vice Chair, Secretary, or Treasurer) are strongly encouraged to be a Board champion for a mission goal, such as Projects, Chapters, Members, Events, Outreach, or fundraising.
 
 If you want to run for election, you must have 12 months continuous membership in good standing, and nominate yourself when the call for candidates comes out. More details are maintained in the [elections page](https://owasp.org/www-board/elections/), including results.
 
 ### Onboarding for new Board Members
 
-In the week after a new Board member has been elected, the OWASP Foundation will work with you to get your address to ensure everyone has received the Board induction books and Board Source either electronically or physically. There's a great Board training series on Board Source, which we need you to complete. Dawn will send you the instructions on how to sign up for it.
+In the week after a new Board member has been elected, the OWASP Foundation will obtain your contact details to ensure everyone has received the Board induction books and Board Source either electronically or physically.
 
 The current induction resouces and books are:
 
 - [Nonprofit Kit For Dummies 6th Edition](https://www.amazon.com/gp/product/1119835720/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Robert's Rules of Order, Newly Revised 12th Edition](https://www.amazon.com/Roberts-Rules-Order-Newly-Revised/dp/1541736699/ref=sr_1_1?keywords=roberts+rules+of+order+newly+revised+12th+edition&qid=1642176682&sprefix=roberts%2Caps%2C118&sr=8-1) or the [Concise version](https://www.amazon.com/Roberts-Rules-Order-Newly-Revised/dp/1541797701/ref=sr_1_4?keywords=roberts+rules+of+order+newly+revised+12th+edition&qid=1642176682&sprefix=roberts%2Caps%2C118&sr=8-4).
-- [Board Source online training](https://boardsource.org/my-account/trainings/). A registration link will be given to all Board members, and they should undertake the training certificate found by clicking "My account" at the top, "Training" on the left side, and then "Certificate of Nonprofit Board Education Series". It will take approximately an hour. Please provide the certificate to the Operations Manager before signing the Commitment agreement.
+- [Board Source online training](https://boardsource.org/my-account/trainings/). A registration link will be given to all Board members, and they should complete the training certificate found by clicking "My account" at the top, "Training" on the left side, and then "Certificate of Nonprofit Board Education Series". It will take approximately an hour. Please provide the certificate to the Operations Manager before signing the Commitment agreement.
 
 The Nonprofit Kit has sections relevant to the staff, and sections that are more relevant to the Board. It is recommended to read the entire thing, but as a Board member please read and understand Chapter 3: Prioritizing Your Board of Directors, Chapters 7-10, Chapter 12 Budgets, Chapter 13 Marketing and Branding, Part 3: Raising funds successfully. The Board's role is to set strategic direction, financial oversight, deliver the mission by setting and overseeing organizational goals and priorities, and lastly and most importantly, to help fundraise by seeking new corporate members, sponsors, grants, and large charitable donations.
 
 RONR is used in special and general Board meetings to manage the agenda and conduct business. You do not need to read the entire thing, but definitely read sections 44-45 for voting, 46 for elections, 47 for officers, 49 - 52 for Boards, 56-57 for bylaws. There are many other sections that are relevant, but RONR is more used during the establishment of an agenda, and understand and follow a process during meetings to avoid any perceptions or actuality of improper motions. The Executive Director has the full version for reference during meetings, so Directors may choose to buy and use the Concise version. If there is conflict in meaning or understanding, the full version will be consulted in meetings.
 
-Directors can either be reimbursed for the purchase of the books (particularly useful for eBooks), or the Foundation can send them to you.
+Directors can either be reimbursed for the purchase of the books (particularly useful for eBooks), or the Foundation can send them to you. There are optional but still recommended books for [NonProfit Financial Oversight](https://www.amazon.com/gp/product/1974634205/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [Nonprofit Marketing](https://www.amazon.com/gp/product/B00EEEOBGW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [Nonprofit Stragegy](https://www.amazon.com/gp/product/B07D1RHSF9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [Nonprofit Board Fundraising](https://www.amazon.com/Nonprofit-Hero-Steps-Successful-Fundraising-ebook/dp/B07H46K25M/ref=sr_1_5?keywords=nonprofit+fundraising&qid=1642186393&sprefix=nonprofit+fund%2Caps%2C121&sr=8-5), and more. The Foundation will reimburse reasonable requests for such books if you raise an expense claim per the expenses policy.
 
 ### Completing Director qualifications
 
@@ -70,17 +68,23 @@ Directors who can hit the ground running from the first meeting onwards are a tr
 - The Executive Director or Operations Manager will work with the Board to establish a calendar of public Board meetings. You will need to set aside two hours on the fourth Tuesday of each month, and sufficient time to read the agenda and any pre-reading materials to prepare for the meeting. If you have any questions about the agenda or materials, please contact the Executive Director in the first instance.
 - Please put time aside time in your calendar to travel and attend all of any in person AppSec Global events. Regardless of the format of the conference, there will be a public Board meeting at some point during the conference. AppSec Global events are a chance to meet with OWASP Members, Corporate Members, Event Sponsors, and participants, and listen to their feedback and concerns. Please make the time to attend all of the conference. Board travel and hotels are paid for by the OWASP Foundation.
 
-### Working with the Foundation
-
-The Board is welcome to communicate to the Foundation through the Global Board list, and [email](mailto:andrew.vanderstock@owasp.com) or [meet](https://calend.ly/owasped) with the Executive Director.
-
-The Board should not communicate directly with OWASP staff to avoid staff having "7 bosses". From time to time, the staff will directly communicate with the Board to complete or work on a Board action. Please work with staff in a timely fashion.
-
-The Board should track such actions arising or tasks for the Foundation through a [Public Board Actions Kanban](https://github.com/OWASP/www-board/projects/1)
-
 ### Working with our community
 
-Most leaders are encouraged to monitor their owasp.org email. However, Board members have a higher duty to independence, and avoid any perceptions or actuality of conflict of interest. Directors MUST use their OWASP.org email address for all official business.
+Board members have higher requirements for independence, and to avoid any perceptions or actuality of conflict of interest. Directors MUST use their OWASP.org email address for all official business. If you are representing your own views, rather than OWASP's, please make that clear if there is any possibility of confusion.
+
+In general, the community loves hearing from the Board, but Directors have the ability to make fundamental change, so care is necessary when acting as a Director. Directors should discuss, mediate, and listen to the community, rather than stir up or participate in any disputes or try to get their way in the court of public opinion. If you are passionate about a topic, bring the community along with you and work to obtain the necessary support on the Board privately to make the change you want to see.
+
+### Working with the Foundation
+
+The OWASP Foundation is there to enable and execute OWASP's mission, the Board's strategy, policies, and goals. The Board has delegated day to day running of programs and business as usual (BAU) operations to the OWASP Foundation. The Board should not get involved in day to day operations, or approve policies that require volunteers, members, Committees, or the Board itself to be on a critical operational path of any program or BAU process.
+
+The Board is welcome to communicate to the Foundation through the Global Board list, and [email](mailto:andrew.vanderstock@owasp.com) or [meet](https://calend.ly/owasped) with the Executive Director. The Board should not ordinarily communicate directly with OWASP staff to avoid staff having "7 bosses". The staff are encouraged to raise any concerns with the Board if they feel there is an issue that is not being addressed by the Executive Director. From time to time, the staff will directly communicate with the Board to complete or work on a Board action. Please respond to staff requests or concerns in a timely fashion.
+
+The Board should track public actions arising from Board meetings, or tasks delegated to the Foundation through the [Public Board Actions Kanban](https://github.com/OWASP/www-board/projects/1)
+
+### Working with committees
+
+The Board has delegated some of its powers to various committees. The Committees are governed by the Committees policy, and advise the Board, and have some decision making power relating to their charter. Committees are asked to provide a budget and objectives each year. The Board must approve the budget, and can scale back or increase funding. The Committee can spend budgeted money, but is not authorized to spend unbudgeted funds. Each committee has its own charter, published on the main website. This doesn't mean the Board can't make decisions in these areas, but should consult with the Committee prior to any motion, consider their advice, and ensure there is general support for a motion within the charter area.
 
 ### Making motions
 
