@@ -27,7 +27,7 @@ Andrew van der Stock, Tom Pappas, Dawn Aitken, Harold Blankenship, Lisa Jones, K
 
 ### CONFLICT OF INTEREST AND ANTI-TRUST STATEMENT
 
-As the Board consists of individuals from many competing organizations, OWASP and its Board shall abide by all applicable anti-trust and competition laws. To avoid any perceived or actual conflict of interest, or anti-trust concerns under US federal, state, or regulations, only the published agenda shall be discussed or voted upon, or amended as below. If there are any conflicts of interest, Board members are expected to disclose the conflict of interest and offer to recuse themselves from votes.
+As the Board consists of individuals from many competing organizations, OWASP and its Board shall abide by all applicable anti-trust and competition laws. To avoid any perceived or actual conflict of interest, or anti-trust concerns under US federal, state, or regulations, only the published agenda shall be discussed or voted upon, or amended as below. If there are any conflicts of interest, Board members are expected to disclose the conflict of interest and [must recuse themselves from discussion and voting](https://owasp.org/www-policy/legal/bylaws#section-702-disclosure-required).
 
 - [OWASP Conflict of Interest Policy](https://owasp.org/www-policy/operational/conflict-of-interest)
 - [Director's Commitment Agreement](https://owasp.org/www-policy/legal/directors-committment-agreement)
