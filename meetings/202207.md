@@ -42,7 +42,9 @@ Changes to the agenda - unless otherwise prohibited by anti-trust or competition
 
 ### PRE-READING MATERIAL
 
+- [OWASP Board Public Actions kanban](https://github.com/OWASP/www-board/projects/1)
 - [Executive Director Board Summary](TBA)
+- [Finance Board Summary](TBA)
 
 ### REPORTS
 
