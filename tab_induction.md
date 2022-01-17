@@ -1,11 +1,11 @@
 ---
 
 title: Induction
-display text: Board Induction Resources
+displaytext: Board Induction Resources
 layout:  null
 tab: true
 order: 5
-tags: Board
+tags: board
 
 ---
 

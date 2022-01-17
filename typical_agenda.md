@@ -1,7 +1,8 @@
 ---
 
 layout: col-sidebar
-title: Typical Meeting Agenda
+title: Typical Agenda
+displaytext: Typical Meeting Agenda
 tags: board
 
 ---

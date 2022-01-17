@@ -1,5 +1,6 @@
 ---
 title: Voting
+displaytext: Voting History
 layout:  null
 tab: true
 order: 3

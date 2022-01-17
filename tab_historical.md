@@ -1,6 +1,7 @@
 ---
 
 title: Historical
+displaytext: Historical Votes
 layout:  null
 tab: true
 order: 2
