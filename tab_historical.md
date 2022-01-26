@@ -11,7 +11,7 @@ tags: board
 
 As part of our recent website migration, we have been migrating old Board content to this site. If you're looking for historical agendas or minutes not found below please visit the [Historical Wiki](https://wiki.owasp.org/index.php/Board#tab=Historical_Meeting_Archive).
 
-## Historical Meetings
+## Past Meetings
 
 {% assign pages = site.pages | order: 'date' | reverse | limit: 1000 %}
 <ul>
