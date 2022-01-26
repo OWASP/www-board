@@ -1,7 +1,7 @@
 ---
 
 title: Historical
-displaytext: Historical Votes
+displaytext: Past Meetings
 layout:  null
 tab: true
 order: 2
