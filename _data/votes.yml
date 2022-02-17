@@ -263,6 +263,44 @@
   result:  "<br>In Favor:  7 (Grant Ongers, Sherif Mansour, Gary Robinson, Richard Greenberg, Martin Knobloch, Vandana Verma and Owen Pendlebury)"
   vote:  "<br>7-0"
 - date:  2020-10-20
+  motion:  "to adopt 2/3rd majority for Director and Officer remova, Sherif Mansour motions, Owen Pendlebury seconds
+  <br>
+  <br>**Note on 2/3rd vote**. Robert's Rules of Order gives extensive guidance on what two thirds formally means, along with numeric examples in section RONR (12 ed) 44:3, and means:
+  <br>
+  <br>* A two thirds vote - when the term is unqualified - means at least two thirds of the votes cast by persons entitled to vote, excluding blanks and abstentions, at a regular or properly called meeting. For example (assuming that there are no fractions of votes):*
+  <br>* *If 30 votes are cast, a two thirds vote is 20*
+  <br>* *If 31 votes are cast, a two thirds vote is 21*
+  <br>* *If 32 votes are cast, a two thirds vote is 22*
+  <br>* *If 33 votes are cast, a two thirds vote is 22"*
+  <br>
+  <br>Based upon "recusal" = "abstention", a board of 7, a two thirds vote would be as follows:
+  <br>
+  <br>* If 5 votes are cast, a two thirds vote is 4 votes 
+  <br>* If 6 votes are cast, a two thirds vote is 4 votes
+  <br>* If 7 votes are case, a two thirds vote is 5 votes
+  <br>**Background:** Our lawyers reviewed our bylaws, and noted that our simple majority vote is not the industry standard and is too low a bar for significant organizational change. They recommend the adoption of a notice period and 2/3rd majority of the Board for changes to OWASP bylaws and policy changes. Their advice agrees with Robert's Rules of Order, Newly Revised (12th ed.) section 57, which is used to draft the motion below: 
+  <br>* [Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/ZFfoY1ugvu0/m/QruNDpvLCQAJ)
+  result:  "<br>In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
+  vote:  "<br>5-0"
+- date:  2020-10-20
+  motion:  "Resolved, the Board directs the Foundation to update section 10.01 of the OWASP bylaws to comply with RONR (12th ed.) Section 57:1, by adopting RONR (12th ed.) 56:67:  
+  <br>
+  <br>SECTION 10.01 Amendments
+  <br>
+  <br>OWASP Bylaws and organizational policies may be amended at any regular meeting of the OWASP Board by an affirmative two thirds vote, provided that the amendment has been submitted in writing at the previous regular meeting, or a public notice is given no later than 7 days prior to the meeting.
+  <br>
+  <br>Amendments to the these bylaws and organizational policies should comply withvRONR 12th Edition 57:1-19.  Sherif Mansour motions, Owen Pendlebury second"
+  result:  "<br>In Favor:  5 ( Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"  
+  vote:  "<br>5-0"
+- date:  2020-10-20
+  motion:  "Resolved, that Honorary Membership will become a lifetime membership awarded to no more than three members per year, on the basis of extraordinary and sustained contributions to OWASP's mission over at least a five year period. The Board directs the Foundation to update any mentions of Honorary Membership in bylaws, policies, and operational documentation to reflect this vote.  Grant Ongers motions, Owen Pendlebury seconds"
+  result:  "<br>In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
+  vote:  "<br>5-0"
+- date:  2020-10-20
+  motion:  "Resolved that the Executive Director or their designatee develop, implement, and manage a trademark licensing effort with organizations that provide training on OWASP projects, publishers, and event organizers as outlined by staff at the October 2020 Board Meeting.  Sherif Mansour motions, Martin Knobloch motions"
+  result:  "<br>In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
+  vote:  "<br>5-0"
+- date:  2020-10-20
   motion:  "Resolved, that the following six reviewed policies are approved. The Foundation shall upload the approved text within 30 days of this vote to the OWASP policy website:
   <br>
   <br>* [Elections Policy](https://owasp.org/www-policy/operational/election)
