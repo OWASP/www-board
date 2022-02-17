@@ -263,6 +263,20 @@
   result:  "<br>In Favor:  7 (Grant Ongers, Sherif Mansour, Gary Robinson, Richard Greenberg, Martin Knobloch, Vandana Verma and Owen Pendlebury)"
   vote:  "<br>7-0"
 - date:  2020-10-20
+  motion:  "It is resolved that to promote the creation of additional core committees to enumerate the powers devolved to Committees, with appropriate checks and balances to comply with legal, tax and other regulations and safeguards to protect the Foundation and Board, that the following Committee policy is approved. Existing Committees will transition to the governance model of this Committee policy. OWASP’s bylaws should be amended to allow the devolution of certain Board responsibilities and activities to committees as follows:<br>
+  <br>Change from
+  <br>
+  <br>SECTION 5.01 Committees
+  <br>Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Advisory Boards or Committees. Committees will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees will be structured according to the guidelines in Policy and Procedure.```
+  <br>
+  <br>to
+  <br>
+  <br>SECTION 5.01 Committees
+  <br>Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Board sub-committees (e.g, fundraising, finance, audit, or executive), Advisory Boards, or Committees. These will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees are formed and governed by the Committees Policy, and are limited the Charter's purpose and scope. As a Committee Charter might devolve powers currently held by the Board or the Foundation to the Committee, any such devolution to a Committee will require a 2/3rd majority vote.```
+  <br>[Revised Committee Policy](https://docs.google.com/document/d/1XyjV9MTaW8IYo-E1PZxhfqXmxbhKMHbjxw2ofsPUf0k/edit)  Owen Pendlebury sponsors, Sherif Mansour seconds"
+  result:  <br>In Favor:  5 (Owen Pendlebury, Sherif Mansour, Martin Knobloch, Grant Ongers and Gary Robinson)"
+  vote:  <br>5-0  
+- date:  2020-10-20
   motion:  "Resolved, the Board directs the Foundation to provide automated complimentary Membership to the top 5 active leaders of chapters, projects, events, and committees, effective November 1st, 2020, and monthly after that. Honorary Membership will become an award made by the Board, and changed to be for five years in recognition of extraordinary service to the OWASP Community. Regional pricing will be made available to all classes of paid Membership.
             <br>The following bylaw amendment is required to support this change in membership model:
             <br>SECTION 4.01 Membership Classes
