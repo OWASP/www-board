@@ -263,6 +263,23 @@
   result:  "<br>In Favor:  7 (Grant Ongers, Sherif Mansour, Gary Robinson, Richard Greenberg, Martin Knobloch, Vandana Verma and Owen Pendlebury)"
   vote:  "<br>7-0"
 - date:  2020-10-20
+  motion:  "Resolved, that the following six reviewed policies are approved. The Foundation shall upload the approved text within 30 days of this vote to the OWASP policy website:
+  <br>
+  <br>* [Elections Policy](https://owasp.org/www-policy/operational/election)
+  <br>* [Events Policy](https://owasp.org/www-policy/operational/events)
+  <br>* [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement)
+  <br>* [Mailing List Policy](https://owasp.org/www-policy/operational/mailing-list)
+  <br>* [Membership Policy](https://owasp.org/www-policy/operational/membership)
+  <br>* [Social Media Policy](https://owasp.org/www-policy/operational/social-media)
+  <br>
+  <br>Feedback for these policies has been published to the global-board list and can be found at https://owasp.org/www-staff/projects/202010-policy-review.html  Owen Pendlebury motions, Grant Ongers seconds"
+  result:  "<br>In Favor:  5 (Sherif Manosur, Owen Pendlebury, Grant Ongers, Martin Knobloch and Gary Robinson)"
+  vote:  "<br>5-0"
+- date:  2020-10-20
+  motion:  "Resolved, to comply with US government sanctions, the OWASP Board directs the Foundation to revoke and refund membership dues to any sanctioned country members, disband any sanctioned country chapters, remove any sanctioned country project leadership, and communicate this decision with the community (and all affected participants). Lastly, the Board directs that the Foundation updates all relevant membership and participation policies to reject or prohibit sanctioned country involvement from October 20, 2020 onward until such time as sanctions are lifted.  Sherif Mansour motions, Owen Pendlebury seconds"
+  result:  "<br>In Favor:  5 ( Martin Knobloch, Grant Ongers, Gary Robinson, Sherif Mansour and Owen Pendlebury)"
+  vote:  "<br>5-0"
+- date:  2020-10-20
   motion:  "It is resolved that to promote the creation of additional core committees to enumerate the powers devolved to Committees, with appropriate checks and balances to comply with legal, tax and other regulations and safeguards to protect the Foundation and Board, that the following Committee policy is approved. Existing Committees will transition to the governance model of this Committee policy. OWASP’s bylaws should be amended to allow the devolution of certain Board responsibilities and activities to committees as follows:<br>
   <br>Change from
   <br>
