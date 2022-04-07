@@ -32,5 +32,3 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 {% endfor %}
 </div>
 </section>
-
-NB: The 2022 Board Officers (Chair, Vice Chair, Secretary, and Treasurer) will elected or confirmed at the [General Board Meeting on January 25](https://owasp.org/www-board/meetings/202201.html). The 2021 Board officers still hold their office *pro tem* until after the Officer election, including Sherif Mansour, as 2021 Chair.
