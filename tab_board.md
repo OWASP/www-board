@@ -19,6 +19,7 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 <div>	
  {% for member in site.data.members %}
     <div class="member-container">
+        <hr/>
         <div class="member-img-container">	
             <div class="member-img" style="background-image: url(https://owasp.org/assets/images/{{ member.image }});"></div>
         </div>
@@ -41,7 +42,6 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
         </div><br/><br/>
         <div class="member-info">{{ member.description }}</div>
     </div>
-    <hr/>
 {% endfor %}
 </div>
 </section>
