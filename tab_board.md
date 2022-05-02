@@ -25,10 +25,23 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
         <div class="member-caption"><h2>{{ member.name }}</h2>
             <hr><strong>{{ member.title }}</strong><br/>
             <div class="member-location">{{member.location}}</div>
-        </div><br/>
-        <div class="member-info">{{ member.description }} Current Term Ends {{ member.term-ends}}.</div>
+            {% if member.twitter %}
+            {% assign arr = member.twitter | split: "/" %}
+            {% assign lastindex = arr.size | minus: 1 %}
+            <div class="member-location"><a href="{{member.twitter}}">@{{ arr[lastindex] }}</a></div>
+            {% else %}
+            <br/>
+            {% endif %}
+            {% if member.linkedin %}
+            <div class="member-location"><a href="{{member.linkedin}}">{{ member.linkedin }}</a></div>
+            {% else %}
+            <br/>
+            {% endif %}
+            <div class="member-info"> Current Term Ends {{ member.term-ends}}.</div>
+        </div><br/><br/>
+        <div class="member-info">{{ member.description }}</div>
     </div>
-    <div style="height:18px;"></div>
+    <hr/>
 {% endfor %}
 </div>
 </section>
