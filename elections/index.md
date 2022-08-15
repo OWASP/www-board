@@ -18,6 +18,7 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 
 ### Recent Board Elections
 <!-- todo: change this to read from elections -->
+
 * [2022 Board Elections](2022_elections)
 * [2021 Board Elections](2021_elections)
 * [2020 Board Elections](2020_elections)
