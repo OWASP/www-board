@@ -73,9 +73,17 @@ Directors are solely responsible for maintaining good standing as a paid member 
 
 ### Board Initial Submissions
 
-Listed in order of nomination date. Four seats are open for this election.
+Listed in order of nomination date. Three seats are open for this election.
 
-**TBD**
+- Mark Curphey
+- Bil Corry
+- Sal Kimmich
+- Michael Fasere
+- Louis Griffith
+- Xien Singh
+- Matt Tesauro
+- Moshe Zioni
+- Sudhakar Muthumani
 
 
 ### Candidates Page 
