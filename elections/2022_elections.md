@@ -86,9 +86,14 @@ Listed in order of nomination date. Three seats are open for this election.
 - Sudhakar Muthumani
 
 
-### Candidates Page 
+### Candidates Page - Pending
 
-**TBD**
+- Mark Curphey
+- Bil Corry
+- Louis Griffith
+- Xien Singh
+- Matt Tesauro
+- Sudhakar Muthumani
 
 
 ### Board Election Results
