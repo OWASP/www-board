@@ -1,6 +1,7 @@
 ---
 title: OWASP Global Board History
 layout: col-sidebar
+permalink: /board_history/
 ---
 
 {% assign boardhistory = site.data.board-history | sort: 'year' %}

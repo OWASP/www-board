@@ -62,4 +62,4 @@ See meeting minutes for the recordings
 
 ## Historical Board Members
 
-Please visit the [Global Board History](/www-board/elections/board_history) for the timeline of board members since 2004 
+Please visit the [Global Board History](/www-board/board_history) for the timeline of board members since 2004 
