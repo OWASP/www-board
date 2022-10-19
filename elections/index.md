@@ -55,7 +55,7 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 * Results shared with all candidates
 * Results shared via email and social media
 
-#### Global Board of Directors Primary Responsibilities
+#### Global Board of Directors' Primary Responsibilities
 
 The OWASP Foundation Board of Directors currently consists of seven elected volunteers who serve a two year term. These unpaid volunteers dedicate themselves to the organizational mission and playing a pivotal role in the software security community. Members of the Global Board of Directors are responsible for setting the strategic direction of the organization and ensuring the financial integrity of the Foundation.
 
