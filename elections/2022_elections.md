@@ -115,8 +115,8 @@ Listed in order of nomination date. Three seats are open for this election.
 
 ### Confirmed Nominations (3 seats) - their term will start on January 1, 2023
 
-Bil Corry
-Mark Curphey
-Matt Tesauro
+- Bil Corry
+- Mark Curphey
+- Matt Tesauro
 
 
