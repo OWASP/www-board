@@ -98,8 +98,25 @@ Listed in order of nomination date. Three seats are open for this election.
 ### Board Election Results
 
 
+| **Name**               | **Votes**    |
+| :--------------------  | :----------- |
+| Mark Curphey           | 664 (25.1%)  |
+| Bil Corry              | 644 (24.3%)  |
+| Matt Tesauro           | 621 (23.4%)  |
+| Louis Griffith         | 283 (10.7%)  |
+| Sudhakar Muthumani     | 237 ( 8.9%)  |
+| Xien Singh             | 201 ( 7.6%)  |  
+|                        |              |
+| Total                  | 1047         |
+| Abstain                | 0 (0.0%)     |
+
+
 
 
 ### Confirmed Nominations (3 seats) - their term will start on January 1, 2023
 
-**TBD**
+Bil Corry
+Mark Curphey
+Matt Tesauro
+
+
