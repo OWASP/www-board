@@ -86,19 +86,19 @@ Listed in order of nomination date. Three seats are open for this election.
 - Sudhakar Muthumani
 
 
-### Candidates Page - Pending
+### Candidates Page
 
-- Mark Curphey
-- Bil Corry
-- Louis Griffith
-- Xien Singh
-- Matt Tesauro
-- Sudhakar Muthumani
+- [Mark Curphey] (https://owasp.org/www-board-candidates/mark_curphey_2022.html)
+- [Bil Corry] (https://owasp.org/www-board-candidates/bil_corry_2022.html)
+- [Louis Griffith] (https://owasp.org/www-board-candidates/louis_griffith_2022.html)
+- [Xien Singh] (https://owasp.org/www-board-candidates/xien_singh_2022.html)
+- [Matt Tesauro] (https://owasp.org/www-board-candidates/matt_tesauro_2022.html)
+- [Sudhakar Muthumani] (https://owasp.org/www-board-candidates/sudhakar_muthumani_2022.html)
 
 
 ### Board Election Results
 
-**TBD**
+
 
 
 ### Confirmed Nominations (3 seats) - their term will start on January 1, 2023
