@@ -1,3 +1,23 @@
+- date: 2023-01-23
+  year:  2023
+  attendees:
+   - name:  Vandana Verma
+   - name:  Grant Ongers
+   - name:  Avi Douglen
+   - name:  Bil Corry
+   - name:  Matt Tesauro
+   - name:  Mark Curphey
+   - name:  Glenn ten Cate
+- date:  2022-12-20
+  year:  2022
+  attendees:
+    - name:  Vandana Verma
+    - name:  Grant Ongers
+    - name:  Glenn ten Cate
+    - name:  Avi Douglen
+    - name:  Martin Knobloch
+    - name:  Bil Corry
+    - name:  Joubin Jabbari 
 - date:  2022-10-25
   year:  2022
   attendees:
