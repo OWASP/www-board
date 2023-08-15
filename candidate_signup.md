@@ -1,6 +1,6 @@
 ---
 
-title: Board Candidate Form
+title: Board Candidate Signup Form
 layout: col-sidebar
 
 ---
