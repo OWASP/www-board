@@ -1,7 +1,7 @@
 ---
 
 title: Board Candidate Form
-layout: 
+layout: col-sidebar
 
 ---
 
