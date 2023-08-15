@@ -1,7 +1,7 @@
 ---
 
 title: Board Candidate Signup Form
-layout: col-sidebar
+layout: col-generic
 
 ---
 
