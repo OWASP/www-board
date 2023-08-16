@@ -37,4 +37,4 @@ Click here for the [OWASP Global Board EU](https://owasp.org/www-board-eu/)
 {% endfor %}
 </ul>
 
-<a href="javascript: t = Date.now(); location.assign('/www-board/#div-historical?v=' + t);">More Historical Meetings</a>
+<a href="javascript: t = Date.now(); location.assign('/www-board/?v=' + t + '#div-historical');">More Historical Meetings</a>
