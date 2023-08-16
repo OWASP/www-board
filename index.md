@@ -37,4 +37,5 @@ Click here for the [OWASP Global Board EU](https://owasp.org/www-board-eu/)
 {% endfor %}
 </ul>
 
-[More Historical Meetings...](/www-board/#div-historical)
+<a href="javascript:location.assign('/www-board/#div-historical');"  
+  class="btn btn-sm btn-info">More Historical Meetings</a>
