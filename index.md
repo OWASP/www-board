@@ -15,23 +15,25 @@ Click here for the [OWASP Global Board EU](https://owasp.org/www-board-eu/)
 
 ## Upcoming Meetings
 
-{% assign pages = site.pages | sort: 'date' | limit: 12 %}
+{% assign pages = site.pages | where_exp: "page", "page.path contains 'meetings/'" | sort: 'date'  %}
 <ul>
 {% for page in pages %}
- {% if page.path contains 'meetings/' %}
- <li>{{ page.date }} - <a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
- {% endif %}
+ <li>{{ page.date }} - <a href='/www-board{{ page.url }}'>{{ page.title }}</a></li> 
+ {% if forloop.index > 11%}
+  {%break%}
+ {%endif%}
 {% endfor %}
 </ul>
 
 ## Recent Meetings
 
-{% assign pages = site.pages | order: 'date' | reverse | limit: 6 %}
+{% assign pages = site.pages | where_exp: "page", "page.path contains 'meetings-historical'" | order: 'date' | reverse %}
 <ul>
 {% for page in pages %}
- {% if page.path contains 'historical/' %}
  <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
- {% endif %}
+ {% if forloop.index > 5 %}
+ {%break%}
+ {%endif%}
 {% endfor %}
 </ul>
 

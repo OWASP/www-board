@@ -13,23 +13,11 @@ As part of our recent website migration, we have been migrating old Board conten
 
 ## Past Meetings
 
-{% assign pages = site.pages | order: 'date' | reverse | limit: 1000 %}
+{% assign pages = site.pages | where_exp: "page", "page.path contains 'meetings-historical'" | order: 'date' | reverse %}
 <ul>
 {% for page in pages %}
  {% if page.path contains 'historical/' %}
  <li>{{page.date}}-<a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
- {% endif %}
-{% endfor %}
-</ul>
-
-## Minutes
-
-(New and historical ported from wiki.owasp.org)
-{% assign pages = site.pages | order: 'date' | reverse | limit: 1000 %}
-<ul>
-{% for page in pages %}
- {% if page.path contains 'minutes/' %}
- <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>

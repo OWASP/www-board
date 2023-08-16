@@ -38,7 +38,7 @@ Changes to the agenda - unless otherwise prohibited by anti-trust or competition
 
 ### APPROVAL OF MINUTES
 
-- [Previous Meeting Minutes - TBA 2023](/www-board/minutes/2023XX)
+- [Previous Meeting Minutes - TBA 2023](/www-board/meetings-historical/2023XX)
 
 ### PRE-READING MATERIAL
 
