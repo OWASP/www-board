@@ -89,7 +89,7 @@ Directors are solely responsible for maintaining good standing as a paid member 
 - Sam	Stepanyan
 - Steve Springett
 
-### Candidates Page ### Coming soon
+### Candidates Page - Coming soon
 
 - Andrew Stevens
 - Avi Douglen
