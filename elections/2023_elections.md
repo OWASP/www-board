@@ -74,7 +74,21 @@ Directors are solely responsible for maintaining good standing as a paid member 
 
 ### Board Initial Submissions
 
-Four seats are open for this election.
+**Four seats** are open for this election.
+
+- Andrew Stevens
+- Avi Douglen
+- Bhaskara Ram Allam
+- Fred Donovan
+- Izar Tarandach
+- Jeremy Long
+- Kevin	Johnson
+- Mark Babcock
+- Omer Yaron
+- Paulino Calderon
+- Sam	Stepanyan
+- Steve Springett
+
 
 
 
