@@ -89,7 +89,19 @@ Directors are solely responsible for maintaining good standing as a paid member 
 - Sam	Stepanyan
 - Steve Springett
 
+### Candidates Page ### Coming soon
 
+- Andrew Stevens
+- Avi Douglen
+- Bhaskara Ram Allam
+- Fred Donovan
+- Izar Tarandach
+- Jeremy Long
+- Kevin	Johnson
+- Mark Babcock
+- Paulino Calderon
+- Sam	Stepanyan
+- Steve Springett
 
 
 
