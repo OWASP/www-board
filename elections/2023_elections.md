@@ -91,17 +91,17 @@ Directors are solely responsible for maintaining good standing as a paid member 
 
 ### Candidates Page - Coming soon
 
-- [Andrew Stevens](https://github.com/OWASP/www-board-candidates/blob/master/2023/andrew_stevens.md)
-- [Avi Douglen](https://github.com/OWASP/www-board-candidates/blob/master/2023/avi_douglen.md)
-- [Bhaskara Ram Allam](https://github.com/OWASP/www-board-candidates/blob/master/2023/bhaskara_ram_allam.md)
-- [Fred Donovan](https://github.com/OWASP/www-board-candidates/blob/master/2023/fred_donovan.md)
-- [Izar Tarandach](https://github.com/OWASP/www-board-candidates/blob/master/2023/izar_tarandach.md)
-- [Jeremy Long](https://github.com/OWASP/www-board-candidates/blob/master/2023/jeremy_long.md)
-- [Kevin Johnson](https://github.com/OWASP/www-board-candidates/blob/master/2023/kevin_johnson.md)
-- [Mark Babcock](https://github.com/OWASP/www-board-candidates/blob/master/2023/mark_babcock.md)
-- [Paulino Calderon](https://github.com/OWASP/www-board-candidates/blob/master/2023/paulino_calderon.md)
-- [Sam Stepanyan](https://github.com/OWASP/www-board-candidates/blob/master/2023/sam_stepanyan.md)
-- [Steve Springett](https://github.com/OWASP/www-board-candidates/blob/master/2023/steve_springett.md)
+- [Andrew Stevens](https://owasp.org/www-board-candidates/2023/andrew_stevens)
+- [Avi Douglen](https://owasp.org/www-board-candidates/2023/avi_douglen)
+- [Bhaskara Ram Allam](https://owasp.org/www-board-candidates/2023/bhaskara_ram_allam)
+- [Fred Donovan](https://owasp.org/www-board-candidates/2023/fred_donovan)
+- [Izar Tarandach](https://owasp.org/www-board-candidates/2023/izar_tarandach)
+- [Jeremy Long](https://owasp.org/www-board-candidates/2023/jeremy_long)
+- [Kevin Johnson](https://owasp.org/www-board-candidates/2023/kevin_johnson)
+- [Mark Babcock](https://owasp.org/www-board-candidates/2023/mark_babcock)
+- [Paulino Calderon](https://owasp.org/www-board-candidates/2023/paulino_calderon)
+- [Sam Stepanyan](https://owasp.org/www-board-candidates/2023/sam_stepanyan)
+- [Steve Springett](https://owasp.org/www-board-candidates/2023/steve_springett)
   
 
 
