@@ -58,7 +58,7 @@ Members who have been in good standing for more than 12 months can stand for the
 - 09-30-2023 - Candidates deadline to post their videos
 - 09-30-2023 - **Membership deadline**
 
-- 10-01-2023 - Recordings to be posted on webssite
+- 10-01-2023 - Recordings to be posted on website
 - 10-01-2023 - Email and social media notifying the community that the recordings are posted
 - 10-15-2023 - **Voting opens**
 - 10-22-2023 - Email reminder for voting
