@@ -96,7 +96,7 @@ Directors are solely responsible for maintaining good standing as a paid member 
 - [Bhaskara Ram Allam](https://owasp.org/www-board-candidates/2023/bhaskara_ram_allam)
 - [Fred Donovan](https://owasp.org/www-board-candidates/2023/fred_donovan)
 - [Izar Tarandach](https://owasp.org/www-board-candidates/2023/izar_tarandach)
-- [Jeremy Long](https://owasp.org/www-board-candidates/2023/jeremy_long)
+- [Jeremy Long - withdrew](https://owasp.org/www-board-candidates/2023/jeremy_long)
 - [Kevin Johnson](https://owasp.org/www-board-candidates/2023/kevin_johnson)
 - [Mark Babcock](https://owasp.org/www-board-candidates/2023/mark_babcock)
 - [Paulino Calderon](https://owasp.org/www-board-candidates/2023/paulino_calderon)
