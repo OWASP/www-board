@@ -91,12 +91,12 @@ Directors are solely responsible for maintaining good standing as a paid member 
 
 ### Candidates Page - Coming soon
 
-- [Andrew Stevens - withdrew]
+- Andrew Stevens - withdrew
 - [Avi Douglen](https://owasp.org/www-board-candidates/2023/avi_douglen)
-- [Bhaskara Ram Allam]
-- [Fred Donovan]
+- Bhaskara Ram Allam
+- Fred Donovan
 - [Izar Tarandach](https://owasp.org/www-board-candidates/2023/izar_tarandach)
-- [Jeremy Long - withdrew]
+- Jeremy Long - withdrew
 - [Kevin Johnson](https://owasp.org/www-board-candidates/2023/kevin_johnson)
 - [Mark Babcock](https://owasp.org/www-board-candidates/2023/mark_babcock)
 - [Paulino Calderon](https://owasp.org/www-board-candidates/2023/paulino_calderon)
