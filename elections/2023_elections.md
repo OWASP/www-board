@@ -98,7 +98,7 @@ Directors are solely responsible for maintaining good standing as a paid member 
 - [Izar Tarandach](https://owasp.org/www-board-candidates/2023/izar_tarandach)
 - Jeremy Long - withdrew
 - [Kevin Johnson](https://owasp.org/www-board-candidates/2023/kevin_johnson)
-- [Mark Babcock](https://owasp.org/www-board-candidates/2023/mark_babcock)
+- Mark Babcock
 - [Paulino Calderon](https://owasp.org/www-board-candidates/2023/paulino_calderon)
 - [Sam Stepanyan](https://owasp.org/www-board-candidates/2023/sam_stepanyan)
 - [Steve Springett](https://owasp.org/www-board-candidates/2023/steve_springett)
