@@ -94,7 +94,7 @@ Directors are solely responsible for maintaining good standing as a paid member 
 - Andrew Stevens - withdrew
 - [Avi Douglen](https://owasp.org/www-board-candidates/2023/avi_douglen)
 - Bhaskara Ram Allam
-- Fred Donovan
+- [Fred Donovan](http://owasp.org/www-board-candidates/2023/fred_donovan)
 - [Izar Tarandach](https://owasp.org/www-board-candidates/2023/izar_tarandach)
 - Jeremy Long - withdrew
 - [Kevin Johnson](https://owasp.org/www-board-candidates/2023/kevin_johnson)
