@@ -89,7 +89,7 @@ Directors are solely responsible for maintaining good standing as a paid member 
 - Sam	Stepanyan
 - Steve Springett
 
-### [Candidates Page](https://owasp.org/www-board-candidates/2023/)
+### [Candidates Page](https://owasp.org/www-board-candidates/)
 
 - [Avi Douglen](https://owasp.org/www-board-candidates/2023/avi_douglen)
 - [Fred Donovan](http://owasp.org/www-board-candidates/2023/fred_donovan)
