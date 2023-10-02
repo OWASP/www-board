@@ -89,16 +89,12 @@ Directors are solely responsible for maintaining good standing as a paid member 
 - Sam	Stepanyan
 - Steve Springett
 
-### Candidates Page - Coming soon
+### Candidates Page
 
-- Andrew Stevens - withdrew
 - [Avi Douglen](https://owasp.org/www-board-candidates/2023/avi_douglen)
-- Bhaskara Ram Allam
 - [Fred Donovan](http://owasp.org/www-board-candidates/2023/fred_donovan)
 - [Izar Tarandach](https://owasp.org/www-board-candidates/2023/izar_tarandach)
-- Jeremy Long - withdrew
 - [Kevin Johnson](https://owasp.org/www-board-candidates/2023/kevin_johnson)
-- Mark Babcock
 - [Paulino Calderon](https://owasp.org/www-board-candidates/2023/paulino_calderon)
 - [Sam Stepanyan](https://owasp.org/www-board-candidates/2023/sam_stepanyan)
 - [Steve Springett](https://owasp.org/www-board-candidates/2023/steve_springett)
