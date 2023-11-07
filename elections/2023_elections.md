@@ -98,7 +98,35 @@ Directors are solely responsible for maintaining good standing as a paid member 
 - [Paulino Calderon](https://owasp.org/www-board-candidates/2023/paulino_calderon)
 - [Sam Stepanyan](https://owasp.org/www-board-candidates/2023/sam_stepanyan)
 - [Steve Springett](https://owasp.org/www-board-candidates/2023/steve_springett)
-  
+
+
+### Board Election Results
+
+
+| **Name**               | **Votes**    |
+| :--------------------  | :----------- |
+| Steve Springett	       | 511 (18.3%)  |
+| Sam Stepanyan	         | 508 (18.2%)  |
+| Kevin Johnson	         | 421 (15.1%)  |
+| Avi Douglen	           | 404 (14.5%)  |
+| Paulino Calderon	     | 336 (12.0%)  |
+| Izar Tarandach	       | 326 (11.7%)  |
+| Fred Donovan	         | 285 (10.2%)  | 
+|                        |              |
+| Total                  | 908          |
+| Abstain                | 2 (0.2%)     |
+
+
+
+
+### Confirmed Nominations (4 seats) - their term will start on January 1, 2024
+
+- Steve Springett
+- Sam Stepanyan
+- Kevin Johnson
+- Avi Douglen
+
+
 
 
 
