@@ -1,10 +1,10 @@
-- image: people/board-grant.png
-  name: Grant Ongers
-  twitter: https://twitter.com/rewtd
-  linkedin: https://www.linkedin.com/in/rewtd/
+- image:
+  name: 
+  twitter:
+  linkedin: 
   title: Chair
-  term-ends: 12/31/2023
-  location: United Kingdom
+  term-ends: 
+  location: 
   description:  The Chair of the Board shall serve as the principal executive officer of the Foundation and provides strategic leadership and direction along with performing fiduciary and organizational requirements as defined in the OWASP Foundation bylaws.<br>
 - image: people/board-avi.png
   name: Avi Douglen 
