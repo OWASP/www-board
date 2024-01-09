@@ -77,6 +77,16 @@ The Executive Director or Operations Manager will work with the Board to establi
 
 Please ensure that you have an up-to-date passport, all necessary vaccination requirements to travel, and put time aside in your calendar to travel and attend all in-person AppSec Global events. There will be a public Board meeting at some point during the conference. AppSec Global events are a chance to meet with OWASP Members, Corporate Members, Event Sponsors, and participants and listen to their feedback and concerns. Please make the time to attend all of the conferences. The OWASP Foundation pays for board travel and hotels.
 
+### Transition Process
+
+From the end of the previous term until the first public Board meeting following January 1 of each year, the following process will take place:
+
+- Prior officers, if still on the Board, retain their position and signing authority until a new election of officers takes place.
+- Officers who are no longer in office as of January 1 lose their position and signing authority, and their position will remain vacant until the new Board elects officers. Ex-Board members are not covered by Directors and Officers liability insurance, and so they cannot act as officers or Directors.
+- Historically, the Board has permitted the previous Chair to open the first Board meeting to elect a new Chair and once elected, then hand over the meeting to the new Chair, even if the previous Chair is no longer on the Board of Directors. Alternatively, the incoming Board may choose to have the meeting called to order by the continuing Vice Chair or the Executive Director depending on circumstances. The incoming Board may decide to change this process.
+
+To avoid a situation where the Foundation cannot pay its larger bills, if all officers, or if all of (Chair, Vice Chair and Treasurer) are no longer in office, the Executive Director will call a Special Board meeting to elect officers as soon as practically possible after January 1. This meeting must be publicized for seven days, so it may be published in the prior year. The Executive Director will chair the meeting until the Chair is elected. The Executive Director will call the meeting to order and ask for nominations for Chair. The Executive Director will ask for a motion to close nominations and then ask for a vote. After the new Chair has been elected, the meeting will be handed over to the new Chair. All remaining officer positions will be nominated for and voted upon in the same manner.
+
 ### Working with our community
 
 Board members have higher requirements for independence to avoid any perceptions or actuality of conflict of interest. Directors **must** use their OWASP.org email address for all official business, not their personal or commercial email addresses.
