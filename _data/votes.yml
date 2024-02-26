@@ -1,4 +1,20 @@
 - date: 2024-01-24
+  motion: "Resolved, that the 2024 Vice Chair of the Board of Directors is elected as follows: Matt Tesauro.  Ricardo Griffith motions, Kevin Johnson seconds"
+  result:  "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
+  vote:  "<br>7-0"
+- date: 2024=01-24
+  motion:  "Resolved, that the 2024 Treasurer of the Board of Directors is elected as follows: Bil Corry.  Avi Douglen motions, Kevin Johnson seconds"
+  result:  "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
+  vote:  "<br>7-0"
+- date: 2024-01-24
+  motion:  "Resolved, that the 2024 Secretary of the Board of Directors is elected as follows: Ricardo Griffith.  Kevin Johnson motions, Matt Tesauro seconds"
+  result:  "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan"
+  vote:  "<br>7-0"
+- date: 2024-01-24
+  motion: "Resolved, the Board confirms Grant Ongers as a Compliance Officer for the Foundation, reporting to the Board.  Kevin Johnson motions, Avi Douglen seconds"
+  result: "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
+  vote:  "<br>7-0"
+- date: 2024-01-24
   motion:  "Resolved, that the 2024 Chair of the Board of Directors is elected as follows: Avi Douglen.  Kevin Johnson motions, Ricardo Griffith seconds"
   result:  "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
   vote:  "<br>7-0"
