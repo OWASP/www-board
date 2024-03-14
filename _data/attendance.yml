@@ -1,31 +1,39 @@
 - date: 2024-02-27
   year: 2024
   attendees:
-   - Avi Douglen
-   - Matt Tesauro
-   - Bil Corry
-   - Ricardo Griffith
-   - Kevin Johnson
-   - Sam Stepayan
-   - Steve Springett
+   - name: Avi Douglen
+   - name: Matt Tesauro
+   - name: Bil Corry
+   - name: Ricardo Griffith
+   - name: Kevin Johnson
+   - name: Sam Stepayan
+   - name: Steve Springett
 - date: 2024-01-23
   year: 2024
   attendees:
-   - Avi Douglen
-   - Matt Tesauro
-   - Bil Corry
-   - Ricardo Griffith
-   - Kevin Johnson
-   - Sam Stepayan
-   - Steve Springett
+   - name: Avi Douglen
+   - name: Matt Tesauro
+   - name: Bil Corry
+   - name: Ricardo Griffith
+   - name: Kevin Johnson
+   - name: Sam Stepayan
+   - name: Steve Springett
+- date: 2023-12-19
+  year: 2023
+  attendees:
+  - name: Grant Ongers
+  - name: Avi Douglen
+  - name: Ricardo Griffith
+  - name: Vandana Verma
 - date: 2023-11-28
   year: 2023
-  - Grant Ongers
-  - Avi Douglen
-  - Bil Corry
-  - Matt Tesauro
-  - Ricardo Griffith
-  - Vandana Verma 
+  attendees:
+  - name: Grant Ongers
+  - name: Avi Douglen
+  - name: Bil Corry
+  - name: Matt Tesauro
+  - name: Ricardo Griffith
+  - name: Vandana Verma 
 - date: 2023-10-23
   year: 2023
   attendees:
