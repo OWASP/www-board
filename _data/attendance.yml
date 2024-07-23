@@ -1,3 +1,12 @@
+- date: 2024-06-26
+  year: 2024
+  attendees:
+   - name: Avi Douglen
+   - name: Matt Tesauro
+   - name: Bil Corry
+   - name: Kevin Johnson
+   - name: Sam Stepanyan
+   - name: Steve Springett
 - date: 2024-05-28
   year: 2024
   attendees:
@@ -5,8 +14,8 @@
    - name: Matt Tesauro
    - name: Bil Corry
    - name: Ricardo Griffith
-   - name:  Sam Stepanyan
-   - name:  Steve Springett
+   - name: Sam Stepanyan
+   - name: Steve Springett
 - date: 2024-04-24
   year: 2024
   attendees: 
