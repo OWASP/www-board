@@ -20,7 +20,7 @@ The following individuals' Board Member seats will expire on December 31, 2024.
 - Matt Tesauro
 - Ricardo Griffith 
 
-
+----
 
 ### General Election Information
 
