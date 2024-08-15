@@ -72,7 +72,7 @@ Members who have been in good standing for more than 12 months can stand for the
 <br>
 <br>
 <br>
-### Board Initial Submissions ### - Three (3) seats are open for this election.
+### Board Initial Submissions ###
 <br>
 <br>To be determined 
 <br>
@@ -91,7 +91,5 @@ Members who have been in good standing for more than 12 months can stand for the
 <br>
 
 
-
-### Confirmed Nominations (3 seats) - their term will start on January 1, 2025
 
 - 
