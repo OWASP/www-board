@@ -37,8 +37,6 @@ Members who have been in good standing for more than 12 months can stand for the
 
 2. Click the "Apply for the OWASP Global Board" link in the [OWASP Member Portal](https://members.owasp.org/).
 
-- [OWASP Member Portal](https://members.owasp.org/)
-
 ### Election Timeline
 
 - 08-15-2024 - **Call for Candidates**
@@ -69,7 +67,9 @@ Members who have been in good standing for more than 12 months can stand for the
 - 01-01-2025 - Any Director-elect who is not a paid member by this date has not qualified to be a Director under our bylaws, and has 7 days grace to obtain paid membership
 - 08-01-2024 - Any Director-elect who still has not obtained paid membership after the grace period, has not qualified to be a Director. The next most voted candidate will take their place
 
+
 **Directors are solely responsible for maintaining good standing as a paid member throughout their term, or a vote of confidence will be held by the Board. This has happened several times in the past. We strongly urge Director-elects to take out sufficient membership to cover their entire term to avoid issues with standing. Adding a two year membership to your current membership or changing to a Lifetime membership is the ideal way to avoid this issue entirely.**
+
 
 ### Board Initial Submissions
 
