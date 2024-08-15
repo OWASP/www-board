@@ -29,13 +29,7 @@ asked questions, please visit:
 
 ### Call For Candidates
 
-Members who have been in good standing for more than 12 months can stand for the Board. To apply, there are two methods:
-
-1. OWASP Members have been emailed an email with the details of how to apply. Search for the following. The link to apply is within the email:
-
-> ```in:all "Elections - Call for Candidates and Interview Questions Reminder"```
-
-2. Click the "Apply for the OWASP Global Board" link in the [OWASP Member Portal](https://members.owasp.org/).
+Members who have been in good standing for more than 12 months can stand for the Board. To apply: please search your email for **OWASP 2024 Global Board Election Kickoff**, which includes all details.
 
 ### Election Timeline
 
