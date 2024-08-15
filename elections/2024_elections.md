@@ -72,25 +72,23 @@ Members who have been in good standing for more than 12 months can stand for the
 <br>
 <br>
 <br>
-### Board Initial Submissions ###
+### Board Initial Submissions ### - Three (3) seats are open for this election.
 <br>
-Three seats are open for this election.
-<br>
-<br> To be determined 
+<br>To be determined 
 <br>
 <br>
 
 ### [Candidates Page](https://owasp.org/www-board-candidates/) ###
 <br>
-<br> To be determined 
+<br>To be determined 
 <br>
 <br>
 
 ### Board Election Results ###
 <br>
-<br> To be determined
+<br>To be determined
 <br>
-
+<br>
 
 
 
