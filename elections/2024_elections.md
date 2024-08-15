@@ -20,7 +20,7 @@ The following individuals' Board Member seats will expire on December 31, 2024.
 - Matt Tesauro
 - Ricardo Griffith 
 
-----
+
 
 ### General Election Information
 
@@ -29,7 +29,7 @@ asked questions, please visit:
 
 - [OWASP Board Elections](/www-board/elections)
 
-----
+
 
 ### Call For Candidates
 
@@ -37,32 +37,31 @@ Paid Individual Members who have been in good standing for more than 12 months c
 <br>
 <br>
 
-----
+
 
 **Directors are solely responsible for maintaining good standing as a paid member throughout their term, or a vote of confidence will be held by the Board. This has happened several times in the past. We strongly urge Director-elects to take out sufficient membership to cover their entire term to avoid issues with standing. Adding a two year membership to your current membership or changing to a Lifetime membership is the ideal way to avoid this issue entirely.**
 <br>
 <br>
 
-----
+
 
 ### Board Initial Submissions ###
 
 <br>To be determined 
 <br>
 
-----
+
 
 ### [Candidates Page](https://owasp.org/www-board-candidates/) ###
 
 <br>To be determined 
 <br>
 
-----
+
 
 ### Board Election Results ###
 
 <br>To be determined
 <br>
 
-----
 
