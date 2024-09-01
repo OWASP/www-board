@@ -47,7 +47,25 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 ### Board Initial Submissions ###
 
-<br>To be determined 
+- Chirag Shah
+- M'GHARI Khatir
+- Elastos Chimwanda
+- Ashwini Siddhi
+- Louis Griffith
+- Profal bhalla
+- Adeel Javaid
+- Bhaskar Ram Allam
+- Aruneesh Salhotra
+- Richard Losier
+- Wendy Segura
+- Harold Blankenship
+- John DiLeo
+- Janarthanan Dakshnamoorthy
+- Shruti Kulkarni
+- Ash Naiku
+- Mateo Martinez
+- Diego Silva Martins
+
 <br>
 
 ----
