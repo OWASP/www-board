@@ -49,7 +49,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 - Chirag Shah
 - MGHARI Khatir
-- Elastos Chimwanda
+- Elastos Chimwnda
 - Ashwini Siddhi
 - Louis Griffith
 - Profal bhalla
@@ -65,7 +65,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 - Ash Naiku
 - Mateo Martinez
 - Diego Silva Martins
-
+  
 ----
 
 ### [Candidates Page](https://owasp.org/www-board-candidates/) ###
