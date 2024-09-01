@@ -12,7 +12,7 @@ layout: col-generic
 }
 </style>
 
-### Board Member Seats
+### Board Member Seats ###
 
 The following individuals' Board Member seats will expire on December 31, 2024.
 
@@ -22,7 +22,7 @@ The following individuals' Board Member seats will expire on December 31, 2024.
 
 ----
 
-### General Election Information
+### General Election Information ###
 
 For general election information, including eligibility requirements, who can vote and how to vote, along with other frequently
 asked questions, please visit:
@@ -31,7 +31,7 @@ asked questions, please visit:
 
 ----
 
-### Call For Candidates
+### Call For Candidates ###
 
 Paid Individual Members who have been in good standing for more than 12 months can stand for the Board. To apply: please search your email for **OWASP 2024 Global Board Election Kickoff**, which includes all details.
 <br>
