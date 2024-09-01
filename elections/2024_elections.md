@@ -65,7 +65,9 @@ Paid Individual Members who have been in good standing for more than 12 months c
 - Ash Naiku
 - Mateo Martinez
 - Diego Silva Martins
-  
+<br>
+<br>
+
 ----
 
 ### [Candidates Page](https://owasp.org/www-board-candidates/) ###
