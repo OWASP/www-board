@@ -48,7 +48,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 ### Board Initial Submissions ###
 
 - Chirag Shah
-- M'GHARI Khatir
+- MGHARI Khatir
 - Elastos Chimwanda
 - Ashwini Siddhi
 - Louis Griffith
