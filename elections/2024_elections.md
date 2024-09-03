@@ -34,14 +34,12 @@ asked questions, please visit:
 ### Call For Candidates ###
 
 Paid Individual Members who have been in good standing for more than 12 months can stand for the Board. To apply: please search your email for **OWASP 2024 Global Board Election Kickoff**, which includes all details.
-<br>
-<br>
+
 
 ----
 
 **Directors are solely responsible for maintaining good standing as a paid member throughout their term, or a vote of confidence will be held by the Board. This has happened several times in the past. We strongly urge Director-elects to take out sufficient membership to cover their entire term to avoid issues with standing. Adding a two year membership to your current membership or changing to a Lifetime membership is the ideal way to avoid this issue entirely.**
-<br>
-<br>
+
 
 ----
 
@@ -65,8 +63,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 - Ash Naiku
 - Mateo Martinez
 - Diego Silva Martins
-<br>
-<br>
+
 
 ----
 
