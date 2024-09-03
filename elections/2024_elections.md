@@ -7,7 +7,7 @@ layout: col-generic
 
 <style>
   table th, table td, table tr {
-    padding: 15 px;
+    padding: 15px;
     border: none;
 }
 </style>
