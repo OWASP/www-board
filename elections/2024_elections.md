@@ -34,7 +34,7 @@ For general election information, including eligibility requirements, who can vo
 
 **Call For Candidates**
 
-Paid Individual Members who have been in good standing for more than 12 months can stand for the Board. To apply, please search your email for **OWASP 2024 Global Board Election Kickoff**, which includes all details.
+Paid Individual Members who have been in good standing for more than 12 months can stand for the Board. To apply, please search your email for OWASP 2024 Global Board Election Kickoff, which includes all details.
 
 
 ----
