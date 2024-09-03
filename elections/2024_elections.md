@@ -12,10 +12,11 @@ layout: col-generic
 }
 </style>
 
+----
 
-## Board Member Seats ##
+**Board Member Seats**
 
-The following individuals' Board Member seats will expire on December 31, 2024.
+The following individuals Board Member seats will expire on December 31, 2024.
 
 - Bil Corry
 - Matt Tesauro
@@ -23,7 +24,7 @@ The following individuals' Board Member seats will expire on December 31, 2024.
 
 ----
 
-## General Election Information ##
+**General Election Information**
 
 For general election information, including eligibility requirements, who can vote and how to vote, along with other frequently asked questions, please visit:
 
@@ -31,7 +32,7 @@ For general election information, including eligibility requirements, who can vo
 
 ----
 
-## Call For Candidates ##
+**Call For Candidates**
 
 Paid Individual Members who have been in good standing for more than 12 months can stand for the Board. To apply: please search your email for **OWASP 2024 Global Board Election Kickoff**, which includes all details.
 
@@ -43,7 +44,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 ----
 
-## Board Initial Submissions ##
+**Board Initial Submissions**
 
 - Chirag Shah
 - MGHARI Khatir
@@ -68,14 +69,14 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 ----
 
-## [Candidates Page](https://owasp.org/www-board-candidates/) ##
+**[Candidates Page](https://owasp.org/www-board-candidates/)**
 
 <br>To be determined
 <br>
 
 ----
 
-## Board Election Results ##
+**Board Election Results**
 
 <br>To be determined
 <br>
