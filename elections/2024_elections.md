@@ -24,8 +24,7 @@ The following individuals' Board Member seats will expire on December 31, 2024.
 
 ### General Election Information ###
 
-For general election information, including eligibility requirements, who can vote and how to vote, along with other frequently
-asked questions, please visit:
+For general election information, including eligibility requirements, who can vote and how to vote, along with other frequently asked questions, please visit:
 
 - [OWASP Board Elections](/www-board/elections)
 
