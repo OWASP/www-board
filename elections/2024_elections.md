@@ -71,8 +71,18 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **[Candidates Page](https://owasp.org/www-board-candidates/)**
 
-<br>To be determined
-<br>
+- [Adeel Javaid](www-board-candidates/blob/master/2024/adeel_javaid.md)
+- [Ashwini Siddhi](www-board-candidates/blob/master/2024/ashwini_siddhi.md)
+- [Bhaskar Ram Allam](www-board-candidates/blob/master/2024/bhaskar_ram_allam.md)
+- [Diego Silva Martins](www-board-candidates/blob/master/2024/diego_silva_martins.md)
+- [Elastos Chimwanda](www-board-candidates/blob/master/2024/elastos_chimwanda.md)
+- [Harold Blankenship](www-board-candidates/blob/master/2024/harold_blankenship.md)
+- [John DiLeo](www-board-candidates/blob/master/2024/john_dileo.md)
+- [Mateo Martinez](www-board-candidates/blob/master/2024/mateo_martinez.md)
+- [Ricardo Griffith](www-board-candidates/blob/master/2024/ricardo_griffith.md)
+- [Richard Losier](www-board-candidates/blob/master/2024/richard_losier.md)
+- [Wendy Segura](www-board-candidates/blob/master/2024/wend_segura.md)
+  
 
 ----
 
