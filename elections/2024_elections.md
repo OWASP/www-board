@@ -71,17 +71,17 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **[Candidates Page](https://owasp.org/www-board-candidates/)**
 
-- [Adeel Javaid](https://owasp.org/www-board-candidates/2024/adeel_javaid.md)
-- [Ashwini Siddhi](www-board-candidates/2024/ashwini_siddhi.md)
-- [Bhaskar Ram Allam](www-board-candidates/blob/master/2024/bhaskar_ram_allam.md)
-- [Diego Silva Martins](www-board-candidates/blob/master/2024/diego_silva_martins.md)
-- [Elastos Chimwanda](www-board-candidates/blob/master/2024/elastos_chimwanda.md)
-- [Harold Blankenship](www-board-candidates/blob/master/2024/harold_blankenship.md)
-- [John DiLeo](www-board-candidates/blob/master/2024/john_dileo.md)
-- [Mateo Martinez](www-board-candidates/blob/master/2024/mateo_martinez.md)
-- [Ricardo Griffith](www-board-candidates/blob/master/2024/ricardo_griffith.md)
-- [Richard Losier](www-board-candidates/blob/master/2024/richard_losier.md)
-- [Wendy Segura](www-board-candidates/blob/master/2024/wend_segura.md)
+- [Adeel Javaid](https://owasp.org/www-board-candidates/2024/adeel_javaid)
+- [Ashwini Siddhi](https://owasp.org/www-board-candidates/2024/ashwini_siddhi)
+- [Bhaskar Ram Allam](https://owasp.org/www-board-candidates/2024/bhaskar_ram_allam)
+- [Diego Silva Martins](https://owasp.org/www-board-candidates/2024/diego_silva_martins)
+- [Elastos Chimwanda](https://owasp.org/www-board-candidates/2024/elastos_chimwanda)
+- [Harold Blankenship](https://owasp.org/www-board-candidates/2024/harold_blankenship)
+- [John DiLeo](https://owasp.org/www-board-candidates/2024/john_dileo)
+- [Mateo Martinez](https://owasp.org/www-board-candidates/2024/mateo_martinez)
+- [Ricardo Griffith](https://owasp.org/www-board-candidates/2024/ricardo_griffith)
+- [Richard Losier](https://owasp.org/www-board-candidates/2024/richard_losier)
+- [Wendy Segura](https://owasp.org/www-board-candidates/2024/wendy_segura)
   
 
 ----
