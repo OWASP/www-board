@@ -71,8 +71,8 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **[Candidates Page](https://owasp.org/www-board-candidates/)**
 
-- [Adeel Javaid](https://github.com/OWASP/www-board-candidates/blob/master/2024/adeel_javaid.md)
-- [Ashwini Siddhi](www-board-candidates/blob/master/2024/ashwini_siddhi.md)
+- [Adeel Javaid](www-board-candidates/2024/adeel_javaid.md)
+- [Ashwini Siddhi](www-board-candidates/2024/ashwini_siddhi.md)
 - [Bhaskar Ram Allam](www-board-candidates/blob/master/2024/bhaskar_ram_allam.md)
 - [Diego Silva Martins](www-board-candidates/blob/master/2024/diego_silva_martins.md)
 - [Elastos Chimwanda](www-board-candidates/blob/master/2024/elastos_chimwanda.md)
