@@ -50,7 +50,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 - MGHARI Khatir
 - Elastos Chimwnda
 - Ashwini Siddhi
-- Louis Griffith
+- Ricardo Griffith
 - Profal bhalla
 - Adeel Javaid
 - Bhaskar Ram Allam
