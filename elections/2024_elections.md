@@ -55,7 +55,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 - Adeel Javaid
 - Bhaskar Ram Allam
 - Aruneesh Salhotra
-- Richard Losier
+- Richard Losier 
 - Wendy Segura
 - Harold Blankenship
 - John DiLeo
@@ -80,7 +80,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 - [John DiLeo](https://owasp.org/www-board-candidates/2024/john_dileo)
 - [Mateo Martinez](https://owasp.org/www-board-candidates/2024/mateo_martinez)
 - [Ricardo Griffith](https://owasp.org/www-board-candidates/2024/ricardo_griffith)
-- [Richard Losier](https://owasp.org/www-board-candidates/2024/richard_losier)
+- [Richard Losier](https://owasp.org/www-board-candidates/2024/richard_losier) - withdrew
 - [Wendy Segura](https://owasp.org/www-board-candidates/2024/wendy_segura)
   
 
