@@ -41,6 +41,7 @@ For general election information, including eligibility requirements, who can vo
 - 09-30-24 - Candidate page submissions deadline
 - 09-30-24 - Membership deadline
 - 10-01-24 - Candidate pages are posted on our website
+- 10-02-24 - Candidates are announced to the community
 - 10-15-24 - Voting opens
 - 10-30-24 - Voting closes
 - 10-31-24 - Election results shared with candidates
