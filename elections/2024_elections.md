@@ -37,14 +37,14 @@ For general election information, including eligibility requirements, who can vo
 - 08-15-24 - Call for Candidates
 - 08-31-24 - Submission Deadline for Candidates
 - 08-31-24 - Submission deadline for questions from the community for candidate interviews
-- 09-15-24 - Candidate page template is sent to all eligible subsmissions.
-- 09-30-24 - Candidate page submissions deadline.
-- 09-30-24 - Membership deadline to join to be able to vote in election
-- 10-01-24 - Candidate pages are posted on our website.
+- 09-15-24 - Candidate page template is sent to all eligible subsmissions
+- 09-30-24 - Candidate page submissions deadline
+- 09-30-24 - Membership deadline
+- 10-01-24 - Candidate pages are posted on our website
 - 10-15-24 - Voting opens
 - 10-30-24 - Voting closes
 - 10-31-24 - Election results shared with candidates
-- 11-01-24 - Election results announced to the community.
+- 11-01-24 - Election results announced to the community
 
 
 ----
