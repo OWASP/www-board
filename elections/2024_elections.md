@@ -32,7 +32,7 @@ For general election information, including eligibility requirements, who can vo
 
 ----
 
-**Election Timeline - all dates and time are based on Eastern Standard Time**
+**Election Timeline - all times are based on Eastern Standard Time**
 
 - 08-15-24 - Call for Candidates
 - 08-31-24 - Submission Deadline for Candidates
@@ -45,6 +45,7 @@ For general election information, including eligibility requirements, who can vo
 - 10-30-24 - Voting closes
 - 10-31-24 - Election results shared with candidates
 - 11-01-24 - Election results announced to the community.
+
 
 ----
 
