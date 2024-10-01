@@ -32,6 +32,22 @@ For general election information, including eligibility requirements, who can vo
 
 ----
 
+**Election Timeline - all dates and time are based on Eastern Standard Time**
+
+- 08-15-24 - Call for Candidates
+- 08-31-24 - Submission Deadline for Candidates
+- 08-31-24 - Submission deadline for questions from the community for candidate interviews
+- 09-15-24 - Candidate page template is sent to all eligible subsmissions.
+- 09-30-24 - Candidate page submissions deadline.
+- 09-30-24 - Membership deadline to join to be able to vote in election
+- 10-01-24 - Candidate pages are posted on our website.
+- 10-15-24 - Voting opens
+- 10-30-24 - Voting closes
+- 10-31-24 - Election results shared with candidates
+- 11-01-24 - Election results announced to the community.
+
+----
+
 **Call For Candidates**
 
 Paid Individual Members who have been in good standing for more than 12 months can stand for the Board. To apply, please search your email for OWASP 2024 Global Board Election Kickoff, which includes all details.
