@@ -91,17 +91,12 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 - [Adeel Javaid](https://owasp.org/www-board-candidates/2024/adeel_javaid)
 - [Ashwini Siddhi](https://owasp.org/www-board-candidates/2024/ashwini_siddhi)
-- Bhaskar Ram Allam
 - [Diego Silva Martins](https://owasp.org/www-board-candidates/2024/diego_silva_martins)
 - [Elastos Chimwanda](https://owasp.org/www-board-candidates/2024/elastos_chimwanda)
 - [Harold Blankenship](https://owasp.org/www-board-candidates/2024/harold_blankenship)
-- John DiLeo
-- Mateo Martinez
 - [Ricardo Griffith](https://owasp.org/www-board-candidates/2024/ricardo_griffith)
-- Richard Losier - withdrew
-- Wendy Segura
-  
 
+  
 ----
 
 **Board Election Results**
