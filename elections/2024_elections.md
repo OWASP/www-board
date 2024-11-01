@@ -103,8 +103,6 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 ![image](https://github.com/user-attachments/assets/46f8b717-841f-4fd6-ad5e-90b6944b9798)
 
-
-<br>To be determined
 <br>
 
 ----
