@@ -101,7 +101,17 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **Board Election Results**
 
-![image](https://github.com/user-attachments/assets/46f8b717-841f-4fd6-ad5e-90b6944b9798)
+| **Name**               | **Votes**    |
+| :--------------------  | :----------- |
+| Ashwini Siddhi         | 490 (25.1%)  |
+| Harold Blankenship     | 437 (22.4%)  |
+| Ricardo Griffith	     | 422 (21.7%)  |
+| Diego Silva Martins    | 314 (16.1%)  |
+| Adeel Javaid     	     | 144 ( 7.4%)  |
+| Elastos Chimwanda 	   | 142 ( 7.3%)  |
+|                        |              |
+| Total                  | 760          |
+| Abstain                | 6 (0.8%)     |
 
 <br>
 
