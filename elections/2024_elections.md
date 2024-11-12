@@ -119,9 +119,9 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **Confirmed Nominations (3 seats) - their term will start on January 1, 2025**
 
-Ashwini Siddhi
-Harold Blankenship
-Ricardo Griffith
+- Ashwini Siddhi
+- Harold Blankenship
+- Ricardo Griffith
 
 <br>
 <br>
