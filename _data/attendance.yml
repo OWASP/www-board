@@ -1,3 +1,23 @@
+- date: 2025-02-25
+  year: 2025
+  attendees:
+   - name: Ricardo Griffith
+   - name: Steve Springett
+   - name: Harold Blankenship
+   - name: Sam Stepanyan
+   - name: Ashwini Siddhi
+   - name: Avi Douglen
+   - name: Diego Silva Martins
+- date: 2025-01-28
+  year: 2025
+  attendees:
+   - name: Ricardo Griffith
+   - name: Steve Springett
+   - name: Harold Blankenship
+   - name: Sam Stepanyan
+   - name: Ashwini Siddhi
+   - name: Avi Douglen
+   - name: Diego Silva Martins
 - date: 2024-12-17
   year: 2024
   attendees:
