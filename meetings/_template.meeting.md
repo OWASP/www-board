@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: MONTH 2024 Videoconference
-date: 2024-XX-XX
+title: MONTH 2025 Videoconference
+date: 2025-XX-XX
 
 ---
 
