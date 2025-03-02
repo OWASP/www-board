@@ -1,3 +1,23 @@
+- date: 2025-01-28
+  motion: "Resolved, that the Board appoints Diego Silva Martins to the OWASP Board of Directors, effective immediately, to serve for the remainder of Kevin Johnson's term. Ricardo Griffith motions, Avi Douglen seconds."
+  result: "<br>In Favor: 5-0 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Steve Springett) Avi Douglen - abstained."
+  vote:  "<br>5-0"
+- date: 2025-01-28
+  motion: "Resolved, that the 2025 Chair of the Board of Directors is elected as follows: Ricardo Griffith.  Avi Douglen sponsors, Sam Stepanyan seconds"
+  result: "<br>In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
+  vote: "<br>7-0"
+- date: 2025-01-28
+  motion: "Resolved, that the 2025 Vice Chair of the Board of Directors is elected as follows: Steve Springett. Ricardo Griffith motions, Diego Silva Martins seconds"
+  result: "<br>In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
+  vote: "<br>7-0"
+- date: 2025-01-28
+  motion: "Resolved, that the 2025 Treasurer of the Board of Directors is elected as follows: Harold Blankenship.  Ricardo Griffith motions, Diego Silva Martins seconds"
+  result: "<br>In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
+  vote: "<br>7-0"
+- date: 2025-01-28
+  motion: "Resolved, that the 2025 Secretary of the Board of Directors is elected as follows: Sam Stepanyan. Harold Blankenship motions, Ricardo Griffith seconds"
+  result: "<br>In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
+  vote: "<br>7-0"
 - date: 2024-12-17
   motion: "To discuss the Cairo Chapter before any other new business. Kevin Johnson motions and Avi Douglen seconds"
   result: "<br>In Favor: 7 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith"
