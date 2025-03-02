@@ -17,13 +17,27 @@ date: 2024-XX-XX
 
 ### CALL TO ORDER
 
-<!--
 Board Members
-- Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro, Bil Corry, and Ricardo Griffith.
+- Ricardo Griffith
+- Steve Springett
+- Harold Blankenship
+- Sam Stepanyan
+- Ashwini Siddhi
+- Avi Douglen 
+- Diego Silva Martins
 
 Guests
-Andrew van der Stock, Dawn Aitken, Harold Blankenship, Kelly Santalucia, Lauren Thomas, Chris Barbeau, Leea Hudson-Wilson.
--->
+- Andrew van der Stock
+- Kelly Santalucia
+- Dawn Aitken
+- Lauren Thomas
+- Hayden Corry
+- Starr Brown
+- Christian Capellan 
+- Heather Kennedy
+- Chris Barbeau
+- Leea Hudson-Wilson
+  
 
 ### CONFLICT OF INTEREST AND ANTI-TRUST STATEMENT
 
