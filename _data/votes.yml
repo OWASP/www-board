@@ -1,3 +1,23 @@
+- date: 2025-03-25
+  motion: "Resolved, that the OWASP Foundation Board of Directors promotes the OWASP GenAI project to Flagship status.  Steve Springett motions and Avi Douglen seconds"
+  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: <br>"7-0"
+- date: 2025-03-25
+  motion: "Vote to change to the agenda to introduce new motion - Re:  OWASP AI Exchange Project Promotion.  Steve Springett motions, Avi Douglen seconds"
+  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: <br>"7-0"
+- date: 2025-03-25
+  motion: "Resolved, that the OWASP Foundation Board of Directors promotes the OWASP AI Exchange aka OWASP Security and Privacy Guide Project to Flagship Project status.  Steve Springett motions, Avi Douglen seconds"
+  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: <br>"7-0"
+- date: 2025-03-25
+  motion: "Vote to change to the agenda to remove the following items from the agendue due to contraints.  Ricardo Griffith motions and sam Stepanyan seconds"
+  - Discuss flagship projects
+  - Discussion on establishing a funding committee
+  - Discussion on establishing a marketing committee
+  - Discussion on establishing a diversity committee
+  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: <br>"7-0"
 - date: 2025-02-25
   motion: "Resolved, that the 2025 Budget is approved, effective immediately."
   result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Avi Douglen, Diego Silva Martins, Ashwini Siddhi and Ricardo Griffith)"
