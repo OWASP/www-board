@@ -19,6 +19,7 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 ### Recent Board Elections
 <!-- todo: change this to read from elections -->
 
+* [2025 Board Elections](2025_elections)
 * [2024 Board Elections](2024_elections)
 * [2023 Board Elections](2023_elections)
 * [2022 Board Elections](2022_elections)
@@ -95,3 +96,4 @@ It is a specific link ***JUST FOR YOU***!
 
 Additionally, eligible voting members will also receive an email from the OWASP Foundation notifying them that their ballot has 
 been sent. In the instance that they did not receive a ballot they are asked to [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
+
