@@ -18,7 +18,12 @@ layout: col-generic
 
 The following individuals Board Member seats will expire on December 31, 2025.
 
-- 
+- Steve Springett
+- Sam Stepanyan
+- Avi Douglen
+- Diego Silva Martins
+
+
 ----
 
 **General Election Information**
@@ -61,37 +66,35 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **Board Initial Submissions**
 <br>
+Pending
 <br>
-
-
-
-
+<br>
 
 ----
 
 **[Candidates Page](https://owasp.org/www-board-candidates/)**
 
 <br>
+Pending
 <br>
-
+<br>
   
 ----
 
 **Board Election Results**
 <br>
-
-
+Pending
+<br>
 <br>
 
 ----
 
-**Confirmed Nominations (3 seats) - their term will start on January 1, 2026**
+**Confirmed Nominations (4 seats) - their term will start on January 1, 2026**
+<r>
+Pending
+<br>
+<br>
 
-
-<br>
-<br>
-<br>
-<br>
 
 
 
