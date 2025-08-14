@@ -66,16 +66,15 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **Board Initial Submissions**
 <br>
-Pending
+<br>Pending
 <br>
 <br>
 
 ----
 
 **[Candidates Page](https://owasp.org/www-board-candidates/)**
-
 <br>
-Pending
+<br>Pending
 <br>
 <br>
   
@@ -83,15 +82,15 @@ Pending
 
 **Board Election Results**
 <br>
-Pending
+<br>Pending
 <br>
 <br>
 
 ----
 
 **Confirmed Nominations (4 seats) - their term will start on January 1, 2026**
-<r>
-Pending
+<br>
+<br>Pending
 <br>
 <br>
 
