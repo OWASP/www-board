@@ -1,3 +1,10 @@
+
+### Board Navigation
+
+- [Global Board Main Page](/)
+- [Global Board Elections](/elections/)
+- [Global Board History](/board_history)
+
 ### Upcoming Meetings
 The OWASP Global Board typically meets over video-conference on the third Tuesday of each month. 
 
@@ -5,7 +12,7 @@ The OWASP Global Board typically meets over video-conference on the third Tuesda
 <ul>
 {% for page in pages %}
  {% if page.path contains 'meetings/' %}
- <li><a href='https://board.owasp.org/{{ page.url }}'>{{ page.title }}</a></li>
+ <li><a href='https://board.owasp.org{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
