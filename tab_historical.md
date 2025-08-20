@@ -17,7 +17,7 @@ As part of our recent website migration, we have been migrating old Board conten
 <ul>
 {% for page in pages %}
  {% if page.path contains 'historical/' %}
- <li>{{page.date}}-<a href='/{{ page.url }}'>{{ page.title }}</a></li>
+ <li>{{page.date}}-<a href='https://board.owasp.org{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>

@@ -33,7 +33,7 @@ The Board can make motions on any topic as long as they do not attempt to bind f
 
 If you are passionate about OWASP, being a Director of a non-profit is a fantastic experience, but it can also be exhausting. If you have limited time, being a Director may not be for you. Board officers have more duties than General Members At Large. General Members at Large (i.e., those that aren't the Chair, Vice-Chair, Secretary, or Treasurer) are strongly encouraged to be a Board champion for a mission goal, such as Projects, Chapters, Members, Events, Outreach, or fundraising.
 
-If you want to run for election, you must have 12 months of continuous membership in good standing and nominate yourself when the call for candidates comes out. Prospective Directors can find more details in the [elections page](https://owasp.org/elections/), including results.
+If you want to run for election, you must have 12 months of continuous membership in good standing and nominate yourself when the call for candidates comes out. Prospective Directors can find more details in the [elections page](/elections/), including results.
 
 ### Onboarding for new Board Members
 
@@ -45,7 +45,7 @@ The current induction resources and books are:
 - [OWASP Restated Certificate of Incorporation 2024](https://policy.owasp.org/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf){:target='_blank'}
 - [Nonprofit Kit For Dummies 6th Edition](https://www.amazon.com/gp/product/1119835720/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1){:target='_blank'}
 - [Robert's Rules of Order, Newly Revised 12th Edition](https://www.amazon.com/Roberts-Rules-Order-Newly-Revised/dp/1541736699/ref=sr_1_1?keywords=roberts+rules+of+order+newly+revised+12th+edition&qid=1642176682&sprefix=roberts%2Caps%2C118&sr=8-1){:target='_blank'} or the [Concise version](https://www.amazon.com/Roberts-Rules-Order-Newly-Revised/dp/1541797701/ref=sr_1_4?keywords=roberts+rules+of+order+newly+revised+12th+edition&qid=1642176682&sprefix=roberts%2Caps%2C118&sr=8-4){:target='_blank'}.
-- [Board Source online training](https://boardsource.org/my-account/trainings/){:target='_blank'}. The OWASP Foundation will provide a registration link to all Board members, and they should complete the training certificate found by clicking "My Account" at the top, "Training" on the left side, and then "Certificate of Nonprofit Board Education Series." It will take approximately an hour. Please provide the certificate to the Operations Manager before signing the Commitment agreement.
+- [Board Source online training](https://boardsource.org/){:target='_blank'}. The OWASP Foundation will provide a registration link to all Board members, and they should complete the training certificate found by clicking "My Account" at the top, "Training" on the left side, and then "Certificate of Nonprofit Board Education Series." It will take approximately an hour. Please provide the certificate to the Operations Manager before signing the Commitment agreement.
 
 Every Director should have read OWASP's bylaws and policies to not take actions or make motions that contravene them. These are not perfect. Directors may raise enhancements or improvements that the Board can address.
 
@@ -104,7 +104,7 @@ The Board is welcome to communicate to the Foundation through the Global Board l
 
 The staff is encouraged to raise any concerns with the Board if they feel an issue that the Executive Director is not addressing. The staff will directly communicate with the Board to complete or work on a Board action from time to time. Please respond to staff requests or concerns in a timely fashion.
 
-The Board should track public actions arising from Board meetings, or tasks delegated to the Foundation through the [Public Board Actions Kanban](https://github.com/OWASP/projects/1)
+The Board should track public actions arising from Board meetings. This is done in a Monday.com workspace.
 
 ### Working with committees
 
