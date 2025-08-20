@@ -99,7 +99,7 @@ Motion: "Resolved, that..."
 
 The next general Board meeting is on TBA, at 12 pm US Eastern Time.
 
-- [TBA 2024](https://board.owasp.org/meetings/2024XX.html)
+- [TBA 2024](https://board.owasp.org/meetings-historical/2024/2024XX.html)
 
 "It is moved, and seconded to adjourn. Those in favor, say "aye""
 
