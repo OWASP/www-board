@@ -9,7 +9,7 @@ tags: board
 
 ---
 
-The following reflects the board attendance to meetings as a percentage of regular meetings over the calendar year.  Only regular meetings are used in the calculations.  Attendance means that the individual was present for 90% of the meeting.  Missing 10 minutes of a 1.5 hour meeting qualifies as being absent for said meeting.  For more information, refer to the [OWASP Foundation Bylaws](/www-policy/legal/bylaws)
+The following reflects the board attendance to meetings as a percentage of regular meetings over the calendar year.  Only regular meetings are used in the calculations.  Attendance means that the individual was present for 90% of the meeting.  Missing 10 minutes of a 1.5 hour meeting qualifies as being absent for said meeting.  For more information, refer to the [OWASP Foundation Bylaws](https://policy.owasp.org/legal/bylaws)
 
 {% assign year = site.time | date: "%Y" %}
 {% assign yearly_meetings = site.data.attendance | where: 'year', year %}

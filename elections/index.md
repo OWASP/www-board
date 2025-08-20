@@ -62,7 +62,7 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 
 The OWASP Foundation Board of Directors currently consists of seven elected volunteers who serve a two year term. These unpaid volunteers dedicate themselves to the organizational mission and playing a pivotal role in the software security community. Members of the Global Board of Directors are responsible for setting the strategic direction of the organization and ensuring the financial integrity of the Foundation.
 
-Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [OWASP Foundation Bylaws](/www-policy/legal/bylaws).  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [Governance page](/governance/).
+Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [OWASP Foundation Bylaws](https://policy.owasp.org/legal/bylaws).  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [Governance page](/governance/).
 
 Please reach out to our [current Board Members](/corporate/) if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
 
@@ -72,11 +72,11 @@ Additional Responsibilities that the Global Board of Directors must adhere to ca
 
 #### Eligibility Requirements for Board Candidates
 
-You need to be an OWASP individual member in good standing for a twelve (12) month period of time prior to the Membership Deadline above. See [Section 3.02 Qualifications](/www-policy/legal/bylaws#section-302-number-tenure-and-qualifications) of the bylaws for more details.
+You need to be an OWASP individual member in good standing for a twelve (12) month period of time prior to the Membership Deadline above. See [Section 3.02 Qualifications](https://policy.owasp.org/legal/bylaws#section-302-number-tenure-and-qualifications) of the bylaws for more details.
 
 Candidates are required to submit to the OWASP Foundation: a bio, current membership status, a brief description of why you feel you are the best candidate, and why you would like to be elected at the time of submission. After vetting as a formal candidate for the election, the Foundation will create a candidate page for you with these supplied details from the application form. You will be encouraged to record a short video of your answers to the community's questions to be posted prior to mid September. Once recorded, please provide a link to the OWASP Foundation so they can be added to your candidate page.
 
-If elected, successful candidates will need to become a paid member prior to taking their seat on the Board. We recommend obtaining sufficient paid membership, such as two year or Lifetime membership, to cover the entire elected term to avoid issues with good standing. See [Section 4.02 Qualifications](/www-policy/legal/bylaws#section-402-qualifications) of the bylaws for more details.
+If elected, successful candidates will need to become a paid member prior to taking their seat on the Board. We recommend obtaining sufficient paid membership, such as two year or Lifetime membership, to cover the entire elected term to avoid issues with good standing. See [Section 4.02 Qualifications](https://policy.owasp.org/legal/bylaws#section-402-qualifications) of the bylaws for more details.
 
 If you are interested in running for a seat on the OWASP Global Board please submit your intention along with the requirements listed above. All submissions will be reviewed and verified by OWASP.
 
