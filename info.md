@@ -5,7 +5,7 @@ The OWASP Global Board typically meets over video-conference on the third Tuesda
 <ul>
 {% for page in pages %}
  {% if page.path contains 'meetings/' %}
- <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
+ <li><a href='/{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
