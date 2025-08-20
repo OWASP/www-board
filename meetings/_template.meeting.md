@@ -50,7 +50,7 @@ Changes to the agenda - unless otherwise prohibited by anti-trust or competition
 
 ### APPROVAL OF MINUTES
 
-- [Previous Meeting Minutes - TBA 2023](/www-board/meetings-historical/2023XX)
+- [Previous Meeting Minutes - TBA 2023](/meetings-historical/2023XX)
 
 ### PRE-READING MATERIAL
 
@@ -99,7 +99,7 @@ Motion: "Resolved, that..."
 
 The next general Board meeting is on TBA, at 12 pm US Eastern Time.
 
-- [TBA 2024](https://owasp.org/www-board/meetings/2024XX.html)
+- [TBA 2024](https://owasp.org/meetings/2024XX.html)
 
 "It is moved, and seconded to adjourn. Those in favor, say "aye""
 

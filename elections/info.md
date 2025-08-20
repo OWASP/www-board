@@ -1,3 +1,3 @@
-#### [Global Board Main Page](/www-board/)
-#### [Global Board Elections](/www-board/elections/)
-#### [Global Board History](/www-board/board_history)
+#### [Global Board Main Page](/)
+#### [Global Board Elections](/elections/)
+#### [Global Board History](/board_history)

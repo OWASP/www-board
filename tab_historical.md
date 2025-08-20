@@ -17,7 +17,7 @@ As part of our recent website migration, we have been migrating old Board conten
 <ul>
 {% for page in pages %}
  {% if page.path contains 'historical/' %}
- <li>{{page.date}}-<a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
+ <li>{{page.date}}-<a href='/{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
@@ -50,4 +50,4 @@ See meeting minutes for the recordings
 
 ## Historical Board Members
 
-Please visit the [Global Board History](/www-board/board_history) for the timeline of board members since 2004 
+Please visit the [Global Board History](/board_history) for the timeline of board members since 2004 

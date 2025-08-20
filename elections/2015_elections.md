@@ -36,5 +36,5 @@ Four seats are open for this election.
 For general election information, including eligibility requirements, who can vote and how to vote, along with other frequently 
 asked questions, please visit:
 
-[OWASP Board Elections](/www-board/elections)
+[OWASP Board Elections](/elections)
 

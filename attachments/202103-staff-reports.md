@@ -36,7 +36,7 @@ Lastly, Alonna has just started maternity leave. I wish to thank Alonna for her 
 
 ## Finance
 
-- [February 2021 Financial Package](/www-board/attachments/202102-financial-package.xlsx)
+- [February 2021 Financial Package](/attachments/202102-financial-package.xlsx)
 
 The financial package combines the Board summary, financial package, and balance summaries, including Chapter and Project balances. Below is the PRELIMINARY write up for Feb 2021.
 
@@ -85,7 +85,7 @@ Free event | ~300 attendees
 1022 registered | $9800 | $9500 | ($300) |
 | **Total** | | | $40,280 | $41,826.50 | $1546.50 |
 
-- [Detailed Events Board Report](/www-board/attachments/202103-events-summary.pdf)
+- [Detailed Events Board Report](/attachments/202103-events-summary.pdf)
 
 ## Operations
 

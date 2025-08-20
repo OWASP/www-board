@@ -17,8 +17,8 @@ tags: board
 - [OWASP Policies](https://owasp.org/www-policy/){:target='_blank'}
 - [Board Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/global-board){:target='_blank'}
 - [Board Feedback Address - OWASP Members only](mailto:global-board-feedback@owasp.org){:target='_blank'}
-- [Action Tracker](https://github.com/OWASP/www-board/projects/1){:target='_blank'}
-- [Elections](/www-board/elections/){:target='_blank'}
+- [Action Tracker](https://github.com/OWASP/projects/1){:target='_blank'}
+- [Elections](/elections/){:target='_blank'}
 
 ### Board functions
 
@@ -34,7 +34,7 @@ The Board can make motions on any topic as long as they do not attempt to bind f
 
 If you are passionate about OWASP, being a Director of a non-profit is a fantastic experience, but it can also be exhausting. If you have limited time, being a Director may not be for you. Board officers have more duties than General Members At Large. General Members at Large (i.e., those that aren't the Chair, Vice-Chair, Secretary, or Treasurer) are strongly encouraged to be a Board champion for a mission goal, such as Projects, Chapters, Members, Events, Outreach, or fundraising.
 
-If you want to run for election, you must have 12 months of continuous membership in good standing and nominate yourself when the call for candidates comes out. Prospective Directors can find more details in the [elections page](https://owasp.org/www-board/elections/), including results.
+If you want to run for election, you must have 12 months of continuous membership in good standing and nominate yourself when the call for candidates comes out. Prospective Directors can find more details in the [elections page](https://owasp.org/elections/), including results.
 
 ### Onboarding for new Board Members
 
@@ -105,7 +105,7 @@ The Board is welcome to communicate to the Foundation through the Global Board l
 
 The staff is encouraged to raise any concerns with the Board if they feel an issue that the Executive Director is not addressing. The staff will directly communicate with the Board to complete or work on a Board action from time to time. Please respond to staff requests or concerns in a timely fashion.
 
-The Board should track public actions arising from Board meetings, or tasks delegated to the Foundation through the [Public Board Actions Kanban](https://github.com/OWASP/www-board/projects/1)
+The Board should track public actions arising from Board meetings, or tasks delegated to the Foundation through the [Public Board Actions Kanban](https://github.com/OWASP/projects/1)
 
 ### Working with committees
 

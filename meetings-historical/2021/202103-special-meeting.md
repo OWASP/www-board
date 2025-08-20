@@ -39,7 +39,7 @@ Andrew van der Stock, Tom Pappas, Dawn Aitken, Kelly Santalucia
 
 Update: The draft Budget was tabled in the February board meeting after concerns and discussions, and corrections were made in the intervening period with meetings between Kelly Santalucia, Tom Pappas, Grant Ongers, and Andrew van der Stock. This revised budget is conservative in nearly all estimates, with many opportunities to exceed but also risks where income may fall flat. It will be vital that expenses are carefully managed throughout the year. All Board members voted, and the majority selected this time slot by preference, with only one Board member voting "if need be". The vote will need to be a majority vote (4/7 votes) to pass.
 
-- [Draft 2021 Budget](/www-board/attachments/202103-draft-budget-summary.xlsx)
+- [Draft 2021 Budget](/attachments/202103-draft-budget-summary.xlsx)
 
 **Motion**: "Resolved, the 2021 OWASP Foundation budget is formally approved."
 
@@ -57,7 +57,7 @@ There are no agenda items for new business.
 #### Adjournment motion
 
 The next general Board meeting is on March 23, at 12 pm US Eastern Time.
-- https://owasp.org/www-board/meetings/202103.html
+- https://owasp.org/meetings/202103.html
 
 "It is moved, and seconded to adjourn. Those in favor, say "aye""
 
