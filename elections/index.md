@@ -62,11 +62,11 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 
 The OWASP Foundation Board of Directors currently consists of seven elected volunteers who serve a two year term. These unpaid volunteers dedicate themselves to the organizational mission and playing a pivotal role in the software security community. Members of the Global Board of Directors are responsible for setting the strategic direction of the organization and ensuring the financial integrity of the Foundation.
 
-Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [OWASP Foundation Bylaws](https://policy.owasp.org/legal/bylaws).  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [Governance page](/governance/).
+Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [OWASP Foundation Bylaws](https://policy.owasp.org/legal/bylaws).  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [Governance page](https://owasp.org/governance/).
 
-Please reach out to our [current Board Members](/corporate/) if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
+Please reach out to our [current Board Members](https://board.owasp.org/#div-board) if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
 
-Additional Responsibilities that the Global Board of Directors must adhere to can be found [on the Foundation Governance page](/governance/)
+Additional Responsibilities that the Global Board of Directors must adhere to can be found [on the Foundation Governance page](https://owasp.org/governance/)
 
 <!-- May need to include some representation of this  '''[[OWASP Board History|Board History]]''' -->
 
@@ -84,7 +84,7 @@ If you are interested in running for a seat on the OWASP Global Board please sub
 
 OWASP Individual Members, Corporate Members, and Honorary Members registered as of the Paid Membership Deadline will have (1) vote per seat.
 
-If you are not a member yet, we encourage you to [join](/membership/) by the deadline, which is usually on or around September 30.
+If you are not a member yet, we encourage you to [join](https://members.owasp.org) by the deadline, which is usually on or around September 30.
 
 #### How to Vote?
 

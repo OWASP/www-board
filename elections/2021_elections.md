@@ -91,11 +91,11 @@ Listed in order of nomination date. Four seats are open for this election.
 
 ### Candidates Page 
 
-- [Avi Douglen](https://owasp.org/www-board-candidates/avi_douglen.html)
-- [Glenn ten Cate](https://owasp.org/www-board-candidates/glenn_ten_cate.html)
-- [Grant Ongers](https://owasp.org/www-board-candidates/grant_ongers.html)
-- [Louis Griffith](https://owasp.org/www-board-candidates/louis_griffith.html)
-- [Vandana Verma Sehgal](https://owasp.org/www-board-candidates/vandana_verma_seghal.html)
+- [Avi Douglen](https://owasp.org/www-board-candidates/2021/avi_douglen.html)
+- [Glenn ten Cate](https://owasp.org/www-board-candidates/2021/glenn_ten_cate.html)
+- [Grant Ongers](https://owasp.org/www-board-candidates/2021/grant_ongers.html)
+- [Louis Griffith](https://owasp.org/www-board-candidates/2021/louis_griffith.html)
+- [Vandana Verma Sehgal](https://owasp.org/www-board-candidates/2021/vandana_verma_seghal.html)
 
 ### Board Election Results
 

@@ -18,7 +18,7 @@ Click here for the [OWASP Global Board EU](https://owasp.org/www-board-eu/)
 {% assign pages = site.pages | where_exp: "page", "page.path contains 'meetings/'" | sort: 'date'  %}
 <ul>
 {% for page in pages %}
- <li>{{ page.date }} - <a href='/{{ page.url }}'>{{ page.title }}</a></li> 
+ <li>{{ page.date }} - <a href='https://board.owasp.org/{{ page.url }}'>{{ page.title }}</a></li> 
  {% if forloop.index > 11%}
   {%break%}
  {%endif%}
@@ -30,7 +30,7 @@ Click here for the [OWASP Global Board EU](https://owasp.org/www-board-eu/)
 {% assign pages = site.pages | where_exp: "page", "page.path contains 'meetings-historical'" | order: 'date' | reverse %}
 <ul>
 {% for page in pages %}
- <li><a href='/{{ page.url }}'>{{ page.title }}</a></li>
+ <li><a href='https://board.owasp.org/{{ page.url }}'>{{ page.title }}</a></li>
  {% if forloop.index > 5 %}
  {%break%}
  {%endif%}

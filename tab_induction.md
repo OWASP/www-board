@@ -17,8 +17,7 @@ tags: board
 - [OWASP Policies](https://policy.owasp.org/){:target='_blank'}
 - [Board Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/global-board){:target='_blank'}
 - [Board Feedback Address - OWASP Members only](mailto:global-board-feedback@owasp.org){:target='_blank'}
-- [Action Tracker](https://github.com/OWASP/projects/1){:target='_blank'}
-- [Elections](/elections/){:target='_blank'}
+- [Elections](https://owasp.org/elections/){:target='_blank'}
 
 ### Board functions
 
