@@ -11,10 +11,10 @@ tags: board
 
 ## Handy resources
 
-- [OWASP Bylaws](https://owasp.org/www-policy/legal/bylaws){:target='_blank'}
-- [OWASP Restated Certificate of Incorporation 2024](https://owasp.org/www-policy/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf){:target='_blank'}
+- [OWASP Bylaws](https://policy.owasp.org/legal/bylaws){:target='_blank'}
+- [OWASP Restated Certificate of Incorporation 2024](https://policy.owasp.org/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf){:target='_blank'}
 - [OWASP Europe Bylaws - Dutch](https://owasp.org/www-board-eu/attachments/Gepubliceerde_Statuten_OWASP_Europe_VZW.pdf) [OWASP Europe Bylaws - English](https://owasp.org/www-board-eu/attachments/126741_OWASP_vzw_modelstatuten_v0.9_EN_REV.pdf){:target='_blank'}
-- [OWASP Policies](https://owasp.org/www-policy/){:target='_blank'}
+- [OWASP Policies](https://policy.owasp.org/){:target='_blank'}
 - [Board Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/global-board){:target='_blank'}
 - [Board Feedback Address - OWASP Members only](mailto:global-board-feedback@owasp.org){:target='_blank'}
 - [Action Tracker](https://github.com/OWASP/projects/1){:target='_blank'}
@@ -42,8 +42,8 @@ The OWASP Foundation will obtain or confirm every Director's current contact det
 
 The current induction resources and books are:
 
-- [OWASP Bylaws](https://owasp.org/www-policy/legal/bylaws) and [OWASP Policies](https://owasp.org/www-policy/){:target='_blank'}
-- [OWASP Restated Certificate of Incorporation 2024](https://owasp.org/www-policy/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf){:target='_blank'}
+- [OWASP Bylaws](https://policy.owasp.org/legal/bylaws) and [OWASP Policies](https://policy.owasp.org/){:target='_blank'}
+- [OWASP Restated Certificate of Incorporation 2024](https://policy.owasp.org/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf){:target='_blank'}
 - [Nonprofit Kit For Dummies 6th Edition](https://www.amazon.com/gp/product/1119835720/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1){:target='_blank'}
 - [Robert's Rules of Order, Newly Revised 12th Edition](https://www.amazon.com/Roberts-Rules-Order-Newly-Revised/dp/1541736699/ref=sr_1_1?keywords=roberts+rules+of+order+newly+revised+12th+edition&qid=1642176682&sprefix=roberts%2Caps%2C118&sr=8-1){:target='_blank'} or the [Concise version](https://www.amazon.com/Roberts-Rules-Order-Newly-Revised/dp/1541797701/ref=sr_1_4?keywords=roberts+rules+of+order+newly+revised+12th+edition&qid=1642176682&sprefix=roberts%2Caps%2C118&sr=8-4){:target='_blank'}.
 - [Board Source online training](https://boardsource.org/my-account/trainings/){:target='_blank'}. The OWASP Foundation will provide a registration link to all Board members, and they should complete the training certificate found by clicking "My Account" at the top, "Training" on the left side, and then "Certificate of Nonprofit Board Education Series." It will take approximately an hour. Please provide the certificate to the Operations Manager before signing the Commitment agreement.
@@ -61,11 +61,11 @@ Directors can either submit an expense claim per the Expenses policy or ask the 
 ### Completing Director qualifications
 
 - If you are not a financial member, Directors must become a financial member by the time they join the Board **on January 1**. The best way to avoid any issues with good standing due to lapsed membership is to become a Lifetime member. However, Directors are recommended but not required to take out sufficient sequential one or two-year memberships to cover their entire term or enable automatic renewal in the Member Portal. Per the bylaws, Directors - and not the Foundation - are responsible for maintaining their good standing throughout their term. Directors wishing to use automatic or manual renewal must renew on time or check that renewal took place.
-- New Board members must complete their induction reading and Board Source training before signing the [Directors Commitment Agreement](https://owasp.org/www-policy/legal/directors-committment-agreement) to fully understand the role of the Board and their fiduciary duty to the OWASP Foundation.
-- Directors who do not sign the [Director's Commitment Agreement](https://owasp.org/www-policy/legal/directors-committment-agreement) are not covered by OWASP's Director's and Officers (D&O) insurance and may not sit or vote on the Board to prevent indemnity issues.
-- Each year, the Foundation must obtain an updated [Conflict of Interest](https://owasp.org/www-policy/operational/conflict-of-interest) questionnaire from each Board member. Directors can update this form at any time during their term. If a Director has a conflict of interest, they must [declare this interest to their fellow Board members, and recuse themselves](https://owasp.org/www-policy/legal/bylaws#section-702-disclosure-required) from discussion and voting. Bylaws have precedence over policy or signed agreements if there's any confusion.
+- New Board members must complete their induction reading and Board Source training before signing the [Directors Commitment Agreement](https://policy.owasp.org/legal/directors-committment-agreement) to fully understand the role of the Board and their fiduciary duty to the OWASP Foundation.
+- Directors who do not sign the [Director's Commitment Agreement](https://policy.owasp.org/legal/directors-committment-agreement) are not covered by OWASP's Director's and Officers (D&O) insurance and may not sit or vote on the Board to prevent indemnity issues.
+- Each year, the Foundation must obtain an updated [Conflict of Interest](https://policy.owasp.org/operational/conflict-of-interest) questionnaire from each Board member. Directors can update this form at any time during their term. If a Director has a conflict of interest, they must [declare this interest to their fellow Board members, and recuse themselves](https://policy.owasp.org/legal/bylaws#section-702-disclosure-required) from discussion and voting. Bylaws have precedence over policy or signed agreements if there's any confusion.
 
-If a Director fails to meet the qualifications set out in the bylaws, the Foundation will inform the *pro tem* Chair, incoming Chair, or incoming Board as a whole. The Board may decide to vote to declare the position unfilled through disqualification and then fill the Director's seat per the [bylaw's vacancy process](https://owasp.org/www-policy/legal/bylaws#section-205-vacancies).
+If a Director fails to meet the qualifications set out in the bylaws, the Foundation will inform the *pro tem* Chair, incoming Chair, or incoming Board as a whole. The Board may decide to vote to declare the position unfilled through disqualification and then fill the Director's seat per the [bylaw's vacancy process](https://policy.owasp.org/legal/bylaws#section-205-vacancies).
 
 ### Getting ready to be on the Board
 
