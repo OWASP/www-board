@@ -1,3 +1,11 @@
+- date: 2025-07-22
+  motion "Resolved, that the Board will table Chapter Committee Charter vote until August 2025 meeting. Note no sponsor/second needed for this vote"
+  result: "<br>In Favor: 6-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Steve Springett and Ricardo Griffith)"
+  vote: "<br>6-0"
+- date: 2025-07-22
+  motion: "Resolved, that from August 2025, the OWASP Board of Directors will hold its regular monthly meetings at 9 am US Eastern Time on the fourth Tuesday of each month until further notice. Ricardo Griffith sponsors, Diego Silva Martins seconds"
+  result: "<br>In Favor: 7-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Harold Blankenship, Steve Springettand Ricardo Griffith)"
+  vote: "<br>7-0"
 - date: 2025-06-24
   motion: "Resolved, to change the agenda to include a discussion on marketing.  Avi Douglen motions, Ricardo Griffith seconds"
   result: "<br>In Favor: 6-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Harold Blankenship and Ricardo Griffith)"
@@ -1688,3 +1696,4 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
   motion: "Yes/No Will the Foundation allocate $5K - $10K for OWASP Brochure Website - Design Funding"
   result: "Pass"
   vote: "Jeff, Seba, Eoin, Tom, Matt "
+
