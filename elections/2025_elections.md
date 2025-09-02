@@ -66,8 +66,27 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **Board Initial Submissions**
 <br>
-<br>Pending
-<br>
+- Steve Springett
+- Gustavo Arreaza
+- Chirag Shah
+- Diego Silva Martins
+- Bhaskara Ram Allam
+- Aruneesh Salhotra
+- Kelly Santalucia
+- Sam Stepanyan
+- Marisa Fagan
+- Jerry Hoff
+- Alaa Abdulridha
+- Rupesh Shrike
+- Arvind Janadhanan
+- Kayla Underkoffler
+- Charles Sanson
+- Jeremy Long
+- Meher Tej A
+- Sandeep Singh
+- Adrian Winckles
+- Arkadii Yakovets
+- Fred Donovan
 <br>
 
 ----
