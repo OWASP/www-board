@@ -78,7 +78,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 - Jerry Hoff
 - Alaa Abdulridha
 - Rupesh Shirke
-- Arvind Janadhanan
+- Arvind Janardhanan
 - Kayla Underkoffler
 - Charles Sanson
 - Jeremy Long
