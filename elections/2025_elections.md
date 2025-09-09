@@ -77,7 +77,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 - Marisa Fagan
 - Jerry Hoff
 - Alaa Abdulridha
-- Rupesh Shrike
+- Rupesh Shirke
 - Arvind Janadhanan
 - Kayla Underkoffler
 - Charles Sanson
