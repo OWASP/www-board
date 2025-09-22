@@ -1,4 +1,14 @@
-- date: 2025-07-22
+- date: 2025-08-26
+  year: 2025
+  attendees:
+   - name: Ricardo Griffin
+   - name: Steve Springett
+   - name: Harold Blankenship
+   - name: Sam Stepanyan
+   - name: Ashwini Siddhi
+   - name: Avi Douglen
+   - name: Diego Silva Martins
+   - date: 2025-07-22
   year: 2025
   attendees:
    - name: Ricardo Griffith
@@ -1069,4 +1079,5 @@
     - name: Dawn Aitken
     - name: Lisa Jones
     - name: Tom Pappas
+
 
