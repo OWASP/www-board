@@ -1,7 +1,7 @@
 - date: 2025-08-26
   motion: "Resolved, that the OWASP Chapter Committee Charter be tabled. Ricardo Griffith motions, Steve Springett seconded."
   result: "<br>In Favor 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Diego Silva Martins and Ricardo Griffith)"
-  vote:  "<br>7-0
+  vote:  "<br>7-0"
 - date: 2025-07-22
   motion: "Resolved, that the Board will table Chapter Committee Charter vote until August 2025 meeting. Note: no sponsor or second needed for this vote"
   result: "<br>In Favor: 6-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Steve Springett and Ricardo Griffith)"
@@ -1700,6 +1700,7 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
   motion: "Yes/No Will the Foundation allocate $5K - $10K for OWASP Brochure Website - Design Funding"
   result: "Pass"
   vote: "Jeff, Seba, Eoin, Tom, Matt "
+
 
 
 
