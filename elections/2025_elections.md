@@ -94,9 +94,19 @@ Paid Individual Members who have been in good standing for more than 12 months c
 **[Candidates Page](https://owasp.org/www-board-candidates/)**
 <br>
 - [Adrian Winckles](https://owasp.org/www-board-candidates/2025/adrian_winckles.html)
-- [Arkadii Yakovets](https://github.com/OWASP/www-board-candidates/blob/master/2025/arkadii_yakovets.md)
-- [Aruneesh Salhotra](https://github.com/OWASP/www-board-candidates/blob/master/2025/aruneesh_salhotra.md)
-
+- [Arkadii Yakovets](https://owasp.org/www-board-candidates/2025/arkadii_yakovets.html)
+- [Aruneesh Salhotra](https://owasp.org/www-board-candidates/2025/aruneesh_salhotra.html)
+- [Arvind Janardhanan](https://owasp.org/www-board-candidates/2025/arvind_janardhanan.html)
+- [Chirag Shah](https://owasp.org/www-board-candidates/2025/chirag_shah.html)
+- [Diego Silva Martins](https://owasp.org/www-board-candidates/2025/diego_silva_martins.html)
+- [Fred Donovan](https://owasp.org/www-board-candidates/2025/fred_donovan.html)
+- [Gustavo Arreaza](https://owasp.org/www-board-candidates/2025/gustavo_arreaza.html)
+- [Jeremy Long](https://owasp.org/www-board-candidates/2025/jeremy_long.html)
+- [Jerry Hoff](https://owasp.org/www-board-candidates/2025/jerry_hoff.html)
+- [Kelly Santalucia](https://owasp.org/www-board-candidates/2025/kelly_santalucia.html)
+- [Marisa Fagan](https://owasp.org/www-board-candidates/2025/marisa_fagan.html)
+- [Sam Stepanyan](https://owasp.org/www-board-candidates/2025/sam_stepanyan.html)
+- [Steve Springett](https://owasp.org/www-board-candidates/2025/steve_springett.html)
   
 ----
 
