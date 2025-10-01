@@ -93,8 +93,8 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **[Candidates Page](https://owasp.org/www-board-candidates/)**
 <br>
-<br>Pending
-<br>
+- [Adrian Winckles](https://github.com/OWASP/www-board-candidates/blob/master/2025/adrian_winckles.md)
+- [Arkadii Yakovets](https://github.com/OWASP/www-board-candidates/blob/master/2025/arkadii_yakovets.md]
 <br>
   
 ----
