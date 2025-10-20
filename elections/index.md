@@ -107,12 +107,16 @@ New Bylaws (Effective July 8, 2024):
 
 Election Policy (Approved September 25, 2024):
 
-* Clarifies that candidates must be Voting Members in good standing from September 30 of the prior year through the end of the election process.
+* Clarifies that candidates must be Voting Members in good standing from the Membership Deadline day (September 30) of the prior year through the end of the election process.
 
 2024 Exception:
 
-* The 12-month Voting Membership requirement was waived due to the timing of the new bylaws and policy.
+* The 12-month Voting Membership requirement was waived due to the timing of the new bylaws and policy, allowing both complimentary and individual memberships to run in 2024.
 * This waiver does not apply to 2025 or future elections.
+
+2026 Changes:
+
+* There are proposed changes to the Election policy which - if approved - will change the method of voting to single transferrable vote and clarify Director Qualifications. These changes will be communicated to the community well in advance of the 2026 elections. These changes will not impact the 2025 elections.
 
 If in doubt, the published Bylaws and Election policy should be consulted. This is an explanatory overview. The relevant sections of the Bylaws are:
 
@@ -129,11 +133,11 @@ If you are interested in running for a seat on the OWASP Global Board please sub
 
 #### Who Can Vote?
 
-As of the adoption of the new OWASP Bylaws on July 8, 2024, OWASP Individual Members who are in good standing as of the published Membership Deadline (usually on or around September 30) of the election year are eligible to vote in the OWASP Global Board Elections.
+As of the adoption of the new OWASP Bylaws on July 8, 2024, OWASP Individual Members who are in good standing as of the published Membership Deadline (usually September 30) of the election year are eligible to vote in the OWASP Global Board Elections.
 
 OWASP Individual members are defined in the bylaws as "The Individual Member class has the following subclasses: Standard, Regional, Student, Lifetime, and Distinguished Lifetime. Only the Board shall grant Distinguished Lifetime Membership." Complimentary memberships are not considered Individual Memberships and therefore do not have voting rights.
 
-If you are not an Individual member yet, we encourage you to [join](https://members.owasp.org) by the Membership deadline, which is usually on or around September 30.
+If you are not an Individual member yet, we encourage you to [join](https://members.owasp.org) by the Membership deadline (usually September 30).
 
 #### How to Vote?
 
