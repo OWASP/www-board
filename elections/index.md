@@ -72,21 +72,66 @@ Additional Responsibilities that the Global Board of Directors must adhere to ca
 
 #### Eligibility Requirements for Board Candidates
 
-You need to be an OWASP individual member in good standing for a twelve (12) month period of time prior to the Membership Deadline above. See [Section 3.02 Qualifications](https://policy.owasp.org/legal/bylaws#section-302-number-tenure-and-qualifications) of the bylaws for more details.
+To run for a seat on the OWASP Global Board of Directors in 2025, candidates must:
 
-Candidates are required to submit to the OWASP Foundation: a bio, current membership status, a brief description of why you feel you are the best candidate, and why you would like to be elected at the time of submission. After vetting as a formal candidate for the election, the Foundation will create a candidate page for you with these supplied details from the application form. You will be encouraged to record a short video of your answers to the community's questions to be posted prior to mid September. Once recorded, please provide a link to the OWASP Foundation so they can be added to your candidate page.
+* Be a Voting Member in Good Standing
+* Must hold Individual Membership (the only class with voting rights).
+* Must have maintained this status continuously for 12 months prior to September 30 of the year before the election.
+* Complimentary Members are not eligible to run.
 
-If elected, successful candidates will need to become a paid member prior to taking their seat on the Board. We recommend obtaining sufficient paid membership, such as two year or Lifetime membership, to cover the entire elected term to avoid issues with good standing. See [Section 4.02 Qualifications](https://policy.owasp.org/legal/bylaws#section-402-qualifications) of the bylaws for more details.
+##### Submit Required Candidacy Materials
 
-If you are interested in running for a seat on the OWASP Global Board please submit your intention along with the requirements listed above. All submissions will be reviewed and verified by OWASP.
+* A biography.
+* Current membership status.
+* Update your candidate page on a brief statement on why you are the best candidate and why you wish to be elected.
+* The OWASP Foundation will publish candidate pages with submitted materials.
+
+These must be submitted before the close of the Call for Candidates.
+
+##### Comply with OWASP Bylaws and Election Policy
+
+* Candidates must follow all rules outlined in the official OWASP Bylaws and Election Policy.
+* If elected, Directors must maintain their Individual Membership throughout their term.
+
+##### Additional Participation
+
+* Candidates are encouraged to record a short video answering community questions.
+* Candidates are encouraged to participate in a panel session to discuss their candidacy with other candidates.
+
+##### Important Notes on Policy Changes
+
+New Bylaws (Effective July 8, 2024):
+
+* Introduced the concept of Voting Members (Individual Members with voting rights).
+* Established that only Voting Members can vote or run for the Board.
+
+Election Policy (Approved September 25, 2024):
+
+* Clarifies that candidates must be Voting Members in good standing from September 30 of the prior year through the end of the election process.
+
+2024 Exception:
+
+* The 12-month Voting Membership requirement was waived due to the timing of the new bylaws and policy.
+* This waiver does not apply to 2025 or future elections.
+
+If in doubt, the published Bylaws and Election policy should be consulted. This is an explanatory overview. The relevant sections of the Bylaws are:
+
+* [OWASP Bylaws - Privileges of Individual Membership](https://policy.owasp.org/legal/bylaws#section-23-privileges-of-individual-membership)
+* [OWASP Bylaws - Nomination and Election Procedures](https://policy.owasp.org/legal/bylaws#section-312-nomination-and-election-procedures)
+* [OWASP Bylaws - Nomination, election, and term of office of Directors](https://policy.owasp.org/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors)
+
+The relevant sections of the Election policy (approved 25 September 2024) are:
+
+* [Election Policy - Candidate Qualifications](https://policy.owasp.org/legal/elections#candidate-qualifications)
+* [Election Policy - Director Qualifications](https://policy.owasp.org/legal/elections#director-qualifications)
+
+If you are interested in running for a seat on the OWASP Global Board please submit your intention along with the requirements listed above. All submissions will be reviewed and verified by the OWASP Foundation.
 
 #### Who Can Vote?
 
 As of the adoption of the new OWASP Bylaws on July 8, 2024, OWASP Individual Members who are in good standing as of the published Membership Deadline (usually on or around September 30) of the election year are eligible to vote in the OWASP Global Board Elections.
 
-OWASP Individual members are defined in the bylaws as "The Individual Member class has the following subclasses: Standard, Regional, Student, Lifetime, and Distinguished Lifetime. Only the Board shall grant Distinguished Lifetime Membership."
-
-As the bylaws currently stand, complimentary memberships are not considered Individual Memberships and therefore do not have voting rights.
+OWASP Individual members are defined in the bylaws as "The Individual Member class has the following subclasses: Standard, Regional, Student, Lifetime, and Distinguished Lifetime. Only the Board shall grant Distinguished Lifetime Membership." Complimentary memberships are not considered Individual Memberships and therefore do not have voting rights.
 
 If you are not an Individual member yet, we encourage you to [join](https://members.owasp.org) by the Membership deadline, which is usually on or around September 30.
 
