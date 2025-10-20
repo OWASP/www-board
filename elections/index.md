@@ -82,9 +82,13 @@ If you are interested in running for a seat on the OWASP Global Board please sub
 
 #### Who Can Vote?
 
-OWASP Individual Members, Corporate Members, and Honorary Members registered as of the Paid Membership Deadline will have (1) vote per seat.
+As of the adoption of the new OWASP Bylaws on July 8, 2024, OWASP Individual Members who are in good standing as of the published Membership Deadline (usually on or around September 30) of the election year are eligible to vote in the OWASP Global Board Elections.
 
-If you are not a member yet, we encourage you to [join](https://members.owasp.org) by the deadline, which is usually on or around September 30.
+OWASP Individual members are defined in the bylaws as "The Individual Member class has the following subclasses: Standard, Regional, Student, Lifetime, and Distinguished Lifetime. Only the Board shall grant Distinguished Lifetime Membership."
+
+As the bylaws currently stand, complimentary memberships are not considered Individual Memberships and therefore do not have voting rights.
+
+If you are not an Individual member yet, we encourage you to [join](https://members.owasp.org) by the Membership deadline, which is usually on or around September 30.
 
 #### How to Vote?
 
@@ -96,4 +100,3 @@ It is a specific link ***JUST FOR YOU***!
 
 Additionally, eligible voting members will also receive an email from the OWASP Foundation notifying them that their ballot has 
 been sent. In the instance that they did not receive a ballot they are asked to [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
-
