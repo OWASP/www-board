@@ -124,7 +124,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 | Arkadii Yakovets	     | 153 (6.5%)   | 
 | Diego Silva Martins 	 | 149 (6.4%)   | 
 | Jerry Hoff	           | 141 (6.0%)   | 
-| Adrian Winckles	       | 122 (5.2%)    | 
+| Adrian Winckles	       | 122 (5.2%)   | 
 | Arvind Janardhanan	   | 105 (4.5%)   | 
 | Chirag Shah	           | 89 (3.8%)    | 
 | Fred Donovan        	 | 59 (2.5%)    | 
@@ -132,7 +132,7 @@ Paid Individual Members who have been in good standing for more than 12 months c
 |                        |              |
 | Total                  | 710          |
 | Abstain                | 1 (0.1%)     |
-<br>
+
 <br>
 
 ----
