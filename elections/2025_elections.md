@@ -112,17 +112,37 @@ Paid Individual Members who have been in good standing for more than 12 months c
 
 **Board Election Results**
 <br>
-<br>Pending
+
+| **Name**               | **Votes**    |
+| :--------------------  | :----------- |
+| Kelly Santalucia       | 311 (13.3%)  |
+| Steve Springett	       | 309 (13.2%)  | 
+| Marisa Fagan	         | 272 (11.6%)  | 
+| Sam Stepanyan	         | 241 (10.3%)  |
+| Aruneesh Salhotra	     | 178 (7.6%)   | 
+| Jeremy Long	           | 175 (7.5%)   | 
+| Arkadii Yakovets	     | 153 (6.5%)   | 
+| Diego Silva Martins 	 | 149 (6.4%)   | 
+| Jerry Hoff	           | 141 (6.0%)   | 
+| Adrian Winckles	       | 122 (5.2%)    | 
+| Arvind Janardhanan	   | 105 (4.5%)   | 
+| Chirag Shah	           | 89 (3.8%)    | 
+| Fred Donovan        	 | 59 (2.5%)    | 
+| Gustavo Arreaza      	 | 39 (1.7%)    | 
+|                        |              |
+| Total                  | 710          |
+| Abstain                | 1 (0.1%)     |
 <br>
 <br>
 
 ----
 
 **Confirmed Nominations (4 seats) - their term will start on January 1, 2026**
-<br>
-<br>Pending
-<br>
-<br>
+
+- Kelly Santalucia
+- Steve Springett 
+- Marisa Fagan
+- Sam Stepanyan 
 
 
 
