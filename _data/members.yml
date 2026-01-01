@@ -30,20 +30,20 @@
   term-ends: 12/31/2025
   location: United Kingdom
   description:  The Secretary is responsible for ensuring the accuracy of minutes, and to provide advice to the Board on bylaw or policy issues.<br>
-- image: people/board-avi.png
-  name: Avi Douglen 
-  twitter: https://twitter.com/sec_tigger
-  linkedin: https://www.linkedin.com/in/avidouglen/
+- image: people/board_marisa_fagan_photo.jpg
+  name: Marissa Fagan
+  twitter: 
+  linkedin: 
   title: Member-at-Large 
-  term-ends: 12/31/2025
-  location: Israel 
-- image: people/board_diego_martins.png
-  name: Diego Silva Martins
-  twitter: https://twitter.com/dssmartins
-  linkedin: https://www.linkedin.com/in/dsmartins
+  term-ends: 12/31/2027
+  location: United States 
+- image: people/board_kelly_santalucia_photo.png
+  name: Kelly Santalucia 
+  twitter: 
+  linkedin: 
   title: Member-at-Large
-  term-ends: 12/31/2025
-  location: Brazil
+  term-ends: 12/31/2027
+  location: New Jersey, United States
   description:  
 - image: people/board_ashwini_siddhi.jpg
   name: Ashwini Siddhi
@@ -53,3 +53,4 @@
   term-ends: 12/31/2026
   location: India
   description:  
+
