@@ -40,19 +40,20 @@
 - image: people/board_kelly_santalucia_photo.png
   name: Kelly Santalucia 
   twitter: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/kelly-santalucia-2b359b30/
   title: Member-at-Large
   term-ends: 12/31/2027
   location: New Jersey, United States
   description:  
 - image: people/board_ashwini_siddhi.jpg
   name: Ashwini Siddhi
-  twitter: https://twitter.com/
+  twitter: 
   linkedin: https://www.linkedin.com/in/ashwini-siddhi-856b82a4/
   title: Member-at-Large
   term-ends: 12/31/2026
   location: India
   description:  
+
 
 
 
