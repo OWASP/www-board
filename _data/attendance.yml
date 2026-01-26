@@ -1,3 +1,13 @@
+- date: 2026-01-05
+  year: 2026
+  attendees:
+   - name: Steve Springett 
+   - name: Ricardo Griffith
+   - name: Harold Blankenship
+   - name: Megan Fagan 
+   - name: Kelly Santalucia
+   - name: Ashwini Siddhi
+   - name: Sam Stepanyan
 - date: 2025-11-25
   year: 2025
   attendees:
@@ -1107,6 +1117,7 @@
     - name: Dawn Aitken
     - name: Lisa Jones
     - name: Tom Pappas
+
 
 
 
