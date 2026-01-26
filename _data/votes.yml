@@ -2,7 +2,7 @@
   motion: "Resolved,  that the Board approves the Board of Directors Policy, replacing the existing Election Policy, effective immediately.  Avi Douglen motions, Harold Blankenship seconds."
   result: "<br>In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
   vote: "<br>7-0"
-- date: 2025=12-16
+- date: 2025-12-16
   motion: "Resolved, the OWASP Foundation Bylaws are amended to reflect the change from the Election Policy to the Board of Directors Policy, including removing references to the old Election Policy, effective immediately.  Avi Douglen motions, Ricardo Griffith seconds"
   results: "<br>In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
   vote: "<br>7-0"
@@ -1720,6 +1720,7 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
   motion: "Yes/No Will the Foundation allocate $5K - $10K for OWASP Brochure Website - Design Funding"
   result: "Pass"
   vote: "Jeff, Seba, Eoin, Tom, Matt "
+
 
 
 
