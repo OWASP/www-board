@@ -1,3 +1,19 @@
+- date: 2026-01-05
+  motion: "Resolved, that the 2026 Chair of the Board of Directors is elected as follows: Steve Springett. Ricardo Griffith motions, Sam Stepanyan seconds"
+  result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
+  vote:  "<br>7-0"
+- date: 2026-01-05
+  motion: "Resolved, hat the 2026 Vice Chair of the Board of Directors is elected as follows: Ricardo Griffith. Steve Springett motions, Ricardo Griffith seconds"
+  result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
+  vote:  "<br>7-0"
+- date: 2026-01-05
+  motion: "Resolved, Resolved, that the 2026 Treasurer of the Board of Directors is elected as follows: Harold Blankenship.  Steve Springett motions, Ricardo Griffith seconds"
+  result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
+  vote:  "<br>7-0"
+- date: 2026-01-05
+  motion: "Resolved, that the 2026 Secretary of the Board of Directors is elected as follows: Marisa Fagan.  Steve Springett motions, Ashwini Siddhi seconds"
+  result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
+  vote:  "<br>7-0"
 - date: 2025-12-16
   motion: "Resolved,  that the Board approves the Board of Directors Policy, replacing the existing Election Policy, effective immediately.  Avi Douglen motions, Harold Blankenship seconds."
   result: "<br>In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
@@ -1720,6 +1736,7 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
   motion: "Yes/No Will the Foundation allocate $5K - $10K for OWASP Brochure Website - Design Funding"
   result: "Pass"
   vote: "Jeff, Seba, Eoin, Tom, Matt "
+
 
 
 
