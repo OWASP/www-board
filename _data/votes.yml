@@ -1,3 +1,11 @@
+- date: 2026-01-28
+  motion: "Resolved, that the agenda for the January 28, 2026, OWASP Foundation Board meeting be amended to include discussion and a vote on creating a Global Board Audit Committee. Ricardo Griffith motions, Steve Springett seconds"
+  result: "<br>In Favor: 7 (Ricardo Griffith, Harold Blankenship, Marisa Fagan, Kelly Santalucia, Sam Stepanyan, Ashwini Siddhi and Steve Springett)"
+  vote:  "<br>7-0"
+- date: 2026-01-28
+  motion: "Resolved, That the Global Board of Directors approves and adopts the OWASP Global Board Audit Committee Charter, as presented, and establishes the Audit Committee as a standing committee of the Board, effective immediately. Ricardo Griffith motions, Steve Springett seconds."
+  result: "<br>In Favor: 7 (Ricardo Griffith, Harold Blankenship, Marisa Fagan, Kelly Santalucia, Sam Stepanyan, Ashwini Siddhi and Steve Springett)"
+  vote:  "<br>7-0"
 - date: 2026-01-05
   motion: "Resolved, that the 2026 Chair of the Board of Directors is elected as follows: Steve Springett. Ricardo Griffith motions, Sam Stepanyan seconds"
   result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
@@ -1736,6 +1744,7 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
   motion: "Yes/No Will the Foundation allocate $5K - $10K for OWASP Brochure Website - Design Funding"
   result: "Pass"
   vote: "Jeff, Seba, Eoin, Tom, Matt "
+
 
 
 
