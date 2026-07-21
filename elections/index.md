@@ -5,20 +5,13 @@ layout: col-sidebar
 
 ---
 
-The OWASP Foundation was established in 2001 as an open community and software security resource. Since then, OWASP has 
-grown to be globally recognized as a credible source for application security standards (see industry citations). Individuals 
-typically find OWASP when searching the internet for information about software security - and they are happy to find a 
-reliable source of knowledge built by an extremely open and passionate community. OWASP is open to anyone. Anyone can attend 
-OWASP's vendor agnostic local chapter meetings, participate in regional and global conferences, and contribute to the many 
-OWASP projects. And anyone can start a new project, form a new chapter, or lend their expertise to help an OWASP Global Committee.
+Since its founding in 2001, OWASP has grown from an open community and software security resource into a globally recognized, credible source for application security standards, all built by a passionate volunteer-led community that welcomes anyone to attend chapter meetings, contribute to projects, participate in conferences, or start something new.
 
-The OWASP Foundation Board of Directors currently consists of seven elected volunteers. These unpaid volunteers dedicate 
-themselves to the organizational mission and playing a pivotal role in the software security community. OWASP conducts democratic 
-elections of its Board Members to enable bottom-up advancement of its mission.
+Guiding this mission is the Global Board of Directors: seven volunteers chosen through democratic elections open to the community. Serving on the Board is an opportunity for OWASP leaders to shape the Foundation's strategic direction, champion its open and vendor-neutral values, and play a pivotal role in advancing software security worldwide.
 
 ### Recent Board Elections
-<!-- todo: change this to read from elections -->
 
+* [2026 Board Elections](2026_elections)
 * [2025 Board Elections](2025_elections)
 * [2024 Board Elections](2024_elections)
 * [2023 Board Elections](2023_elections)
@@ -66,13 +59,9 @@ Detailed information on meeting requirements, roles and responsibilities within 
 
 Please reach out to our [current Board Members](https://board.owasp.org/#div-board) if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
 
-Additional Responsibilities that the Global Board of Directors must adhere to can be found [on the Foundation Governance page](https://owasp.org/governance/)
-
-<!-- May need to include some representation of this  '''[[OWASP Board History|Board History]]''' -->
-
 #### Eligibility Requirements for Board Candidates
 
-To run for a seat on the OWASP Global Board of Directors in 2025, candidates must:
+To run for a seat on the OWASP Global Board of Directors in 2026, candidates must:
 
 * Be a Voting Member in Good Standing
 * Must hold Individual Membership (the only class with voting rights).
@@ -81,16 +70,22 @@ To run for a seat on the OWASP Global Board of Directors in 2025, candidates mus
 
 ##### Submit Required Candidacy Materials
 
+To be eligible to run for a seat on the OWASP Global Board of Directors, candidates must submit the following materials:
+
 * A biography.
 * Current membership status.
 * Update your candidate page on a brief statement on why you are the best candidate and why you wish to be elected.
 * The OWASP Foundation will publish candidate pages with submitted materials.
 
+Failure to submit the required materials by the submission deadline will result in disqualification from the election.
+
+Optionally, and highly recommended, please publish a short video (1-3 minutes) introducing yourself and your candidacy, and answering the community's questions. This video will be shared with the community to help them get to know you better. Lastly, a panel of candidates will be scheduled in early October 2026 to answer questions from the community.
+
 These must be submitted before the close of the Call for Candidates.
 
 ##### Comply with OWASP Bylaws and Election Policy
 
-* Candidates must follow all rules outlined in the official OWASP Bylaws and Election Policy.
+* Candidates must follow all rules outlined in the official OWASP Bylaws and Director's Policy.
 * If elected, Directors must maintain their Individual Membership throughout their term.
 
 ##### Additional Participation
@@ -105,18 +100,15 @@ New Bylaws (Effective July 8, 2024):
 * Introduced the concept of Voting Members (Individual Members with voting rights).
 * Established that only Voting Members can vote or run for the Board.
 
-Election Policy (Approved September 25, 2024):
+Board Directors Policy (Approved December 16, 2025):
 
-* Clarifies that candidates must be Voting Members in good standing from the Membership Deadline day (September 30) of the prior year through the end of the election process.
-
-2024 Exception:
-
-* The 12-month Voting Membership requirement was waived due to the timing of the new bylaws and policy, allowing both complimentary and individual memberships to run in 2024.
-* This waiver does not apply to 2025 or future elections.
+* Creates clearer definitions of candidate and director qualifications. The OWASP Foundation will complete the verification of candidates to ensure they meet the qualifications before announcing them to the community. The candidate requirements are significantly more stringent than in the past, so please check that you meet the requirements before submitting your candidacy.
+* Introduces a [ranked choice / "single transferrable vote"](https://help.simplyvoting.com/docs/preferential-voting-methods) voting system for elections with more candidates than open seats.
+* Requires candidates to maintain Individual Membership throughout their term, with a vote of confidence held by the Board if they fail to do so.
 
 2026 Changes:
 
-* There are proposed changes to the Election policy which - if approved - will change the method of voting to single transferrable vote and clarify Director Qualifications. These changes will be communicated to the community well in advance of the 2026 elections. These changes will not impact the 2025 elections.
+* New for 2026. Although not dictated by policy, from hereon, candidates names will be randomly ordered on each ballot to avoid bias in the voting process. The OWASP Foundation will provide a link to the voting platform for all eligible voters to cast their votes via email.
 
 If in doubt, the published Bylaws and Election policy should be consulted. This is an explanatory overview. The relevant sections of the Bylaws are:
 
@@ -124,16 +116,20 @@ If in doubt, the published Bylaws and Election policy should be consulted. This 
 * [OWASP Bylaws - Nomination and Election Procedures](https://policy.owasp.org/legal/bylaws#section-312-nomination-and-election-procedures)
 * [OWASP Bylaws - Nomination, election, and term of office of Directors](https://policy.owasp.org/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors)
 
-The relevant sections of the Election policy (approved 25 September 2024) are:
+The relevant sections of the Board Directors policy are:
 
-* [Election Policy - Candidate Qualifications](https://policy.owasp.org/legal/elections#candidate-qualifications)
-* [Election Policy - Director Qualifications](https://policy.owasp.org/legal/elections#director-qualifications)
+* [Board Directors Policy - Candidate Qualifications](https://policy.owasp.org/legal/director#a1-candidate-qualifications)
+* [Board Directors Policy - Director Qualifications](https://policy.owasp.org/legal/director#a2-director-qualifications-and-prerequisites)
+
+#### Nominations and Voting
 
 If you are interested in running for a seat on the OWASP Global Board please submit your intention along with the requirements listed above. All submissions will be reviewed and verified by the OWASP Foundation.
 
+Each alternating year there are either three or four vacancies to be filled. If there are more than the number of eligible candidates than the number of open vacancies, a ranked choice voting system will be used to determine the winners. The OWASP Foundation will provide a link to the voting platform for all eligible voters to cast their votes via email.
+
 #### Who Can Vote?
 
-As of the adoption of the new OWASP Bylaws on July 8, 2024, OWASP Individual Members who are in good standing as of the published Membership Deadline (usually September 30) of the election year are eligible to vote in the OWASP Global Board Elections.
+As of the adoption of the new OWASP Bylaws on July 8, 2024, OWASP Individual Members who are in good standing as of the published Membership Deadline (usually September 30) of the election year are eligible to vote in the OWASP Global Board Elections. Complimentary members are not considered voting members by the new bylaws and therefore do not have voting rights. The OWASP Foundation will provide a link to the voting platform for all eligible voters to cast their votes via email.
 
 OWASP Individual members are defined in the bylaws as "The Individual Member class has the following subclasses: Standard, Regional, Student, Lifetime, and Distinguished Lifetime. Only the Board shall grant Distinguished Lifetime Membership." Complimentary memberships are not considered Individual Memberships and therefore do not have voting rights.
 
@@ -141,11 +137,8 @@ If you are not an Individual member yet, we encourage you to [join](https://memb
 
 #### How to Vote?
 
-Eligible voting members will receive an email to their registered email address from owasp@simplyvoting.com with subject
-"BALLOT FOR OWASP [YEAR] Board Election"
+Eligible voting members will receive an email to their registered email address from owasp@simplyvoting.com with subject "BALLOT FOR OWASP [YEAR] Board Election"
 
-This email will include a specific link for you to cast your vote.  Please do ***NOT*** share this link with anyone.  
-It is a specific link ***JUST FOR YOU***!
+This email will include a specific link for you to cast your vote.  Please do ***NOT*** share this link with anyone.  It is a specific link ***JUST FOR YOU***!
 
-Additionally, eligible voting members will also receive an email from the OWASP Foundation notifying them that their ballot has 
-been sent. In the instance that they did not receive a ballot they are asked to [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
+Additionally, eligible voting members will also receive an email from the OWASP Foundation notifying them that their ballot has been sent. In the instance that they did not receive a ballot they are asked to [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
