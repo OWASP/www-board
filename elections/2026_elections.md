@@ -55,7 +55,7 @@ Individual (voting) Members who have been in good standing for the 12 months end
 
 The full eligibility requirements for candidates can be found in the OWASP Bylaws, Sections 3.12 and 4.3, and in the Board Directors Policy, Section A.1. The OWASP Bylaws can be found at [https://policy.owasp.org/legal/bylaws](https://policy.owasp.org/legal/bylaws) and the Board Directors Policy at [https://policy.owasp.org/operational/director](https://policy.owasp.org/operational/director).
 
-Once elected, successful candidates will serve a two-year term on the OWASP Board of Directors, beginning January 1, 2027 and ending December 31, 2028. Before taking their seat, they are required to complete a Director's Commitment Agreement, which includes a commitment to maintain good standing as a voting member of OWASP throughout their term, complete a conflict of interest disclosure, undergo a background check, and abide by the OWASP Bylaws, Code of Conduct, Antitrust Policy, and Board Directors Policy. The Director's Commitment Agreement can be found at [https://policy.owasp.org/legal/directors-committment-agreement](https://policy.owasp.org/legal/directors-committment-agreement).
+Once elected, successful candidates will serve a two-year term on the OWASP Board of Directors, beginning January 1, 2027 and ending December 31, 2028. Before taking their seat, they are required to complete a Director's Commitment Agreement, which includes a commitment to maintain good standing as a voting member of OWASP throughout their term, complete a conflict of interest disclosure, undergo a background check, and abide by the OWASP Bylaws, Code of Conduct, Antitrust Policy, and Board Directors Policy. The Director's Commitment Agreement can be found at [https://policy.owasp.org/legal/directors-commitment-agreement](https://policy.owasp.org/legal/directors-commitment-agreement).
 
 - [OWASP Bylaws](https://policy.owasp.org/legal/bylaws)
 - [OWASP Code of Conduct](https://policy.owasp.org/operational/code-of-conduct.html)
@@ -63,7 +63,7 @@ Once elected, successful candidates will serve a two-year term on the OWASP Boar
 - [OWASP Board of Directors Code of Conduct](https://policy.owasp.org/operational/board-code-of-conduct.html)
 - [OWASP Conflict of Interest Policy](https://policy.owasp.org/operational/conflict-of-interest.html)
 - [OWASP Conflict of Interest Disclosure Form](https://policy.owasp.org/legal/conflict-of-interest-annual-questionnaire)
-- [OWASP Director's Commitment Agreement](https://policy.owasp.org/legal/directors-committment-agreement)
+- [OWASP Director's Commitment Agreement](https://policy.owasp.org/legal/directors-commitment-agreement)
 - [OWASP Antitrust, Anti-Corruption and Competition Policy](https://policy.owasp.org/operational/antitrust.html)
 
 Please familiarize yourself with these policies and agreements before submitting your nomination. If you have any questions, please contact the [Executive Director](mailto:executive.director@owasp.com).
