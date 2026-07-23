@@ -71,7 +71,7 @@ The milestones below are set by the [Board Directors Policy, Section B.2](https:
 * September 15-30 - Community questions collected
 * September 30 - Membership Day (membership deadline to vote and to satisfy candidate standing requirements)
 * October 1-15 - Candidates publish answers to community questions and their videos; Town Hall / candidate debate held
-* October 15 - Candidate Debate Community Town Hall
+* October 6 - Candidate Debate Community Town Hall (recorded)
 * October 15 - Voting opens
 * October 30 - Voting closes
 * No later than the first business day after November 3 - Full results announced to the community
