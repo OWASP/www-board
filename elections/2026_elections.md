@@ -18,9 +18,9 @@ layout: col-generic
 
 There are three vacancies for the 2027 Board, which will be filled by the elections held in 2026. The following Board Members' seats will expire on December 31, 2026:
 
-- Ricardo Griffith (term limited: Directors may serve a maximum of two terms in any ten-year period, per Bylaws Section 4.3)
-- Ashwini Siddhi (eligible to run again)
-- Harold Blankenship (eligible to run again)
+- Ricardo Griffith
+- Ashwini Siddhi
+- Harold Blankenship
 
 ## General Election Information
 
