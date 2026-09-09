@@ -49,7 +49,7 @@ Except for the close of voting, which is set at 11:59 pm UTC by the Board Direct
 
 The Candidate Virtual Town Hall will be moderated by the OWASP Executive Director and recorded for those who cannot attend. All candidates are expected to participate. The Town Hall will be announced to the community on October 1, 2026.
 
-## Call For Candidates
+## Call For Candidates (Closed)
 
 Individual (voting) Members who have been in good standing for the 12 months ending on Membership Day (September 30, 2026), and who meet the volunteer contribution and other candidate qualifications, can stand for the Board. Candidates must nominate themselves; third-party nominations are not accepted. To apply, please refer to the email titled "OWASP 2026 Global Board Election Kickoff", which includes all details.
 
@@ -72,13 +72,17 @@ If you are unable to meet the eligibility requirements, or abide by these polici
 
 **Directors are solely responsible for maintaining good standing as a voting member throughout their term. A Director who fails to do so may have their seat vacated under Sections 4.5 and 4.6 of the Bylaws. This has happened several times in the past. We strongly urge Director-elects to take out sufficient membership to cover their entire term: adding a two-year membership to your current membership, or changing to a Lifetime membership, is the ideal way to avoid this issue entirely.**
 
-## Confirmed Nominations - to be announced on September 10, 2026
+## Confirmed Nominations
 
-OWASP will verify the qualifications of all nominations received by the deadline and publish the list of confirmed candidates on September 10, 2026. The following individuals have been confirmed as candidates for the 2027 Board:
+The following individuals have been confirmed as candidates for the 2027 Board:
 
-- [TBA]()
-- [TBA]()
-- [TBA]()
+There are five candidates for the 2026 elections:
+
+- [Ashwini Siddhi](https://owasp.org/www-board-candidates/2026/ashwini_siddhi.html)
+- [Diego Martins](https://owasp.org/www-board-candidates/2026/diego_martins.html)
+- [Harold Blankenship](https://owasp.org/www-board-candidates/2026/harold_blankenship.html)
+- [Michael Koppmann](https://owasp.org/www-board-candidates/2026/michael_koppmann.html)
+- [Patrick Dwyer](https://owasp.org/www-board-candidates/2026/patrick_dwyer.html)
 
 A complete list of this year's [candidate pages can be found here](https://owasp.org/www-board-candidates/). Each candidate page includes a short biography, a statement of interest, and answers to questions submitted by the community.
 
