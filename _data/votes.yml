@@ -1,520 +1,540 @@
 - date: 2026-08-25
   motion: "Resolved, that the OWASP Foundation Board of Directors moves the October 2026 public Board meeting to be held in person at AppSec San Francisco 2026 on November 4, 2026, at 5.30 pm PST in room Waterfront E."
-  result: "<br>In favor: 6 (Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Marisa Fagan, Steve Springett). Absent: Kelly Santalucia"
-  vote: "<br>6-0"
+  result: "In favor: 6 (Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Marisa Fagan, Steve Springett). Absent: Kelly Santalucia"
+  vote: "6-0"
 - date: 2026-07-28
   motion: "Resolved, that the OWASP Board of Directors approves the update to the Chapter Policy to require that OWASP Chapter Leaders must be OWASP Members."
-  result: "<br>In favor: 7 (Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia, Marisa Fagan, Steve Springett)"
-  vote: "<br>7-0"
+  result: "In favor: 7 (Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia, Marisa Fagan, Steve Springett)"
+  vote: "7-0"
 - date: 2026-05-26
   motion: "Resolved, the Board of Directors approves the update to the Distinguished Lifetime Member Benefits as outlined in pull request 160."
-  result: "<br>In Favor: 7 (Steve Springett, Ashwini Siddhi, Marisa Fagan, Kelly Santalucia, Ricardo Griffith, Sam Stepanyan, Harold Blankenship)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Steve Springett, Ashwini Siddhi, Marisa Fagan, Kelly Santalucia, Ricardo Griffith, Sam Stepanyan, Harold Blankenship)"
+  vote:  "7-0"
 - date: 2026-04-28
   motion: "Resolved, the Executive Director is permitted to contract with Harold Blankenship at market rates as determined by similar roles advertised on Upwork."
-  result: "<br>In Favor: 4 (Steve Springett, Ashwini Siddhi, Marisa Fagan, Kelly Santalucia)  No: 2 (Ricardo Griffith, Sam Stepanyan) Recused 1 (Harold Blankenship)"
-  vote:  "<br>4-2"
+  result: "In Favor: 4 (Steve Springett, Ashwini Siddhi, Marisa Fagan, Kelly Santalucia)  No: 2 (Ricardo Griffith, Sam Stepanyan) Recused 1 (Harold Blankenship)"
+  vote:  "4-2"
 - date: 2026-03-24
   motion: "Resolved, that the 2026 OWASP Foundation Budget is approved, effective immediately."
-  result: "<br>In Favor: 5 (Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Marisa Fagan, Steve Springett) Absent: 2 (Ashwini Siddhi, Kelly Santalucia)"
-  vote:  "<br>5-0"
+  result: "In Favor: 5 (Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Marisa Fagan, Steve Springett) Absent: 2 (Ashwini Siddhi, Kelly Santalucia)"
+  vote:  "5-0"
 - date: 2026-03-24
   motion: "Resolved, the Board amends the Signatory Policy to increase the Executive Director’s signing authority from $10,000 to $25,000 per transaction, with transactions above $25,000 continuing to require dual authorization under the existing policy."
-  result: "<br>In Favor: 3 (Harold Blankenship, Marisa Fagan, Steve Springett) No: 2 (Ricardo Griffith, Sam Stepanya) Absent: 2 (Kelly Santalucia, Ashwini Siddhi)"
-  vote:  "<br>3-2"
+  result: "In Favor: 3 (Harold Blankenship, Marisa Fagan, Steve Springett) No: 2 (Ricardo Griffith, Sam Stepanya) Absent: 2 (Kelly Santalucia, Ashwini Siddhi)"
+  vote:  "3-2"
 - date: 2026-01-28
   motion: "Resolved, that the agenda for the January 28, 2026, OWASP Foundation Board meeting be amended to include discussion and a vote on creating a Global Board Audit Committee. Ricardo Griffith motions, Steve Springett seconds"
-  result: "<br>In Favor: 7 (Ricardo Griffith, Harold Blankenship, Marisa Fagan, Kelly Santalucia, Sam Stepanyan, Ashwini Siddhi and Steve Springett)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Ricardo Griffith, Harold Blankenship, Marisa Fagan, Kelly Santalucia, Sam Stepanyan, Ashwini Siddhi and Steve Springett)"
+  vote:  "7-0"
 - date: 2026-01-28
   motion: "Resolved, That the Global Board of Directors approves and adopts the OWASP Global Board Audit Committee Charter, as presented, and establishes the Audit Committee as a standing committee of the Board, effective immediately. Ricardo Griffith motions, Steve Springett seconds."
-  result: "<br>In Favor: 7 (Ricardo Griffith, Harold Blankenship, Marisa Fagan, Kelly Santalucia, Sam Stepanyan, Ashwini Siddhi and Steve Springett)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Ricardo Griffith, Harold Blankenship, Marisa Fagan, Kelly Santalucia, Sam Stepanyan, Ashwini Siddhi and Steve Springett)"
+  vote:  "7-0"
 - date: 2026-01-05
   motion: "Resolved, that the 2026 Chair of the Board of Directors is elected as follows: Steve Springett. Ricardo Griffith motions, Sam Stepanyan seconds"
-  result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
+  vote:  "7-0"
 - date: 2026-01-05
-  motion: "Resolved, hat the 2026 Vice Chair of the Board of Directors is elected as follows: Ricardo Griffith. Steve Springett motions, Ricardo Griffith seconds"
-  result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
-  vote:  "<br>7-0"
+  motion: "Resolved, that the 2026 Vice Chair of the Board of Directors is elected as follows: Ricardo Griffith. Steve Springett motions, Ricardo Griffith seconds"
+  result: "In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
+  vote:  "7-0"
 - date: 2026-01-05
   motion: "Resolved, Resolved, that the 2026 Treasurer of the Board of Directors is elected as follows: Harold Blankenship.  Steve Springett motions, Ricardo Griffith seconds"
-  result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
+  vote:  "7-0"
 - date: 2026-01-05
   motion: "Resolved, that the 2026 Secretary of the Board of Directors is elected as follows: Marisa Fagan.  Steve Springett motions, Ashwini Siddhi seconds"
-  result: "<br>In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Steve Springett, Ricardo Griffith, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Kelly Santalucia and Marisa Fagan)"
+  vote:  "7-0"
 - date: 2025-12-16
   motion: "Resolved,  that the Board approves the Board of Directors Policy, replacing the existing Election Policy, effective immediately.  Avi Douglen motions, Harold Blankenship seconds."
-  result: "<br>In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-12-16
   motion: "Resolved, the OWASP Foundation Bylaws are amended to reflect the change from the Election Policy to the Board of Directors Policy, including removing references to the old Election Policy, effective immediately.  Avi Douglen motions, Ricardo Griffith seconds"
-  results: "<br>In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date:  2025-12-16
   motion: "Resolved, that the Board approves the Antitrust Policy, which is required to ensure compliance with US antitrust laws, effective immediately. Avi Douglen motions, Diego Silva Martins seconds"
-  result: "<br>In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-11-05
   motion: "Resolved, that the revised Director Qualification & Election Policy is tabled. No sponsor/second needed for tabling the motion"
-  result: "<br>In Favor: 6 (Steve Springett, Harold Blankenship, Sam Stepanyan, Avi Douglen, Diego Silva Martins and Ricardo Griffiths)"
-  vote:  "<br>6-0"  
+  result: "In Favor: 6 (Steve Springett, Harold Blankenship, Sam Stepanyan, Avi Douglen, Diego Silva Martins and Ricardo Griffiths)"
+  vote:  "6-0"  
 - date: 2025-09-23
   motion: "Resolved, The October 28, 2025 Global Board Meeting is delayed by 8 days to Wednesday, November 5, 2025 at 5:00 PM US Eastern Time, to be held in person at the Global AppSec DC Conference. The November 25, 2025 meeting is unchanged. Please Note: the meeting date was mistakenly read out as November 4th when it should be November 5th.  Ricardo Griffith motions, Diego Silva Martins seconds."
-  result: "<br>In Favor: 6 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Diego Silva Martins and Ricardo Griffith)"
-  vote: "<br>6-0"
+  result: "In Favor: 6 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Diego Silva Martins and Ricardo Griffith)"
+  vote: "6-0"
 - date: 2025-08-26
   motion: "Resolved, that the OWASP Chapter Committee Charter be tabled. Ricardo Griffith motions, Steve Springett seconded."
-  result: "<br>In Favor 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Diego Silva Martins and Ricardo Griffith)"
-  vote:  "<br>7-0"
+  result: "In Favor 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Diego Silva Martins and Ricardo Griffith)"
+  vote:  "7-0"
 - date: 2025-07-22
   motion: "Resolved, that the Board will table Chapter Committee Charter vote until August 2025 meeting. Note: no sponsor or second needed for this vote"
-  result: "<br>In Favor: 6-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Steve Springett and Ricardo Griffith)"
-  vote: "<br>6-0"
+  result: "In Favor: 6-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Steve Springett and Ricardo Griffith)"
+  vote: "6-0"
 - date: 2025-07-22
   motion: "Resolved, that from August 2025, the OWASP Board of Directors will hold its regular monthly meetings at 9 am US Eastern Time on the fourth Tuesday of each month until further notice. Ricardo Griffith sponsors, Diego Silva Martins seconds"
-  result: "<br>In Favor: 7-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Harold Blankenship, Steve Springettand Ricardo Griffith)"
-  vote: "<br>7-0"
+  result: "In Favor: 7-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Harold Blankenship, Steve Springettand Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-06-24
   motion: "Resolved, to change the agenda to include a discussion on marketing.  Avi Douglen motions, Ricardo Griffith seconds"
-  result: "<br>In Favor: 6-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Harold Blankenship and Ricardo Griffith)"
-  vote: "<br>6-0"
+  result: "In Favor: 6-0 (Diego Silva Martins, Avi Douglen, Ashwini Siddhi, Sam Stepanyan, Harold Blankenship and Ricardo Griffith)"
+  vote: "6-0"
 - date: 2025-05-28
   motion: "Resolved, the bylaws are amended to allow the creation of working groups. This requires a super majority of the Board. Steve Springett motions and Ricardo Griffith seconds"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-05-28
   motion: "Resolved, the committee policy is amended to ensure that the working group policy is the primary source of information for working groups. This requires a super majority of the Board. Steve Springett motions and Ricardo Griffith seconds"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-05-28
   motion: "Resolved, that working groups policy is approved. Steve Springett motions and Ricardo Griffith seconds"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-05-28
   motion: "Resolved, that the privacy policy is approved. Avi Douglen motions and Diego Silva Martins seconds"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-05-28
   motion: "Resolved, that the travel policy is approved. Diego Silva Martins motions and Ricardo Griffith seconds"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-04-22
   motion: "Resolved, that the May Board meeting be moved to May 28, 2025, at 5 pm Central Daylight European Time.  Ricardo Griffith motions and Avi Douglen seconds"
-  result: "<br>In Favor: 7-0 (Ashwni Siddhi, Avi Douglen, Diego Silva Martins, Harold Blankenship, Steve Springett and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Ashwni Siddhi, Avi Douglen, Diego Silva Martins, Harold Blankenship, Steve Springett and Ricardo Griffith)"
+  vote: "7-0"
+- date: 2025-04-09
+  motion: "Resolved, the Board authorizes the Executive Director to establish the position of Global Digital Marketing and Communications Manager, as soon as reasonably possible."
+  result: "In Favor: 7-0 (Ashwni Siddhi, Avi Douglen, Diego Silva Martins, Harold Blankenship, Steve Springett and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-03-25
   motion: "Resolved, that the OWASP Foundation Board of Directors promotes the OWASP GenAI project to Flagship status.  Steve Springett motions and Avi Douglen seconds"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-03-25
   motion: "Vote to change to the agenda to introduce new motion - Re:  OWASP AI Exchange Project Promotion.  Steve Springett motions, Avi Douglen seconds"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-03-25
   motion: "Resolved, that the OWASP Foundation Board of Directors promotes the OWASP AI Exchange aka OWASP Security and Privacy Guide Project to Flagship Project status.  Steve Springett motions, Avi Douglen seconds"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-03-25
   motion: "Vote to change to the agenda to remove the following items from the agendue due to contraints.  Ricardo Griffith motions and sam Stepanyan seconds
-   <br>Discuss flagship projects
-   <br>Discussion on establishing a funding committee
-   <br>Discussion on establishing a marketing committee
-   <br>Discussion on establishing a diversity committee"
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
-  vote: <br>"7-0"
+   Discuss flagship projects
+   Discussion on establishing a funding committee
+   Discussion on establishing a marketing committee
+   Discussion on establishing a diversity committee"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Ashwini Siddhi, Avi Douglen, Diego Silva Martins and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-02-25
   motion: "Resolved, that the 2025 Budget is approved, effective immediately."
-  result: "<br>In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Avi Douglen, Diego Silva Martins, Ashwini Siddhi and Ricardo Griffith)"
-  vote: "<br>7-0"
+  result: "In Favor: 7-0 (Steve Springett, Harold Blankenship, Sam Stepanyan, Avi Douglen, Diego Silva Martins, Ashwini Siddhi and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2025-01-28
   motion: "Resolved, that the Board appoints Diego Silva Martins to the OWASP Board of Directors, effective immediately, to serve for the remainder of Kevin Johnson's term. Ricardo Griffith motions, Avi Douglen seconds."
-  result: "<br>In Favor: 5-0 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Steve Springett) Avi Douglen - abstained."
-  vote:  "<br>5-0"
+  result: "In Favor: 5-0 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Steve Springett) Avi Douglen - abstained."
+  vote:  "5-0"
 - date: 2025-01-28
   motion: "Resolved, that the 2025 Chair of the Board of Directors is elected as follows: Ricardo Griffith.  Avi Douglen sponsors, Sam Stepanyan seconds"
-  result: "<br>In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
+  vote: "7-0"
 - date: 2025-01-28
   motion: "Resolved, that the 2025 Vice Chair of the Board of Directors is elected as follows: Steve Springett. Ricardo Griffith motions, Diego Silva Martins seconds"
-  result: "<br>In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
+  vote: "7-0"
 - date: 2025-01-28
   motion: "Resolved, that the 2025 Treasurer of the Board of Directors is elected as follows: Harold Blankenship.  Ricardo Griffith motions, Diego Silva Martins seconds"
-  result: "<br>In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
+  vote: "7-0"
 - date: 2025-01-28
   motion: "Resolved, that the 2025 Secretary of the Board of Directors is elected as follows: Sam Stepanyan. Harold Blankenship motions, Ricardo Griffith seconds"
-  result: "<br>In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Ricardo Griffith, Sam Stepanyan, Harold Blankenship, Ashwini Siddhi, Diego Silva Martins, Steve Springett and Avi Douglen)"
+  vote: "7-0"
 - date: 2024-12-17
   motion: "To discuss the Cairo Chapter before any other new business. Kevin Johnson motions and Avi Douglen seconds"
-  result: "<br>In Favor: 7 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith"
+  vote: "7-0"
 - date: 2024-11-26
   motion: "Grant requested to the board to change the agenda to include an item for appointing Verdana Verna as a Compliance Officer"
-  result: "<br>In Favor: 7 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith)"
+  vote:  "7-0"
 - date: 2024-11-26
   motion: "Resolved, Vandana Verma i appointed as a Compliance Officer as of January 1, 2025"
-  result: "<br>In Favor: 7 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith) Avi Douglen motions, Matt Tesauro seconds"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith) Avi Douglen motions, Matt Tesauro seconds"
+  vote:  "7-0"
 - date: 2024-11-26
   motion:  "Resolved, there will be only two Global AppSec conferences, allowing the 2025 Board in 2025 to re-evaluate the AsiaPacific conference strategy.  Matt Tesauro motions, Avi Douglen seconds"
-  result: "<br>In Favor: 6 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro and Ricardo Griffith) 1 - Bil Corry"  
-  vote: "<br>6-1"  
+  result: "In Favor: 6 (Sam Stepanyan, Steve Springett, Kevin Johnson, Avi Douglen, Matt Tesauro and Ricardo Griffith) 1 - Bil Corry"  
+  vote: "6-1"  
 - date: 2024-10-22
   motion: "Andrew van der Stock requested to add an item to the agenda related to corporate supporter feedback on project revitalization and website updates. The changes were accepted by the board."
-  result: "<br>In Favor: 6 (Avi Douglen, Matt Tesauro, Ricardo Griffith, Steve Springett, Sam Stepanyan and Kevin Johnson) Abstain: 1 - Bill Corry"
-  vote: "<br>6-0"
+  result: "In Favor: 6 (Avi Douglen, Matt Tesauro, Ricardo Griffith, Steve Springett, Sam Stepanyan and Kevin Johnson) Abstain: 1 - Bill Corry"
+  vote: "6-0"
 - date: 2024-10-22
   motion: "Resolved, upon successful finalization of the agreement between OWASP and the Barcelona Convention Center for OWASP AppSec EU 2025, the Board authorizes the Treasurer and Executive Director to review the final contract and, if agreed, co-sign the agreement to a maximum value of 200,000 euros. Bil Corry sponsors, Avi Douglen seconds"
-  result: "<br>In Favor: 6 (Matt Tesauro, Bil Corry, Ricardo Griffith, Steve Springett, Sam Stepanyan and Kevin Johnson)"
-  vote: "<br>6-0"
+  result: "In Favor: 6 (Matt Tesauro, Bil Corry, Ricardo Griffith, Steve Springett, Sam Stepanyan and Kevin Johnson)"
+  vote: "6-0"
 - date: 2024-09-25
   motion: "Addition of Giza Chapter to the Agenda, motioned by Matt Tesauro, seconded by Steve Springett"
-  result: "<br>In Favor: 4 (Sam Stepanyan, Steve Springett, Ricardo Griffith and Matt Tesauro)"
-  vote: "<br>4-0"
+  result: "In Favor: 4 (Sam Stepanyan, Steve Springett, Ricardo Griffith and Matt Tesauro)"
+  vote: "4-0"
 - date: 2024-09-25
   motion: "Resolved, that the draft Board Code of Conduct is approved, Steve Springett motions and Sam Stepanyan seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
-  vote:  "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
+  vote:  "5-0"
 - date: 2024-09-25
   motion: "Resolved, that the draft Code of Conduct policy is approved. Steve Springett motioned and Sam Stepanyan seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
+  vote: "5-0"
 - date: 2024-09-25
   motion: "Resolved, that the draft Conflict of Interest policy is approved.  Sam Stepanyan motioned, Steve Springett seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Grifith and Avi Douglen)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Grifith and Avi Douglen)"
+  vote: "5-0"
 - date: 2024-09-25
   motion: "Resolved, that the draft Elections policy is approved.  Sam Stepanyan motioned and Steve Springett seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
+  vote: "5-0"
 - date: 2024-09-25
   motion:  "Resolved, that the draft Membership policy is approved.  Steve Springett motioned and Sam Stepanyan seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
+  vote: "5-0"
 - date: 2024-09-25
   motion: "Resolved, that the draft Force Majeure policy is approved. Sam Stepanyan motions and Steve Springett seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
-  vote: "<br>5-0"  
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
+  vote: "5-0"  
 - date: 2024-08-27
   motion: "(e-Vote) I move that we amend the agenda for Tuesday, August 27, 2024, board meeting to include a closed executive session to discuss a member's injunction with a Compliance Officer."
-  result: "<br>In Favor: 7 (Matt Tesauro, Kevin Johnson, Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry, and Ricardo Griffith)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Matt Tesauro, Kevin Johnson, Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry, and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2024-08-27
   motion: "Resolved, that the December 2024 Board meeting be moved to December 17th, 2024 at 1200 US EST."
-  result: "<br>In Favor: 7 (Matt Tesauro, Kevin Johnson, Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry, and Ricardo Griffith)"
-  vote: "<br>7-0"
+  result: "In Favor: 7 (Matt Tesauro, Kevin Johnson, Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry, and Ricardo Griffith)"
+  vote: "7-0"
 - date: 2024-07-23
   motion: "Changes to the agenda - unless otherwise prohibited by anti-trust or competition laws - including adding, altering, or tabling of motions is permitted by following Roberts Rules of Order (RONR 12th Ed) 41:63, which requires an affirmative two-thirds vote. Vote to move items onto the agenda"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
+  vote: "5-0"
 - date: 2024-07-23
   motion: "Resolved, that the September 2024 Board meeting is moved to 5.30 pm US PDT September 25th, 2024. Ricardo Griffith motions, Sam Stepanyan seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
+  vote: "5-0"
 - date: 2024-07-23
   motion: "Resolved, The events policy and member benefits page to be updated to include that video recordings from OWASP Global AppSec conferences to be initially released and shared with OWASP members, providing them with early access to the video content for a period of two months prior to public release. This benefit will be available to all OWASP members in good standing Sam Stepanyan motions, Ricardo Griffith seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
+  vote: "5-0"
 - date: 2024-07-23
   motion: "Resolved, the Executive Director is authorized to invest a total of $500k in three rolling 90-day Certificates of Deposit (CDs) with our current banking institution. The Executive Director is authorized, by the end of August 2024, to research a suitable financial institution that provides money market accounts, obtain final approval from the OWASP Treasurer, and open a money market account with the OWASP Treasurer as co-signer. He is authorized to transfer the OWASP Foundation’s savings to the money market once opened. The OWASP Foundation Treasurer and OWASP’s accountants will be granted read-only access to the money market account for visibility and accountability. The Board will be informed as funds are transferred, and continuous financial reporting will come from OWASP’s accountants every month. Bil Corry motions, Avi Douglen seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
+  vote: "5-0"
 - date:  2024-07-23
   motion: "Resolved, the Executive Director is authorized to research and obtain final approval from the OWASP Treasurer to open a line of credit with our current financial institution, with a maximum limit of $500k. The Executive Director will provide the Board with the terms and conditions of the line of credit once it is established. Bil Corry motions, Avi Douglen seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
+  vote: "5-0"
 - date: 2024-07-23
   motion: "Resolved, the Executive Director is authorized to move all staff credit cards to our current financial institution, and to close all other credit card accounts by the end of 2024. The Executive Director will provide the Board with a list of all credit card holders and the current credit limits once the transition is complete. Bil Corry motions, Ricardo seconds"
-  result: "<br>In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
-  vote: "<br>5-0"
+  result: "In Favor: 5 (Sam Stepanyan, Steve Springett, Avi Douglen, Bil Corry and Ricardo Griffith)"
+  vote: "5-0"
 - date: 2024-06-26
   motion: "Resolved, Motion to discuss the committee agenda item first.  Kevin Johnson motions, Avi Douglen seconds"
-  result: "<br>In Favor: 6 (Kevin Johnson, Avi Douglen, Matt Tesauro, Sam Stepanyan, Bil Corry and Steve Springett)"
-  vote: "<br>6-0"
+  result: "In Favor: 6 (Kevin Johnson, Avi Douglen, Matt Tesauro, Sam Stepanyan, Bil Corry and Steve Springett)"
+  vote: "6-0"
 - date: 2024-05-28
   motion: "Resolved, to change the order of the agenda to accommodate the discussion on the EU tax entity with a tax expert."
-  result: "<br>In Favor: 6 (Sam Stepanyan, Steve Springett, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith)"
-  vote: "<br>6-0"
+  result: "In Favor: 6 (Sam Stepanyan, Steve Springett, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith)"
+  vote: "6-0"
 - date: 2024-05-28
   motion: "Resolved, proposed that this topic be tabled until the June 2024 board meeting as this is a longer conversation than we have time for at this meeting."
-  result: "<br>In Favor: 6 (Sam Stepanyan, Steve Springett, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith)"
-  vote: "<br>6-0"
+  result: "In Favor: 6 (Sam Stepanyan, Steve Springett, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith)"
+  vote: "6-0"
 - date: 2024-05-28
   motion: "Resolved, the Board reschedules the June public Board meeting to 26th June 2024, at 1730 Lisbon time.  Avi Douglen motions, Matt Tesauro seconds"
-  result: "<br>In Favor: 6 (Sam Stepanyan, Steve Springett, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith)"
-  vote:  "<br>6-0"
+  result: "In Favor: 6 (Sam Stepanyan, Steve Springett, Avi Douglen, Matt Tesauro, Bil Corry and Ricardo Griffith)"
+  vote:  "6-0"
 - date: 2024-04-24
   motion:  "Resolved, the regularly scheduled April Public Board meeting shall be rescheduled to Wednesday, April 24, 2024.  Avi Douglen motions, Bil Corry seconds"
-  result: "<br>In Favor: 7 (Avi Douglen, Matt Tesauro, Ricardo Griffith, Bil Corry, Sam Stepanyan, Kevin Johnson and Steve Springett)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Avi Douglen, Matt Tesauro, Ricardo Griffith, Bil Corry, Sam Stepanyan, Kevin Johnson and Steve Springett)"
+  vote:  "7-0"
+- date: 2024-03-26
+  motion: "Resolved, that Rick Mello is approved as an OWASP Compliance Officer, pursuant to Rick becoming a paid Individual Member."
+  result: " In Favor: 6 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Sam Stepanyan)"
+  vote: "6-0"
+- date: 2024-03-26
+  motion: "Resolved, that the Foundation can acquire the Blend-Ed platform for the purpose of creating the OWASP Learning Platform, as described in the proposal."
+  result: "The Board concluded that a vote is not required at this time."
+  vote: "Vote is tabled for a future meeting"
 - date: 2024-03-26
   motion:  "Resolved, the 2024 Budget is approved. Kevin Johnson motions, Steve Springett seconds"
-  result: "<br>In Favor: 7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Sam Stepanyan and Steve Springett)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Sam Stepanyan and Steve Springett)"
+  vote:  "7-0"
 - date: 2024-03-19
   motion: "Resolved, the Global AppSec Events shall be renamed according to the region, e.g. Global AppSec USA, Global AppSec EU, Global AppSec Asia. Avi Douglen motions, Kevin Johnson seconds"
-  result: "<br>In Favor: 7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepanyan)"
-  Vote:  "<br>7-0"
+  result: "In Favor: 7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepanyan)"
+  Vote:  "7-0"
 - date: 2024-03-18
   motion: "It is resolved that all Chapter, Project, and Event Leaders are required to hold formal membership within the OWASP Foundation. This membership may be either paid or complimentary. Leaders are granted a one-month grace period to establish or renew their membership. The policy becomes effective immediately, with enforcement beginning on September 30, 2024. Necessary updates to relevant policies will be made to reflect this requirement. Kevin Johnson motions, Matt Tesauro seconds"
-  result: "<br>In Favor: 7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Riccardo Griffith, Steve Springett and Sam Stepanyan)"
-  vote:  "<br>7-0"
+  result: "In Favor: 7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Riccardo Griffith, Steve Springett and Sam Stepanyan)"
+  vote:  "7-0"
 - date: 2024-01-24
   motion:  "Resolved, that the 2024 Chair of the Board of Directors is elected as follows: Avi Douglen.  Kevin Johnson motions, Ricardo Griffith seconds"
-  result:  "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
+  vote:  "7-0"
 - date: 2024-01-24
   motion: "Resolved, that the 2024 Vice Chair of the Board of Directors is elected as follows: Matt Tesauro.  Ricardo Griffith motions, Kevin Johnson seconds"
-  result:  "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
+  vote:  "7-0"
 - date: 2024-01-24
   motion:  "Resolved, that the 2024 Treasurer of the Board of Directors is elected as follows: Bil Corry.  Avi Douglen motions, Kevin Johnson seconds"
-  result:  "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
+  vote:  "7-0"
 - date: 2024-01-24
   motion:  "Resolved, that the 2024 Secretary of the Board of Directors is elected as follows: Ricardo Griffith.  Kevin Johnson motions, Matt Tesauro seconds"
-  result:  "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan"
+  vote:  "7-0"
 - date: 2024-01-24
   motion: "Resolved, the Board confirms Grant Ongers as a Compliance Officer for the Foundation, reporting to the Board.  Kevin Johnson motions, Avi Douglen seconds"
-  result: "<br>In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
-  vote:  "<br>7-0"
+  result: "In Favor:  7 (Avi Douglen, Bil Corry, Kevin Johnson, Matt Tesauro, Ricardo Griffith, Steve Springett and Sam Stepayan)"
+  vote:  "7-0"
 - date:  2023-10-24
   motion: "It is moved and decided that Richardo Mello well be appointed to the Compliance Committee pursuant to completion of his OWASP Membership. Avi Douglen motions, Ricardo Griffith seconds"
-  result:  "<br>In Favor:  5 (Vandana Verma, Bil Corry, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
-  vote:  "<br>5-0"
+  result:  "In Favor:  5 (Vandana Verma, Bil Corry, Matt Tesauro, Ricardo Griffith and Avi Douglen)"
+  vote:  "5-0"
 - date:  2023-09-26
   motion:  "Resolved that the Executive Director is authorised to transfer the residual OWASP funds of Citizens Bank to OWASP accounts in Chase, approximately $USD 1.8m, and close the accounts, as required and at his discretion.  Grant Ongers motions, Ricardo Griffith seconds"
-  result:  "<br>In Favor: 5 (Avi Douglen, Bil Corry, Ricardo Griffith, Matt Tesauro and Grant Ongers)"
-  vote:  "<br>5-0"
+  result:  "In Favor: 5 (Avi Douglen, Bil Corry, Ricardo Griffith, Matt Tesauro and Grant Ongers)"
+  vote:  "5-0"
 - date:  2023-09-26
   motion:  "Resolved that the board revokes the Project Spending Policy and Project Sponsorship Policy effective immediately.  Grant Ongers motions, Avi Douglen seconds"
-  result:  "<br>In Favor: 5 (Bil Corry, Avi Douglen, Matt Tesauro, Ricardo Griffith and Grant Ongers)"
-  vote:  "<br>5-0"
+  result:  "In Favor: 5 (Bil Corry, Avi Douglen, Matt Tesauro, Ricardo Griffith and Grant Ongers)"
+  vote:  "5-0"
 - date:  2023-09-26
   motion:  "Resolved that OWASPx is removed as an OWASP event type and will be removed from the web site, event policy, and any other relevant areas. Grant Ongers motions, Avi Douglen seconds"
-  result:  "<br>In Favor:  6 (Vandana Verma, Ricardo Griffith, Matt Tesauro, Bil Corry, Avi Douglen and Grant Ongers)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Vandana Verma, Ricardo Griffith, Matt Tesauro, Bil Corry, Avi Douglen and Grant Ongers)"
+  vote:  "6-0"
 - date:  2023-09-26
   motion:  "Resolved that the Compliance Committee is dissolved as an OWASP Committee per the Committee Policy as of the 1st of January 2024 and instead the Board should appoint Compliance Officers to fulfil the duties laid out in the Whistleblower Policy. Compliance Officers are officers of OWASP for the purposes of D&O insurance.  Bil Corry motions, Avi Douglen seconds"
-  result:  "<br>In Favor:  6 (Matt Tesauro, Ricardo Griffith, Vandana Verma, Bil Corry, Avi Douglen and Grant Ongers)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Matt Tesauro, Ricardo Griffith, Vandana Verma, Bil Corry, Avi Douglen and Grant Ongers)"
+  vote:  "6-0"
+- date:  2023-09-26
+  motion: "Resolved that the OWASP Foundation adopts the Whistleblower & Anti-relation policy"
+  result: "There was discussion on this topic, it appears that the motion was tabled to make sure that the policy had been reviewed by lawyers."
+  vote: "No vote recorded"
 - date:  2023-08-22
   motion:  "Discussion on Developer Outreach, Black Hat, DefCon - able for the in-preson board meeting in September. Grant Ongers motions, Avi Douglen seconds"
-  result:  "<br>In Favor: 7 (Avi Douglen, Matt Tesauro, Ricardo Griffith, Glenn ten Cate, Bil Corry, Vandana Verma Sehgal and Grant Ongers)"
-  vote:  "<br>7-0"
+  result:  "In Favor: 7 (Avi Douglen, Matt Tesauro, Ricardo Griffith, Glenn ten Cate, Bil Corry, Vandana Verma Sehgal and Grant Ongers)"
+  vote:  "7-0"
 - date:  2023-08-22
   motion:  "Add the agenda item Conflict of Interest and Censure of Glenn ten Cate to this meeting agenda.  Avi Douglen motions, Ricardo Griffith seconds"
-  result:  "<br>In Favor:  6 (Vandana Verma Seghal, Bil Corry, Avi Douglen, Matt Tesauro, Ricardo Griffith and Grant Ongers)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Vandana Verma Seghal, Bil Corry, Avi Douglen, Matt Tesauro, Ricardo Griffith and Grant Ongers)"
+  vote:  "6-0"
 - date:  2023-08-22
   motion:  "That the OWASP Global Board officially reprimands and censures Glenn Ten Cate for this failure to disclose a conflict of interest when discussing matters concerning projects potentially moving to the Linux Foundation and for failing to disclose his own relationship with the LF as a paid employee.  Avi Douglen motions and Grant Ongers seconds"
-  result: "<br>In Favor:  5 (Avi Douglen, Bil Corry, Ricardo Griffith, Matt Tesauro and Grant Ongers) (Vandana Verma Seghal - against and Glenn ten Cate - abstain)"
-  vote:  "<br>5-1"
+  result: "In Favor:  5 (Avi Douglen, Bil Corry, Ricardo Griffith, Matt Tesauro and Grant Ongers) (Vandana Verma Seghal - against and Glenn ten Cate - abstain)"
+  vote:  "5-1"
 - date:  2023-07-25
   motion:  "Resolved, that the Board of Directors authorizes the transfer of $250,000 from the Citizens checking account to the new Chase checking account, and $50,000 from the Citizens savings account to the new Chase savings account.  Bil Corry motion, Grant Ongers seconds"
-  result:  "<br>In Favor: 6 (Matt Tesauro, Bil Corry, Avi Douglen, Glenn ten Cate, Vandana Verma and Grant Ongers"
-  vote:  "<br>6-0"
+  result:  "In Favor: 6 (Matt Tesauro, Bil Corry, Avi Douglen, Glenn ten Cate, Vandana Verma and Grant Ongers"
+  vote:  "6-0"
 - date:  2023-07-25
   motion:  "Resolved, that the OWASP website is updated to reflect the current vision and mission of OWASP.  Grant Ongers motions, Avi Douglen seconds"
-  result:  "<br>In Favor:  6 (Matt Tesauro, Bil Corry, Avi Douglen, Glenn ten Cate, Vandana Verma and Grant Ongers"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Matt Tesauro, Bil Corry, Avi Douglen, Glenn ten Cate, Vandana Verma and Grant Ongers"
+  vote:  "6-0"
 - date:  2023-07-25
   motion:  "Resolved, that previous Board decisions on class of flight tickets as relates to the Travel policy are repealed, effective immediately. These will be eventually replaced with an approved Travel Policy and appropriate guidelines.  Avi Douglen motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  7 (Glenn ten Cate, Matt Tesauro, Bil Corry, Vandana Verma, Avi Douglen, Ricardo Griffith and Grant Ongers)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Glenn ten Cate, Matt Tesauro, Bil Corry, Vandana Verma, Avi Douglen, Ricardo Griffith and Grant Ongers)"
+  vote:  "7-0"
 - date:  2023-06-27
   motion:  "Resolved, that the cutoff for the Startup Corporate Supporter level be changed to 3 years, the fees to remain at $2000 per year for any startup anywhere in the world, remove the $800 regional startup level, remove the monthly social media benefit, and remove the trademark license benefit.  Grant Ongers motions, Bil Corry seconds"
-  result:  "<br>In Favor:  7 (Bil Corry, Avi Douglen, Glenn ten Cate, Ricardo Griffith, Vandana Verma, Grant Ongers and Matt Tesauro)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Bil Corry, Avi Douglen, Glenn ten Cate, Ricardo Griffith, Vandana Verma, Grant Ongers and Matt Tesauro)"
+  vote:  "7-0"
 - date:  2023-06-27
   motion:  "Resolved, that 2017-09-17 Board decision on attaching Summits to an AppSec event is repealed, effective immediately.  Avi Douglen motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  7 (Bil Corry, Avi Douglen, Glenn ten Cate, Ricardo Griffith, Vandana Verma, Grant Ongers and Matt Tesauro)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Bil Corry, Avi Douglen, Glenn ten Cate, Ricardo Griffith, Vandana Verma, Grant Ongers and Matt Tesauro)"
+  vote:  "7-0"
 - date:  2023-05-23
   motion:  "Resolved, that Louis Ricardo Griffith is elevated to the Board for the remainder of Mark Curphey’s term, ending on December 31, 2024.  Grant Ongers motions, Matt Tesauro seconds"
-  result:  "<br>In Favor:  5 (Bil Corry, Glenn ten Cate, Matt Tesauro, Vandana Verma and Grant Ongers)"
-  vote:  "<br>5-0"
+  result:  "In Favor:  5 (Bil Corry, Glenn ten Cate, Matt Tesauro, Vandana Verma and Grant Ongers)"
+  vote:  "5-0"
 - date:  2023-05-23
   motion:  "Resolved, that the OWASP Foundation moves its accountancy function from Virtual Inc to The Charity CFO. Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  4 (Matt Tesauro, Bil Corry, Vandana Verma and Grant Ongers)"
-  vote:  "<br>4-0"
+  result:  "In Favor:  4 (Matt Tesauro, Bil Corry, Vandana Verma and Grant Ongers)"
+  vote:  "4-0"
 - date: 2023-02-28
   motion:  "Resolved, that the Board approves an exception to the Travel Policy for Foundation staff for flights over 7 hours total flight time to permit Economy Plus travel or next step up from economy.  Matt Tesauro motions, Avi Douglen seconds"
-  result:  "<br>In Favor:  4 (Grant Ongers, Avi Douglen, Matt Tesauro and Bil Corry) and Against: 2 (Glenn ten Cate and Mark Curphey)"
-  vote:  "<br>4-2"
+  result:  "In Favor:  4 (Grant Ongers, Avi Douglen, Matt Tesauro and Bil Corry) and Against: 2 (Glenn ten Cate and Mark Curphey)"
+  vote:  "4-2"
 - date: 2023-02-15
   motion:  "Resolved, that the Foundation will change all current and future references of the Open Web Application Security Project to the Open Worldwide Application Security Project. Mark Curphey motions and Avi Douglen seconds"
-  result: "<br>In Favor: 6 (Vandana Verma Sehgal, Grant Ongers, Avi Douglen, Matt Tesauro, Bil Corry and Glenn ten Cate)"
-  vote:  "<br>6-0"
+  result: "In Favor: 6 (Vandana Verma Sehgal, Grant Ongers, Avi Douglen, Matt Tesauro, Bil Corry and Glenn ten Cate)"
+  vote:  "6-0"
 - date: 2023-02-14
   motion:  "Resolved, that all official meetings of the Board must be open to public attendance, and recordings and minutes published accordingly. However, private Board meetings or portions of the meeting should be closed to Directors and their delegates as required by legal, liability, or regulatory requirements, or when discussing issues of a personal nature such as HR or personnel issues and Compliance complaints. The bylaws, currently sections 4.8 and 4.9 – Regular Meeting and Special Meetings, respectively should be updated to reflect this change.  Mark Curphey motions, Glenn ten Cate seconds"
-  result:  "<br>In Favor:  7  (Vandana Verma Sehgal, Grant Ongers, Avi Douglen, Matt Tesauro, Bil Corry, Glenn ten Cate and Mark Curphey)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7  (Vandana Verma Sehgal, Grant Ongers, Avi Douglen, Matt Tesauro, Bil Corry, Glenn ten Cate and Mark Curphey)"
+  vote:  "7-0"
 - date:  2023-02-14
   motion:  "Resolved, that all potential grants or directed funding that might go to a member of the Board or to a company to which they have any financial interest must be brought to the Board for discussion and the rules around conflict of interest apply. Expenses and grants policies must be updated to reflect this.  Mark Curphey motions, Glenn ten Cate seconds"
-  result:  "<br>In Favor:  6 (Vandana Verma Sehgal, Grant Ongers, Avi Douglen, Matt Tesauro, Glenn ten Cate and Mark Curphey) and Against: 1 (Bil Corry)"
-  vote:  "<br>6-1"
+  result:  "In Favor:  6 (Vandana Verma Sehgal, Grant Ongers, Avi Douglen, Matt Tesauro, Glenn ten Cate and Mark Curphey) and Against: 1 (Bil Corry)"
+  vote:  "6-1"
 - date:  2023-02-14
   motion:  "Resolved that the OWASP travel policy is altered to only cover economy class flights, unless there is a valid medical reason to allow other travel options.  Mark Curphey motions, Glenn ten Cate seconds"
-  result:  "<br>In Favor:  4 (Grant Ongers, Matt Tesauro, Mark Curphey and Glenn ten Cate) and Against:  3 (Vandana Verma Sehgal, Avi Douglen and Bil Corry)"
-  vote:  "<br>4-3"
+  result:  "In Favor:  4 (Grant Ongers, Matt Tesauro, Mark Curphey and Glenn ten Cate) and Against:  3 (Vandana Verma Sehgal, Avi Douglen and Bil Corry)"
+  vote:  "4-3"
 - date:  2023-01-24
   motion:  "Resolved, that the Board moves the April meeting to Tuesday, April 18 and December to Tuesday, December 19, 2023.  Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  7 (Grant Ongers, Avi Douglen, Bil Corry, Matt Tesauro, Glenn ten Cate, Mark Curphey and Vandana Verma)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Avi Douglen, Bil Corry, Matt Tesauro, Glenn ten Cate, Mark Curphey and Vandana Verma)"
+  vote:  "7-0"
 - date:  2023-01-24
   motion:  "Resolved, that the Board votes to elect Grant Ongers or Mark Curphy as Chair.  Vandana Verma motions, Grant Ongers seconds."
-  result:  "<br> Grant Ongers 5 (Vandana Verma, Grant Ongers, Avi Douglen, Matt Tesauro and Bil Corry)  Mark Curphey 2 (Glenn ten Cate and Mark Curphey)"
-  vote:  "<br>5-2 - In Favor of Grant"
+  result:  " Grant Ongers 5 (Vandana Verma, Grant Ongers, Avi Douglen, Matt Tesauro and Bil Corry)  Mark Curphey 2 (Glenn ten Cate and Mark Curphey)"
+  vote:  "5-2 - In Favor of Grant"
 - date:  2023-01-24
   motion:  "Resolved, that the Board votes to elect Avi Douglen as Vice Chair.  Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  6  (Grant Ongers, Vandana Verma, Avi Douglen, Bil Corry, Glenn ten Cate and Bil Corry) 1 Mark Curphey abstained"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6  (Grant Ongers, Vandana Verma, Avi Douglen, Bil Corry, Glenn ten Cate and Bil Corry) 1 Mark Curphey abstained"
+  vote:  "6-0"
 - date:  2023-01-24
   motion:  "Resolved, that the Board elects Matt Tesauro as Secretary.  Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  7 (Grant Ongers, Avi Douglen, Matt Tesauro, Bil Corry, Vandana Verma, Glenn ten Cate and Mark Curphey)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Avi Douglen, Matt Tesauro, Bil Corry, Vandana Verma, Glenn ten Cate and Mark Curphey)"
+  vote:  "7-0"
 - date:  2023-01-24
   motion:  "Resolved, that the Board elects Bil Corry as Treasurer.  Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  7 (Grant Ongers, Avi Douglen, Bil Corry, Matt Tesauro, Glenn ten Cate, Mark Curphey and Vandana Verma)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Avi Douglen, Bil Corry, Matt Tesauro, Glenn ten Cate, Mark Curphey and Vandana Verma)"
+  vote:  "7-0"
 - date:  2023-01-24
-  motion:  "Resolved, to approve Distinguished Lifetime Members.  Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  7 (Grant Ongers, Avi Douglen, Bil Corry, Matt Tesauro, Glenn ten Cate, Mark Curphey and Vandana Verma)"
-  vote:  "<br>7-0"
+  motion:  "Resolved, that the Board approves the attached Distinguished Lifetime Awards for early 2023.  Grant Ongers motions, Vandana Verma seconds"
+  result:  "In Favor:  7 (Grant Ongers, Avi Douglen, Bil Corry, Matt Tesauro, Glenn ten Cate, Mark Curphey and Vandana Verma)"
+  vote:  "7-0"
+- date:  2022-12-10
+  motion: "Resolved, the Board allocates $10k per Global Event for Diversity and Inclusion Scholarships in 2023 for OWASP Events."
+  result:  "In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
+  vote:  "Motion is tabled 7-0"
 - date:  2022-12-10
   motion: "Resolved, the Board amends the Expenses Policy to allow Economy Plus travel for a total flight time greater than 6 hours, or a single step upgrade from economy if Economy Plus is not available. All other flights will be booked as Economy.  Grant Ongers motions, Avi Douglen seconds"
-  result:  "<br>In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
+  vote:  "7-0"
 - date:  2022-10-25
   motion:  "Discussion on Outreach Ambassadors is tabled.  Glenn ten Cate motions, Martin Knobloch seconds"
-  result:  "<br>In Favor:  5 (Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
-  vote:  "<br>5-0"
+  result:  "In Favor:  5 (Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
+  vote:  "5-0"
 - date:  2022-09-28
   motion:  "Resolved, that the OWASP Foundation Board of Directors authorizes the Executive Director to perform an audit for semi-commercial and commercial projects in concert with the Project Committee to ensure that they are following the OWASP Foundation’s policies and procedures. Any identified gaps in the project policy relating to semi-commercial and commercial projects will be brought to the Board for discussion and resolution.  Avi Douglen motions, Glenn ten Cate seconds."
-  result:  "<br>In Favor:  4 (Vandana Verma, Avi Douglen, Glenn ten Cate and Bil Corry)  Abstain: 2 (Grant Ongers and Joubin Jabbari)"
-  vote:  "<br>4-0"
+  result:  "In Favor:  4 (Vandana Verma, Avi Douglen, Glenn ten Cate and Bil Corry)  Abstain: 2 (Grant Ongers and Joubin Jabbari)"
+  vote:  "4-0"
 - date:  2022-09-28
   motion:  "Resolved, that the OWASP Foundation Board of Directors authorizes the merger of the OWASP WIA, Diversity and Inclusion Committee and OWASP Outreach Committee to form the OWASP Diversity & Inclusion Outreach Committee, calling for the Charter of the new Committee to be rewritten to encompass the Scopes and Purposes from the two committees to be disolved and authorising the closure of those two committees.  Vandana Verma motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  4 (Vandana Verma, Grant Ongers, Joubin Jabbari and Bil Corry)  Against:  2 (Avi Douglen and Glenn ten Cate)"
-  vote:  "<br>4-2"
+  result:  "In Favor:  4 (Vandana Verma, Grant Ongers, Joubin Jabbari and Bil Corry)  Against:  2 (Avi Douglen and Glenn ten Cate)"
+  vote:  "4-2"
 - date:  2022-09-28
   motion:  "In order to enable the effective handling of incorporation of the Dutch foundation and any other foundation’s affairs regarding to the incorporation process, the Board wishes to appoint its Executive Director Mr. Andrew Van der Stock listed below as the holder of a general power of attorney to represent and act on behalf of the Company in all matters relating to its incorporation of a Dutch foundation.  Grant Ongers motions, Avi Douglen seconds"
   result:  "In Favor:  6 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Joubin Jabbari and Bil Corry)"
-  vote:  "<br>6-0"
+  vote:  "6-0"
 - date:  2022-08-23
   motion:  "Resolved, Global AppSec San Francisco is a mandatory masked event.  Avi Douglen motions, Grant Ongers seconds)"
-  result:  "<br>In Favor:  4 (Vandana Verma, Grant Ongers, Avi Douglen and Joubin Jabbari)  Against: 3 (Glenn ten Cate, Martin Knobloch and Bil Corry)"
-  vote:  "<br>4-3"
+  result:  "In Favor:  4 (Vandana Verma, Grant Ongers, Avi Douglen and Joubin Jabbari)  Against: 3 (Glenn ten Cate, Martin Knobloch and Bil Corry)"
+  vote:  "4-3"
 - date:  2022-08-23
   motion:  "Resolved, the OWASP Foundation shall work through the ratification of the new bylaws in order suggested by OWASP's legal counsel.  Grant Ongers motions, Avi Douglen seconds"
-  result:  "<br>In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
+  vote:  "7-0"
 - date:  2022-06-28
   motion:  "Resolved, the draft bylaws shall be submitted for legal review.  Joubin Jabbari motions, Martin Knobloch seconds"
-  result:  "<br>In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
+  vote:  "7-0"
 - date:  2022-06-28
   motion:  "Resolved, Corporate Membership shall be transitioned to Corporate Sponsorship over the residual terms of each Corporate Member. Under the new bylaws, Corporate Membership will be removed.  Vandana Verma motions, Avi Douglen seconds"
-  result:  "<br>In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate, Martin Knobloch, Joubin Jabbari and Bil Corry)"
+  vote:  "7-0"
 - date:  2022-04-26
   motion:  "Resolved, that Louis Griffith is confirmed as a Compliance Committee officer.  Vandana Verma motions, Avi Douglen seconds"
-  result:  "<br>In Favor:  6 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate and Martin Knobloch)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Vandana Verma, Grant Ongers, Avi Douglen, Glenn ten Cate and Martin Knobloch)"
+  vote:  "6-0"
 - date:  2022-03-22
   motion:  "Resolved, that the OWASP Executive Director is authorized by the Board to run membership drives offering discounted memberships, limiting those to no more than two discounted membership drives a year, with no more than 20% off on any one of them.  Avi Douglen motions, Joubin Jabbari seconds"
-  result:  "<br>In Favor:  5 (Grant Ongers, Joubin Jabbari, Martin Knobloch, Vandana Verma and Avi Douglen)"
-  vote:  "<br>5-0"
+  result:  "In Favor:  5 (Grant Ongers, Joubin Jabbari, Martin Knobloch, Vandana Verma and Avi Douglen)"
+  vote:  "5-0"
 - date:  2022-03-22
   motion:  "Resolved, that for existing and new OWASP Members with a Ukrainian address on file, renewal fees are waived until further notice.  Grant Ongers motions, Martin Knobloch seconds"
-  result:  "<br>In Favor:  5 (Grant Ongers, Joubin Jabbari, Martin Knobloch, Vandana Verma and Avi Douglen) Against (Glenn ten Cate)"
-  vote:  "<br>5-1"
+  result:  "In Favor:  5 (Grant Ongers, Joubin Jabbari, Martin Knobloch, Vandana Verma and Avi Douglen) Against (Glenn ten Cate)"
+  vote:  "5-1"
 - date:  2022-02-22
   motion:  "Resolved, that the budget and travel for Defcon is approved for $15,000.  Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  6 (Vandana Verma, Grant Ongers, Bil Corry, Glenn ten Cate, Joubin Jabbari, Martin Knobloch - Avi Douglen abstain)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Vandana Verma, Grant Ongers, Bil Corry, Glenn ten Cate, Joubin Jabbari, Martin Knobloch - Avi Douglen abstain)"
+  vote:  "6-0"
 - date:  2022-02-22
   motion:  "To join Nonprofit Cyber as a founding member.  Martin Knobloch motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Bil Corry, Glenn ten Cate, Joubin Jabbari and Martin Knobloch)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Vandana Verma, Grant Ongers, Avi Douglen, Bil Corry, Glenn ten Cate, Joubin Jabbari and Martin Knobloch)"
+  vote:  "7-0"
 - date:  2022-01-25
   motion:  "Resolved, Vandana Verma Sehgal nomineeis elected Chair. Sherif Mansour motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
+  vote:  "7-0"
 - date:  2022-01-25  
   motion:  "Resolved, Grant Ongers nominee is elected Vice Chair. Vandana Verma Sehgal motions,"
-  result:  "<br>In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
+  vote:  "7-0"
 - date:  2022-01-25
   motion:  "Resolved, Glenn ten Cate nbominee is elected Treasurer. Vandana Verma Sehgal motions,"
-  result:  "<br>In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
+  vote:  "7-0"
 - date:  2022-01-25
   motion:  "Resolved, Avi Douglen nominee is elected Secretary. Vandana Verma Sehgal motions,"
-  result:  "<br>In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
-  vote:  "<br>7-0"  
+  result:  "In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
+  vote:  "7-0"  
 - date:  2022-01-25
   motion:  "Resolved, that the OWASP 2022 Operating Budget is approved.  Grant Ongers motions, Vandana Verma Shegal seconds"
-  result:  "<br>In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
-  vote:  "<br>7-0"  
+  result:  "In Favor:  (Martin Knobloch, Bil Corry, Joubin Jabbari, Glenn ten Cate, Avi Douglen, Grant Ongers and Vandana Verma Sehgal)"
+  vote:  "7-0"  
 - date:  2021-12-14
   motion:  "Resolved, the Board approves the budget and pre-planning for Global AppSec Virtual Europe, to be held at the same dates and timezones as Global AppSec Dublin. Owen Pendlebury motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  6 (Bil Corry, Grant Ongers, Joubin Jabbari, Martin Knobloch, Owen Pendlebury and Vandana Verma)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Bil Corry, Grant Ongers, Joubin Jabbari, Martin Knobloch, Owen Pendlebury and Vandana Verma)"
+  vote:  "6-0"
 - date: 2021-12-14
   motion:  "Resolved, AppSec Global Dublin 2022 is to be completely cancelled, with the likely loss of €16,763.11 of all deposits and other expenses paid so far.  Grant Ongers motions, Owen Pendlebury seconds"
-  result:  "<br>In Favor:  6 (Bil Corry, Grant Ongres, Joubin Jabbari, Martin Knobloch, Owen Pendlebury and Vandana Verma)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Bil Corry, Grant Ongres, Joubin Jabbari, Martin Knobloch, Owen Pendlebury and Vandana Verma)"
+  vote:  "6-0"
 - date:  2021-11-23
   motion:  "Resolved, the OWASP Foundation Executive Director and CFO are authorized to establish Foundation secured corporate credit cards for staff expenses and travel, with a total limit of $30k USD, replacing the personal guarantee Amex credit cards in use by the ED and one staff member today. Grant Ongers motions, Sherif Mansour seconds"
-  result:  "<br>In Favor:  6 (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch and Joubin Jabbari)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch and Joubin Jabbari)"
+  vote:  "6-0"
 - date:  2021-11-23
   motion:  "Resolved, the OWASP Foundation's new mission, as linked in the motion background, is approved, effective Novemeber 23, 2021.  [Draft mission statement](https://docs.google.com/document/d/13uTO6LdXq5W7HADiA0P4QPQevyO0hzthf5KtvnFbt4s/edit) Grant Ongers motions, Bil Corry seconds"
-  result:  "<br>In Favor:  6-0 (Owen Pendlebury, Martin Knobloch, Grant Ongers, Bil Corry, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6-0 (Owen Pendlebury, Martin Knobloch, Grant Ongers, Bil Corry, Vandana Verma and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2021-11-23
   motion:  "Resolved, the six month waiting period for complimentary membership is rescinded from all applicable policies. Additionally, any misspellings of complimentary will be fixed.  Grant Ongers motions, Bil Corry seconds"
-  result:  "<br>In Favor:  6-0 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Bil Corry, Sherif Mansour and Vandana Verma)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6-0 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Bil Corry, Sherif Mansour and Vandana Verma)"
+  vote:  "6-0"
 - date:  2021-09-28
   motion:  "Resolved, the revised Projects Policy is approved, effective September 28 2021. Sherif Mansour motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  7 (Joubin Jabbari, Grant Ongers, Martin Knobloch, Bil Corry, Owen Pendlebury, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Joubin Jabbari, Grant Ongers, Martin Knobloch, Bil Corry, Owen Pendlebury, Vandana Verma and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-09-28
   motion:  "Resolved, the revised Events Policy is approved, effective September 28 2021.  Joubin Jabbari motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  7 (Joubin Jabbari, Martin Knobloch, Grant Ongers, Owen Pendlebury, Bil Corry, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Joubin Jabbari, Martin Knobloch, Grant Ongers, Owen Pendlebury, Bil Corry, Vandana Verma and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-09-28
   motion:  "Resolved, the consent package to apply spelling and grammar fixes to the bylaws and policies is approved.  Joubin Jabbari motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  7  (Joubin Jabbari, Bil Corry, Vandana Verma, Martin Knobloch, Owen Pendlebury, Grant Ongers and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7  (Joubin Jabbari, Bil Corry, Vandana Verma, Martin Knobloch, Owen Pendlebury, Grant Ongers and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-09-28
   motion: "Resolved, that the Board by a two-thirds majority approves a change to the bylaws to adopt the approved Chapter policy for guidance for Chapter leadership, and to bring chapter leadership naming in line with current OWASP policy and practices.  Vandana Verma motions, Joubin Jabbari seconds
-           <br>[Pull Request](https://github.com/OWASP/www-policy/pull/52)
-           <br>Change Section 5.02 from*
-           <br>The chapter leader and local chapter board has to manage the local chapter according to the guidance and rules defined in the Chapter Leader Handbook *to* Local chapter leadership has to manage the local chapter according to the policies defined in the latest approved Chapter Policy."
-  result: "<br>In Favor:  7 (Joubin Jabbari, Vandana Verma, Grant Ongers, Martin Knobloch, Bil Corry, Owen Pendlebury and Sherif Mansouri)"  
-  vote: "<br>7-0"
+           [Pull Request](https://github.com/OWASP/www-policy/pull/52)
+           Change Section 5.02 from*
+           The chapter leader and local chapter board has to manage the local chapter according to the guidance and rules defined in the Chapter Leader Handbook *to* Local chapter leadership has to manage the local chapter according to the policies defined in the latest approved Chapter Policy."
+  result: "In Favor:  7 (Joubin Jabbari, Vandana Verma, Grant Ongers, Martin Knobloch, Bil Corry, Owen Pendlebury and Sherif Mansouri)"  
+  vote: "7-0"
 - date: 2021-09-28
   motion: "Resolved, the Board adopts the following change to the election policy to adjust dates that fall on a weekend to be the nearest business day.
-            <br>[Pull Request](https://github.com/OWASP/www-policy/pull/53)
-            <br> *Change*  The timeline will include notices, important dates, and milestones *to* On the nearest business day, the timeline will include notices, important dates, and milestones to be gazetted on the OWASP website prior to the election process starting each year."
-  result: "<br>In Favor:  7 (Joubin Jabbari, Grant Ongers, Martin Knobloch, Owen Pendlebury, Bil Corry, Sherif Mansour and Vandana Verma)"
-  vote: "<br>7-0" 
+            [Pull Request](https://github.com/OWASP/www-policy/pull/53)
+             *Change*  The timeline will include notices, important dates, and milestones *to* On the nearest business day, the timeline will include notices, important dates, and milestones to be gazetted on the OWASP website prior to the election process starting each year."
+  result: "In Favor:  7 (Joubin Jabbari, Grant Ongers, Martin Knobloch, Owen Pendlebury, Bil Corry, Sherif Mansour and Vandana Verma)"
+  vote: "7-0" 
 - date: 2021-09-28
   motion: "Resolved, the bylaws shall be amended to change 'Honorary Lifetime Membership' to 'Distinguished Lifetime Member' per the following pull request. Joubin Jabbari motions, Vandana Verma seconds"
-  result: "<br>In Favor:  6 (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch and Joubin Jabbari)"
-  vote: "<br>6-0"
+  result: "In Favor:  6 (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch and Joubin Jabbari)"
+  vote: "6-0"
 - date: 2021-09-28
   motion: "Resolved, the OWASP Board grants the following individuals Distinguished Lifetime Membership for outstanding and extensive service to the OWASP Community.  Sherif Mansour motions, Grant Ongers seconds
             - Mark Curphey, OWASP Founder
@@ -522,78 +542,82 @@
             - Dave Wichers, OWASP Foundation Co-Founder, OWASP Top 10 Founder & Leader for 15 years
             - Matteo Meucci, OWASP early contributor and Italy Chapter Leader from inception
             - Fiona Collins, Long time Committee Member"
-  result:  "<br>In Favor:  (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
+  vote:  "7-0"
 - date:  2021-08-24
   motion: "Resolved, the OWASP Foundation is permitted to run a time-limited discount for Corporate Membership up until all qualifying conditions are completed, or September 24th at the latest.  Vandana Verma motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  6 (Sherif Manosur, Vandana Verma, Grant Ongers, Bil Corry, Owen Pendlebury and Joubin Jabbari)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Sherif Manosur, Vandana Verma, Grant Ongers, Bil Corry, Owen Pendlebury and Joubin Jabbari)"
+  vote:  "6-0"
 - date:  2021-08-24
   motion:  "Resolved, the revised Expenses Policy is approved, effective August 24, 2021  Grant Ongers motions, Bil Corry seconds"
-  result:  "<br>In Favor:  6 (Joubin Jabbari, Bil Corry, Grant Ongers, Owen Pendlebury, Vandana Verma and Sherif Mansour"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Joubin Jabbari, Bil Corry, Grant Ongers, Owen Pendlebury, Vandana Verma and Sherif Mansour"
+  vote:  "6-0"
 - date:  2021-07-27
-  motion:  "Resolved, that the Donations policy be updated to remove the calendar year de-restriction policy, and instead permit directed donations to remain restricted for a 12 month period. Approval of this motion would change https://policy.owasp.org/operational/donations from:<br>
-            <br>Unspent Restricted donation balances become unrestricted at the end of each calendar year to Unspent Restricted donation balances become unrestricted after twelve (12) months.  Sherif Mansour motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  6 (Sherif Mansour, Grant Ongers, Joubin Jabbari, Owen Pendlebury, Bil Corry and Vandana Verma)"
-  vote:  "<br>6-0"
+  motion:  "Resolved, that the Donations policy be updated to remove the calendar year de-restriction policy, and instead permit directed donations to remain restricted for a 12 month period. Approval of this motion would change https://policy.owasp.org/operational/donations from:
+            Unspent Restricted donation balances become unrestricted at the end of each calendar year to Unspent Restricted donation balances become unrestricted after twelve (12) months.  Sherif Mansour motions, Grant Ongers seconds"
+  result:  "In Favor:  6 (Sherif Mansour, Grant Ongers, Joubin Jabbari, Owen Pendlebury, Bil Corry and Vandana Verma)"
+  vote:  "6-0"
 - date:  2021-05-25
   motion:  "Resolved, the Conflict of Interest Policy is approved.  Grant Ongers motions, Bil Corry seconds"
-  result:  "<br>In Favor:  6 (Martin Knobloch, Grant Ongers, Joubin Jabbari, Bil Corry, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Martin Knobloch, Grant Ongers, Joubin Jabbari, Bil Corry, Vandana Verma and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2021-05-25
   motion: "Resolved, the Foundation is permitted to apply for an EIDL loan, to the maximum value of $150k, to be paid back per the loan terms of up to 30 years at 2.7% APR. The loan shall be earmarked to pay for event expenses, primarily event location deposits and installments.  Sherif Mansour motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  6  (Martin Knobloch, Grant Ongers, Joubin Jabbari, Bil Corry, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6  (Martin Knobloch, Grant Ongers, Joubin Jabbari, Bil Corry, Vandana Verma and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2021-04-27
   motion:  "Resolved, the Board approves the Outreach Charter as found [here](https://docs.google.com/document/d/1VqjbjqW6yRpIMSsz6BpGIstScsKUXSZzu8geZUiE4OM/edit?usp=sharing)  Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  6 (Owen Pendlebury, Martin Knobloch, Grant Ongers, Vandana Verma, Joubin Jabbari and Sherif Mansour)"
-  vote:  "<br>6-0"  
+  result:  "In Favor:  6 (Owen Pendlebury, Martin Knobloch, Grant Ongers, Vandana Verma, Joubin Jabbari and Sherif Mansour)"
+  vote:  "6-0"  
 - date:  2021-04-27
   motion:  "Resolved, that up until the week before the 2022 Board election being called, any member affected any of the following conditions:
-            <br>
+            
             - The lack of notification for renewal failing to be sent by the Foundation (for example, as described to the Board during the March public board call);
             - The membership renewal service not being operational during an attempt to renew within 24 hours of expiration, and the member then informed the Foundation of this fact; or
             - A Foundation-side operation issue which recorded a membership as having expired when it had not
-            <br>
+            
             be given one week to correct their membership status from the moment the Foundation informs them of their lapse, and for their membership to be considered uninterrupted for the duration for all intents and purposes.  Grant Ongers motions, Joubin Jabbari seconds"
-  result:  "<br>In Favor:  6 (Sherif Mansour, Bil Corry, Grant Ongers, Owen Pendlebury, Martin Knobloch and Joubin Jabbari) Abstain:  1 (Vandana Verma)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Sherif Mansour, Bil Corry, Grant Ongers, Owen Pendlebury, Martin Knobloch and Joubin Jabbari) Abstain:  1 (Vandana Verma)"
+  vote:  "6-0"
 - date:  2021-04-27
   motion:  "Resolved, that the combined unique individuals across the three current sources of membership information (the Foundation's Copper CRM; mailing list, MailChimp; and automated payment system, Stripe) for whom an expectation of active membership exists, be considered fully qualified members in good standing as of the 1st of June 2021. These three lists are merged into a single source of truth. Any cases of doubt (around the validity of membership or remaining duration of membership) be resolved in favor of the member concerned.  Grant Ongers motions, Joubin Jabbari seconds"
-  result:  "<br>In Favor:  6 (Sherif Mansour, Bil Corry, Grant Ongers, Owen Pendlebury, Martin Knobloch and Joubin Jabbari) Abstain:  1 (Vandana Verma)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Sherif Mansour, Bil Corry, Grant Ongers, Owen Pendlebury, Martin Knobloch and Joubin Jabbari) Abstain:  1 (Vandana Verma)"
+  vote:  "6-0"
+- date: 2021-03-23
+  motion: "Resolved, that the board directs the OWASP Foundation to schedule and conduct a board evaluation for the OWASP Foundation with our existing Board training provider (Board Source)."
+  result: "Motion is tabled; no further e-vote was scheduled or voted upon."
+  vote: "No result"
 - date:  2021-03-23
   motion:  "Resolved, the OWASP Board passes the new Grants policy. The Board directs the OWASP Foundation to consult with the community and create procedures for its safe and effective operation no later than April 30th, 2021.  Grant Ongers motions and Sherif Mansour seconds"
-  result:  "<br>In Favor:  6 (Grant Ongers, Bil Corry, Vandana Verma, Joubin Jabbari, Owen Pendlebury and Sherif Mansour)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Grant Ongers, Bil Corry, Vandana Verma, Joubin Jabbari, Owen Pendlebury and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2021-03-23
   motion:  "Resolved, the OWASP Board passes the new Awards and Scholarships policy. The Board directs the OWASP Foundation to consult with the community and create procedures for its safe and effective operation no later than April 30th, 2021.  Vandana Verma motions and Grant Ongers seconds"
-  result:  "<br>In Favor:  6 (Bil Corry, Vandana Verma, Joubin Jabbari, Owen Pendlebury, Grant Ongers and Sherif Mansour)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Bil Corry, Vandana Verma, Joubin Jabbari, Owen Pendlebury, Grant Ongers and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2021-03-23
   motion:  "Resolved, the Board consent votes to minor changes to the bylaws to address grammar, routine, and non-controversial changes to the OWASP Foundation bylaws.  Sherif Mansour motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  6 (Grant Ongers, Bil Corry, Owen Pendlebury, Vandana Verma, Joubin Jabbari and Sherif Mansour)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Grant Ongers, Bil Corry, Owen Pendlebury, Vandana Verma, Joubin Jabbari and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2021-03-08
   motion:  "Resolved, the 2021 OWASP Foundation budget is formally approved"
-  result:  "<br>In Favor:  6 (Martin Knobloch, Grant Ongers, Joubin Jabbari, Owen Pendlebury, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Martin Knobloch, Grant Ongers, Joubin Jabbari, Owen Pendlebury, Vandana Verma and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2021-02-23
   motion:  "Resolved, the Board amends the Implementation of Bylaw or Policy Changes policy to permit and formalize the minor changes process.  Minor changes The OWASP Foundation, in consultation with the OWASP Chair or other Board officers, is permitted to create or accept small inconsequential changes or pull requests to approved bylaws and policies. All such changes shall be reported in the agenda at the following Board meeting to provide Board oversight. The Board may request that the changes be reversed at that meeting. Joubin Jabbari motions, Sherif Mansour seconds"
-  result:  "<br>In Favor:  7 (Martin Knobloch, Bil Corry, Grant Ongers, Vandana Verma, Owen Pendlebury, Joubin Jabbari and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Martin Knobloch, Bil Corry, Grant Ongers, Vandana Verma, Owen Pendlebury, Joubin Jabbari and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-02-23
   motion:  "Resolved, the Board directs the OWASP Foundation to amend the bylaws within 30 days to clarify that e-Voting is explicitly permitted as follows, with a process to be documented by the OWASP Foundation, with oversight from the OWASP Board on the operation of votes and e-votes:  Any action that may be taken by the Board of Directors at a meeting may be taken without a meeting if consent in writing, setting forth the action so to be taken, shall be agreed to before such action by a majority of the directors. Such consent can be provided by email, an electronic vote, or other mechanism as agreed upon by the Board. Grant Ongers motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  7 (Martin Knobloch, Joubin Jabbari, Grant Ongers, Vandana Verma, Owen Pendlebury, Bil Corry and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Martin Knobloch, Joubin Jabbari, Grant Ongers, Vandana Verma, Owen Pendlebury, Bil Corry and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-02-23
   motion:  "Resolved, in order to advance the priority OWASP Trademark program, the OWASP Foundation is permitted to register four key trademarks under the WIPO Madrid mechanism, with a budget to not exceed $15k USD. Grant Ongers motions, Bil Corry seconds"
-  result:  "<br>In Favor:  7 (Martin Knobloch, Joubin Jabbari, Grant Ongers, Vandana Verma, Owen Pendlebury, Bil Corry and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Martin Knobloch, Joubin Jabbari, Grant Ongers, Vandana Verma, Owen Pendlebury, Bil Corry and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-02-23
   motion:  "Resolved, the updated limits in the Signing Authority policy are approved, and shall take effect February 23, 2021. Grant Ongers motions, Vandana Verma seconds
-            <br> Budgeted or Discretionary per transaction (or related transactions), grant making, awards and scholarships, expense approvals, legally binding contractual arrangements, and purchasing assets:
+             Budgeted or Discretionary per transaction (or related transactions), grant making, awards and scholarships, expense approvals, legally binding contractual arrangements, and purchasing assets:
             <p>$0 - $10,000 Executive Director can sign and approve without second approver
             <p>$10,000 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
             <p>$250,000 or more requires an affirmative Board vote
@@ -602,21 +626,21 @@
             <p>Transferring funds between and managing OWASP bank accounts and other financial accounts $ 250,000
             <p>Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $ 500,000
             <p>The intent is that any unplanned discretionary approvals still remains within 10% of the quarterly plan, so if we have a quarterly plan of $250k, the ED will continue to have a discretionary power to spend up to $25k per quarter before requiring Board approval to continue with unplanned expenses. We have used that recently for legal fees."
-  result:  "<br>In Favor:  7 (Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Grant Ongers, Bil Corry, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Grant Ongers, Bil Corry, Vandana Verma and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-02-23
   motion:  "Resolved, the revised Chapter policy is approved, effective February 23, 2021. Vandana Verma motions, Joubin Jabbari seconds
-           <br> [Revised Chapter Policy](https://policy.owasp.org/operational/chapters)
-           <br> [Revised Chapter Policy Consolidated Feedback](https://owasp.org/www-staff/files/2021-policy-review-feedback/Policy-Feedback-Chapters.pdf)"
-  result:  "<br>In Favor:  7 (Owen Pendlebury, Martin Knobloch, Vandana Verma, Joubin Jabbari, Bil Corry, Grant Ongers and Sherif Mansour)"
-  vote:  "<br>7-0"
+            [Revised Chapter Policy](https://policy.owasp.org/operational/chapters)
+            [Revised Chapter Policy Consolidated Feedback](https://owasp.org/www-staff/files/2021-policy-review-feedback/Policy-Feedback-Chapters.pdf)"
+  result:  "In Favor:  7 (Owen Pendlebury, Martin Knobloch, Vandana Verma, Joubin Jabbari, Bil Corry, Grant Ongers and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-02-23
   motion:  "Resolved, that for the sake of financial transparency, the Foundation is permitted to alter the minutes from previous meetings to ensure the correct financials and recordings are included in each month, and to ensure all links are functional. Any altered minutes will be presented for review in the February 2020 general meeting. Grant Ongers motions, Vandana Verma seconds  [e-Vote to correct financials, links in all 2020 minutes](https://doodle.com/poll/mekz9axhbgwp3cpm)"
-  result:  "<br>In Favor:  7 (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Sherif Mansour, Vandana Verma, Bil Corry, Grant Ongers, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
+  vote:  "7-0"
 - date:  2021-01-31
   motion:  "Resolved, the Board permits the AppSec Australia organizers to run AppSec Australia as a regional event in 2021. Exemptions to policy will need to be approved on a case by case basis. Martin Knobloch motioned, Vandana Verma seconds"
-  result:  "<br>In Favor:  5 (Bil Corry, Owen Pendlebury, Martin Knobloch, Vandana Verma and Grant Ongers)"
+  result:  "In Favor:  5 (Bil Corry, Owen Pendlebury, Martin Knobloch, Vandana Verma and Grant Ongers)"
   vote:  "<br/>5-0"
 - date:  2021-01-26
   motion:  "Subsidiary motion: Amend the Director’s Code of Conduct to address harassment and repeated violations.  Background The Director’s Code of Conduct did not have anti-harassment provisions, and the consequences of repeated violations with Delaware law was not legal. This addition and amendment to the Director’s Code of Conduct resolve both issues.  Resolved, that the Foundation is directed to amend the Board of Directors Code of Conduct to include or change the following clauses:  
@@ -628,8 +652,8 @@
            <strong>Sanctions</strong>
            <p>
            Board Members Behavior and Conduct - Board Members who intentionally and repeatedly do not follow proper conduct, may be reprimanded or formally censured by the Board. Repeated violations of the Board Code of Conduct, the Board can take the step of recommending the removal of a Director under Bylaw Section 2.04.  Sherif Mansour motions, Grant Ongers seconds"
-  result:   "<br>In Favor:  7 (Bil Corry, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Grant Ongers, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:   "In Favor:  7 (Bil Corry, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Grant Ongers, Vandana Verma and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-01-26
   motion:  "Resolved, the Board directs the Foundation to update OWASP’s bylaws as per the following text within 30 days to become compliant with the Delaware General Corporate Law.  Sherif Mansour motions, Grant Ongers seconds
             <p>
@@ -644,8 +668,8 @@
             The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: https://owasp.org/. Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance. However, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.
             Attendance in person or virtually by board members is required at no less than 75% of the total meetings each year and shall be highly encouraged to meet in person at least once annually at a date to be announced and agreed upon. To be considered as “attended,” the board member must attend at least 90% of the meeting, starting at the published scheduled time until the published end time or the meeting is adjourned (whichever is earlier). Attendance is tabulated by the Executive Director or delegate within seven days after every scheduled meeting for the purpose of determining if the 75% attendance requirement has been met, and the tabulation is based upon the entire calendar year. Canceled meetings are considered attended for the purposes of the tabulation.
             Failure by a board member to meet the 75% attendance requirement after any tabulation will cause a mandatory vote of confidence by the remaining board members, whose votes will be publicly recorded. The vote of confidence is to take place within 21 days, but no sooner than seven days, of notification by the Executive Director or delegate that a board member has not met the attendance threshold. During the first seven days, the board member in question will have an opportunity to make their case to their fellow board members. The vote of confidence will take place on the OWASP Board of Directors email list unless the Board votes to review the matter at their next meeting, so long as the next meeting occurs within the 21­day window. An overall vote of “no confidence” is recorded if more than half of the board members vote for it, which causes the board member in question to be instantly removed from their seat on the Board. If a vote of confidence does not pass, the Board will put a vote of removal and recommend to the members to remove the Director, per section 2.04"
-  result:  "<br>7 (Grant Ongers, Bil Corry, Owen Pendlebury, Joubin Jabbari, Vandana Verma, Martin Knobloch and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "7 (Grant Ongers, Bil Corry, Owen Pendlebury, Joubin Jabbari, Vandana Verma, Martin Knobloch and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-01-26
   motion:  "Subsidiary motion: Amend Director Removal bylaws to comply with Delaware General Corporation Law - Background The provisions for Director Removal weren’t compliant with DGCL. These amendments bring our bylaws into line with the DGCL, ensuring consistency that the Board votes to recommend Director removal, which is then put to a member vote to remove the Director.  Resolved, the Board directs the Foundation to update OWASP’s bylaws as per the following text within 30 days to become compliant with the Delaware General Corporate Law.  Sherif Mansour motions, Grant Ongers seconds
            <p>
@@ -656,271 +680,275 @@
            <strong>Section 3.03 Regular meetings</strong>
            <p>
            The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: https://owasp.org/. Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance. However, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.  Attendance in person or virtually by board members is required at no less than 75% of the total meetings each year and shall be highly encouraged to meet in person at least once annually at a date to be announced and agreed upon. To be considered as “attended,” the board member must attend at least 90% of the meeting, starting at the published scheduled time until the published end time or the meeting is adjourned (whichever is earlier). Attendance is tabulated by the Executive Director or delegate within seven days after every scheduled meeting for the purpose of determining if the 75% attendance requirement has been met, and the tabulation is based upon the entire calendar year. Canceled meetings are considered attended for the purposes of the tabulation.  Failure by a board member to meet the 75% attendance requirement after any tabulation will cause a mandatory vote of confidence by the remaining board members, whose votes will be publicly recorded. The vote of confidence is to take place within 21 days, but no sooner than seven days, of notification by the Executive Director or delegate that a board member has not met the attendance threshold. During the first seven days, the board member in question will have an opportunity to make their case to their fellow board members. The vote of confidence will take place on the OWASP Board of Directors email list unless the Board votes to review the matter at their next meeting, so long as the next meeting occurs within the 21­day window. An overall vote of “no confidence” is recorded if more than half of the board members vote for it, which causes the board member in question to be instantly removed from their seat on the Board. If a vote of confidence does not pass, the Board will put a vote of removal and recommend to the members to remove the Director, per section 2.04."
-  result:  "<br>In Favor:  7 (Bil Corry, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Vandana Verma, Grant Ongers and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Bil Corry, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Vandana Verma, Grant Ongers and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-01-26
   motion:  "Bylaw changes relating to Code of Conduct to comply with Delaware Law - Resolved, the Board by 2/3rd affirmative vote adopts Schwabe’s recommendations to updates to the Foundations bylaws and Directors Code of Conduct relating to Director Removal and Harassment.  Sherif Mansour motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  7 (Bil Corry, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Vandana Verma, Grant Ongers and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Bil Corry, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Vandana Verma, Grant Ongers and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-01-26
   motion:  "Resolved, the revised Chapter Committee charter is approved, effective January 26, 2021.  [Revised Chapter Committee Charter](https://docs.google.com/document/d/1KMKKCLqW8dqRLSWvTjnrWSOc43M7jRUYe-9vthigniY/edit?ts=600a821a)  Vandana Verma motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  7 (Grant Ongers, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Bil Corry, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Bil Corry, Vandana Verma and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-01-26
   motion:  "Resolved, the 2021 Board confirms the unanimous vote by the 2020 Board to approve the Education Committee charter. The following Motion shall be entered into the minutes of the December 2020 meeting: Resolved, the Education Committee charter is approved, effective December 15, 2020.  Grant Ongers motions, Sherif Mansour seconds"
-  result:  "<br>In Favor:  7 (Grant Ongers, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Bil Corry, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Owen Pendlebury, Martin Knobloch, Joubin Jabbari, Bil Corry, Vandana Verma and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2021-01-26
-  motion:  "Nonimate Sherif Mansour as Board Chair"
-  result:  "<br>In Favor:  7 (Grant Ongers, Bil Corry, Sherif Mansour, Vandana Verma, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
-  vote:  "<br>7-0"
+  motion:  "Nominate Sherif Mansour as Board Chair"
+  result:  "In Favor:  7 (Grant Ongers, Bil Corry, Sherif Mansour, Vandana Verma, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
+  vote:  "7-0"
 - date:  2021-01-26
   motion:  "Nominate Vandana Verma as Board Vice Chair"
-  result:  "<br>In Favor:  7 (Grant Ongers, Bil Corry, Sherif Mansour, Vandana Verma, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Bil Corry, Sherif Mansour, Vandana Verma, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
+  vote:  "7-0"
 - date:  2021-01-26
   motion:  "Nominate Grant Ongers as Board Secretary"
-  result:  "<br>In Favor:  7 (Grant Ongers, Bil Corry, Sherif Mansour, Vandana Verma, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Bil Corry, Sherif Mansour, Vandana Verma, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
+  vote:  "7-0"
 - date:  2021-01-26
   motion:  "Nominate Bil Corry as Board Secretary"
-  result:  "<br>In Favor:  7 (Grant Ongers, Bil Corry, Sherif Mansour, Vandana Verma, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Bil Corry, Sherif Mansour, Vandana Verma, Martin Knobloch, Owen Pendlebury and Joubin Jabbari)"
+  vote:  "7-0"
 - date:  2020-12-15
   motion:  "Resolved, the Foundation is directed to accept the offers to move Dublin to June 2022, and San Francisco to Q3 2022, under the provision that there is no change fee or any associated costs due in 2021.  Owen Pendlebury motions and Sherif Mansour seconds."
-  result:  "<br>In Favor:  6 (Grant Ongers, Martin Knobloch, Sherif Mansour, Gary Robinson, Vandana Verma and Owen Pendlebury)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Grant Ongers, Martin Knobloch, Sherif Mansour, Gary Robinson, Vandana Verma and Owen Pendlebury)"
+  vote:  "6-0"
 - date:  2020-11-24
   motion:  "Approve Global AppSec Australia 2021 and establish an Australian entity.  Resolved, the Foundation is directed to run an in person Global AppSec in Australia, which requires setting up an Australian entity. The proposed budget is $290k in income, $234k in expenses, for a projected net profit of $55k.  Vandana Verma motions, Owen Pendlebury seconds"
-  result:  "<br>In Favor:  7 (Grant Ongers, Sherif Mansour, Gary Robinson, Richard Greenberg, Martin Knobloch, Vandana Verma and Owen Pendlebury)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Sherif Mansour, Gary Robinson, Richard Greenberg, Martin Knobloch, Vandana Verma and Owen Pendlebury)"
+  vote:  "7-0"
 - date:  2020-11-24
   motion:  "The reviewed Code of Contact policy is approved. [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct)  Vandana Verma motions, Owen Pendlebury seconds"
-  result:  "<br>In Favor:  4 (Grant Ongers, Martn Knobloch, Vandana Verma and Gary Robinson)"
-  vote:  "<br>4-0  [E-vote - Doodle](https://doodle.com/poll/qwuu22tkz7wrhv44)"
+  result:  "In Favor:  4 (Grant Ongers, Martn Knobloch, Vandana Verma and Gary Robinson)"
+  vote:  "4-0  [E-vote - Doodle](https://doodle.com/poll/qwuu22tkz7wrhv44)"
 - date:  2020-11-24
   motion:  "The reviewed Branding policy is approved. [Branding Policy](https://policy.owasp.org/operational/branding), [Feedback](https://owasp.org/www-staff/files/2020-policy-review-feedback/Policy-Feedback-Branding.pdf) Vandana Verma motions, Owen Pendlebury seconds"
-  result:  "<br>In Favor:  4 (Grant Ongers, Martn Knobloch, Vandana Verma and Gary Robinson)"
-  vote:  "<br>4-0  [E-vote - Doodle](https://doodle.com/poll/yqc54tieamng2tz8)"
+  result:  "In Favor:  4 (Grant Ongers, Martn Knobloch, Vandana Verma and Gary Robinson)"
+  vote:  "4-0  [E-vote - Doodle](https://doodle.com/poll/yqc54tieamng2tz8)"
 - date:  2020-11-24
   motion:  "This motion is to approve the virtual elements of the events strategy, which intends to spend up to $41,500 with gross income of $259,000, likely netting $217,500 profit.  Resolved, the Foundation is permitted to plan and run the virtual component of the events strategy, with an approved budget of $41,500 to run the nominated events throughout 2021.  Sherif Manosur motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  6  (Owen Pendlebury, Sherif Mansour, Vandana Verma, Richard Greenberg, Martin Knobloch and Grant Ongers)"
-  vote:  "<br>6-0  [E-vote](https://doodle.com/poll/9q33naxg4kug9n6n)"
+  result:  "In Favor:  6  (Owen Pendlebury, Sherif Mansour, Vandana Verma, Richard Greenberg, Martin Knobloch and Grant Ongers)"
+  vote:  "6-0  [E-vote](https://doodle.com/poll/9q33naxg4kug9n6n)"
 - date:  2020-11-24
   motion:  "Vandana asked to be included in the attendance list, as she was there, as demonstrated by various votes. This was accepted and has been changed in the official record.  Vandana Verma motions, Sherif Mansour seconds"
-  result:  "<br>In Favor:  7 (Grant Ongers, Sherif Mansour, Gary Robinson, Richard Greenberg, Martin Knobloch, Vandana Verma and Owen Pendlebury)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Grant Ongers, Sherif Mansour, Gary Robinson, Richard Greenberg, Martin Knobloch, Vandana Verma and Owen Pendlebury)"
+  vote:  "7-0"
+- date: 2020-11-16
+  motion: "Resolved, the Board approves the 2021 Events Strategy, as presented with any amendments discussed in this special meeting, granting the Foundation the ability to plan, announce, fund, and run events as per the proposed Event calendar and budgets."
+  result: "No vote recorded"
+  vote: "No vote recorded"
 - date:  2020-10-20
   motion:  "to adopt 2/3rd majority for Director and Officer remova, Sherif Mansour motions, Owen Pendlebury seconds
-  <br>
-  <br>**Note on 2/3rd vote**. Robert's Rules of Order gives extensive guidance on what two thirds formally means, along with numeric examples in section RONR (12 ed) 44:3, and means:
-  <br>
-  <br>* A two thirds vote - when the term is unqualified - means at least two thirds of the votes cast by persons entitled to vote, excluding blanks and abstentions, at a regular or properly called meeting. For example (assuming that there are no fractions of votes):*
-  <br>* *If 30 votes are cast, a two thirds vote is 20*
-  <br>* *If 31 votes are cast, a two thirds vote is 21*
-  <br>* *If 32 votes are cast, a two thirds vote is 22*
-  <br>* *If 33 votes are cast, a two thirds vote is 22*
-  <br>
-  <br>Based upon recusal = abstention, a board of 7, a two thirds vote would be as follows:
-  <br>
-  <br>* If 5 votes are cast, a two thirds vote is 4 votes 
-  <br>* If 6 votes are cast, a two thirds vote is 4 votes
-  <br>* If 7 votes are case, a two thirds vote is 5 votes
-  <br>**Background:** Our lawyers reviewed our bylaws, and noted that our simple majority vote is not the industry standard and is too low a bar for significant organizational change. They recommend the adoption of a notice period and 2/3rd majority of the Board for changes to OWASP bylaws and policy changes. Their advice agrees with Robert's Rules of Order, Newly Revised (12th ed.) section 57, which is used to draft the motion below: 
-  <br>* [Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/ZFfoY1ugvu0/m/QruNDpvLCQAJ)"
-  result:  "<br>In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
-  vote:  "<br>5-0"
+  
+  **Note on 2/3rd vote**. Robert's Rules of Order gives extensive guidance on what two thirds formally means, along with numeric examples in section RONR (12 ed) 44:3, and means:
+  
+  * A two thirds vote - when the term is unqualified - means at least two thirds of the votes cast by persons entitled to vote, excluding blanks and abstentions, at a regular or properly called meeting. For example (assuming that there are no fractions of votes):*
+  * *If 30 votes are cast, a two thirds vote is 20*
+  * *If 31 votes are cast, a two thirds vote is 21*
+  * *If 32 votes are cast, a two thirds vote is 22*
+  * *If 33 votes are cast, a two thirds vote is 22*
+  
+  Based upon recusal = abstention, a board of 7, a two thirds vote would be as follows:
+  
+  * If 5 votes are cast, a two thirds vote is 4 votes 
+  * If 6 votes are cast, a two thirds vote is 4 votes
+  * If 7 votes are case, a two thirds vote is 5 votes
+  **Background:** Our lawyers reviewed our bylaws, and noted that our simple majority vote is not the industry standard and is too low a bar for significant organizational change. They recommend the adoption of a notice period and 2/3rd majority of the Board for changes to OWASP bylaws and policy changes. Their advice agrees with Robert's Rules of Order, Newly Revised (12th ed.) section 57, which is used to draft the motion below: 
+  * [Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/ZFfoY1ugvu0/m/QruNDpvLCQAJ)"
+  result:  "In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
+  vote:  "5-0"
 - date:  2020-10-20
   motion:  "Resolved, the Board directs the Foundation to update section 10.01 of the OWASP bylaws to comply with RONR (12th ed.) Section 57:1, by adopting RONR (12th ed.) 56:67:  
-  <br>
-  <br>SECTION 10.01 Amendments
-  <br>
-  <br>OWASP Bylaws and organizational policies may be amended at any regular meeting of the OWASP Board by an affirmative two thirds vote, provided that the amendment has been submitted in writing at the previous regular meeting, or a public notice is given no later than 7 days prior to the meeting.
-  <br>
-  <br>Amendments to the these bylaws and organizational policies should comply withvRONR 12th Edition 57:1-19.  Sherif Mansour motions, Owen Pendlebury second"
-  result:  "<br>In Favor:  5 ( Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"  
-  vote:  "<br>5-0"
+  
+  SECTION 10.01 Amendments
+  
+  OWASP Bylaws and organizational policies may be amended at any regular meeting of the OWASP Board by an affirmative two thirds vote, provided that the amendment has been submitted in writing at the previous regular meeting, or a public notice is given no later than 7 days prior to the meeting.
+  
+  Amendments to the these bylaws and organizational policies should comply withvRONR 12th Edition 57:1-19.  Sherif Mansour motions, Owen Pendlebury second"
+  result:  "In Favor:  5 ( Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"  
+  vote:  "5-0"
 - date:  2020-10-20
   motion:  "Resolved, that Honorary Membership will become a lifetime membership awarded to no more than three members per year, on the basis of extraordinary and sustained contributions to OWASP's mission over at least a five year period. The Board directs the Foundation to update any mentions of Honorary Membership in bylaws, policies, and operational documentation to reflect this vote.  Grant Ongers motions, Owen Pendlebury seconds"
-  result:  "<br>In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
-  vote:  "<br>5-0"
+  result:  "In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
+  vote:  "5-0"
 - date:  2020-10-20
   motion:  "Resolved that the Executive Director or their designatee develop, implement, and manage a trademark licensing effort with organizations that provide training on OWASP projects, publishers, and event organizers as outlined by staff at the October 2020 Board Meeting.  Sherif Mansour motions, Martin Knobloch motions"
-  result:  "<br>In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
-  vote:  "<br>5-0"
+  result:  "In Favor:  5 (Martin Knobloch, Grant Ongers, Owen Pendlebury, Gary Robinson and Sherif Mansour)"
+  vote:  "5-0"
 - date:  2020-10-20
   motion:  "Resolved, that the following six reviewed policies are approved. The Foundation shall upload the approved text within 30 days of this vote to the OWASP policy website:
-  <br>
-  <br>* [Elections Policy](https://policy.owasp.org/operational/election)
-  <br>* [Events Policy](https://policy.owasp.org/operational/events)
-  <br>* [Expense Policy](https://policy.owasp.org/operational/expense-reimbursement)
-  <br>* [Mailing List Policy](https://policy.owasp.org/operational/mailing-list)
-  <br>* [Membership Policy](https://policy.owasp.org/operational/membership)
-  <br>* [Social Media Policy](https://policy.owasp.org/operational/social-media)
-  <br>
-  <br>Feedback for these policies has been published to the global-board list and can be found at https://owasp.org/www-staff/projects/202010-policy-review.html  Owen Pendlebury motions, Grant Ongers seconds"
-  result:  "<br>In Favor:  5 (Sherif Manosur, Owen Pendlebury, Grant Ongers, Martin Knobloch and Gary Robinson)"
-  vote:  "<br>5-0"
+  
+  * [Elections Policy](https://policy.owasp.org/operational/election)
+  * [Events Policy](https://policy.owasp.org/operational/events)
+  * [Expense Policy](https://policy.owasp.org/operational/expense-reimbursement)
+  * [Mailing List Policy](https://policy.owasp.org/operational/mailing-list)
+  * [Membership Policy](https://policy.owasp.org/operational/membership)
+  * [Social Media Policy](https://policy.owasp.org/operational/social-media)
+  
+  Feedback for these policies has been published to the global-board list and can be found at https://owasp.org/www-staff/projects/202010-policy-review.html  Owen Pendlebury motions, Grant Ongers seconds"
+  result:  "In Favor:  5 (Sherif Manosur, Owen Pendlebury, Grant Ongers, Martin Knobloch and Gary Robinson)"
+  vote:  "5-0"
 - date:  2020-10-20
   motion:  "Resolved, to comply with US government sanctions, the OWASP Board directs the Foundation to revoke and refund membership dues to any sanctioned country members, disband any sanctioned country chapters, remove any sanctioned country project leadership, and communicate this decision with the community (and all affected participants). Lastly, the Board directs that the Foundation updates all relevant membership and participation policies to reject or prohibit sanctioned country involvement from October 20, 2020 onward until such time as sanctions are lifted.  Sherif Mansour motions, Owen Pendlebury seconds"
-  result:  "<br>In Favor:  5 ( Martin Knobloch, Grant Ongers, Gary Robinson, Sherif Mansour and Owen Pendlebury)"
-  vote:  "<br>5-0"
+  result:  "In Favor:  5 ( Martin Knobloch, Grant Ongers, Gary Robinson, Sherif Mansour and Owen Pendlebury)"
+  vote:  "5-0"
 - date:  2020-10-20
-  motion:  "It is resolved that to promote the creation of additional core committees to enumerate the powers devolved to Committees, with appropriate checks and balances to comply with legal, tax and other regulations and safeguards to protect the Foundation and Board, that the following Committee policy is approved. Existing Committees will transition to the governance model of this Committee policy. OWASP’s bylaws should be amended to allow the devolution of certain Board responsibilities and activities to committees as follows:<br>
-  <br>Change from
-  <br>
-  <br>SECTION 5.01 Committees
-  <br>Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Advisory Boards or Committees. Committees will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees will be structured according to the guidelines in Policy and Procedure.```
-  <br>
-  <br>to
-  <br>
-  <br>SECTION 5.01 Committees
-  <br>Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Board sub-committees (e.g, fundraising, finance, audit, or executive), Advisory Boards, or Committees. These will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees are formed and governed by the Committees Policy, and are limited the Charter's purpose and scope. As a Committee Charter might devolve powers currently held by the Board or the Foundation to the Committee, any such devolution to a Committee will require a 2/3rd majority vote.```
-  <br>[Revised Committee Policy](https://docs.google.com/document/d/1XyjV9MTaW8IYo-E1PZxhfqXmxbhKMHbjxw2ofsPUf0k/edit)  Owen Pendlebury sponsors, Sherif Mansour seconds"
-  result:  "<br>In Favor:  5 (Owen Pendlebury, Sherif Mansour, Martin Knobloch, Grant Ongers and Gary Robinson)"
-  vote:  <br>5-0  
+  motion:  "It is resolved that to promote the creation of additional core committees to enumerate the powers devolved to Committees, with appropriate checks and balances to comply with legal, tax and other regulations and safeguards to protect the Foundation and Board, that the following Committee policy is approved. Existing Committees will transition to the governance model of this Committee policy. OWASP’s bylaws should be amended to allow the devolution of certain Board responsibilities and activities to committees as follows:
+  Change from
+  
+  SECTION 5.01 Committees
+  Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Advisory Boards or Committees. Committees will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees will be structured according to the guidelines in Policy and Procedure.```
+  
+  to
+  
+  SECTION 5.01 Committees
+  Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Board sub-committees (e.g, fundraising, finance, audit, or executive), Advisory Boards, or Committees. These will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees are formed and governed by the Committees Policy, and are limited the Charter's purpose and scope. As a Committee Charter might devolve powers currently held by the Board or the Foundation to the Committee, any such devolution to a Committee will require a 2/3rd majority vote.```
+  [Revised Committee Policy](https://docs.google.com/document/d/1XyjV9MTaW8IYo-E1PZxhfqXmxbhKMHbjxw2ofsPUf0k/edit)  Owen Pendlebury sponsors, Sherif Mansour seconds"
+  result:  "In Favor:  5 (Owen Pendlebury, Sherif Mansour, Martin Knobloch, Grant Ongers and Gary Robinson)"
+  vote:  5-0  
 - date:  2020-10-20
   motion:  "Resolved, the Board directs the Foundation to provide automated complimentary Membership to the top 5 active leaders of chapters, projects, events, and committees, effective November 1st, 2020, and monthly after that. Honorary Membership will become an award made by the Board, and changed to be for five years in recognition of extraordinary service to the OWASP Community. Regional pricing will be made available to all classes of paid Membership.
-            <br>The following bylaw amendment is required to support this change in membership model:
-            <br>SECTION 4.01 Membership Classes
-            <br>There shall be the following classes of OWASP members: Corporate, Individual, Complimentary, Honorary, and Student. 
-            <br>SECTION 4.02 Qualifications
-            <br>Individual, Corporate, and Student Membership may be granted to any individual or organization that supports the Foundation's mission and purpose, is in good  standing subject to our Code of Ethics, and pays the dues as set by the Board of Directors. The Foundation may, at its discretion, offer monthly, annual, two-year, and Lifetime memberships. Regional pricing is available to all paid membership classes.
-            <br>Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership.  Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
-            <br>Honorary Membership is equivalent to Individual Membership and valid for five years. Honorary Membership shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community.
-            <br>All membership classes are eligible to vote in elections.  Sherif Mansour motions, Owen Pendlebury seconds
-            <br>[Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/_H4up1nbzjc/m/SAra8NSaCwAJ)"
-  result:  "<br>In Favor:  7 (Owen Pendlebury, Sherif Mansour, Vandana Verma, Gary Robinson, Richard Greenberg, Martin Knobloch and Grant Ongers)"
-  vote:  "<br>7-0
-            <br>https://doodle.com/poll/hsakmgetm5yr8wa2"
+            The following bylaw amendment is required to support this change in membership model:
+            SECTION 4.01 Membership Classes
+            There shall be the following classes of OWASP members: Corporate, Individual, Complimentary, Honorary, and Student. 
+            SECTION 4.02 Qualifications
+            Individual, Corporate, and Student Membership may be granted to any individual or organization that supports the Foundation's mission and purpose, is in good  standing subject to our Code of Ethics, and pays the dues as set by the Board of Directors. The Foundation may, at its discretion, offer monthly, annual, two-year, and Lifetime memberships. Regional pricing is available to all paid membership classes.
+            Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership.  Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
+            Honorary Membership is equivalent to Individual Membership and valid for five years. Honorary Membership shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community.
+            All membership classes are eligible to vote in elections.  Sherif Mansour motions, Owen Pendlebury seconds
+            [Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/_H4up1nbzjc/m/SAra8NSaCwAJ)"
+  result:  "In Favor:  7 (Owen Pendlebury, Sherif Mansour, Vandana Verma, Gary Robinson, Richard Greenberg, Martin Knobloch and Grant Ongers)"
+  vote:  "7-0
+            https://doodle.com/poll/hsakmgetm5yr8wa2"
 - date:  2020-10-20
   motion:  "Resolved, that the Foundation shall draw up a policy to operationalize rapid, escalating, and time limited responses to continued breaches of the OWASP Code of Conduct by participants and members. If the behavior is continuous, unlawful, or egregious, the policy should refer to and rely upon the existing bylaw governing the Board's power to revoke membership.
-            <br>The following should be added to the Code of Conduct policy to enable sanctions:
-            <br>Sanctions
-            <br>The Executive Director can suspend participation in OWASP for 30 days for perceived or actual breaches of the OWASP Code of Conduct or US law. Depending on the severity of the breach, the member or participant can accept the 30-day suspension, or in serious cases, the member or participant will be referred to the Compliance Committee for a decision regarding their ongoing participation or membership by the OWASP Board at the next available Board meeting. 
-            <br>For first time Code of Conduct breaches where no violation of US law has occurred: The member or participant can agree to comply with a temporary suspension imposed by the Executive Director of all OWASP participation for no more than 30 days. Membership will not be extended to cover the suspension.
-            <br>For repeat or serious breaches of the Code of Conduct, or where a participant has been charged with a crime, the Executive Director must suspend the member, refer the matter to the Compliance Committee, who will make an independent evaluation on if the Board should strip leadership, revoke participation, or membership privileges. The period of suspension will remain in place until after the Board votes on the matter.
-            <br>If the Board decides to take no action, full participation can resume immediately. If the participant is a member, their membership will be extended by the period of the suspension served.
-            <br>Transparency and Oversight
-            <br>To provide transparency and oversight of sanctions, the Executive Director will inform the Board privately of the actions being taken under these sanctions, informing the Compliance Committee as required, and providing recommendations from the Compliance Committee to the Board and scheduling a vote as necessary.  Grant Ongers motions, Richard Greenberg seconds
-            <br>[Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/TBm1RhwAxaQ/m/dBOrsLWkCwAJ)"
-  result:  "<br>In Favor:  6 (Owen Pendlebury, Sherif Mansour, Vandana Verma, Richard Greenberg, Martin Knobloch and Grant Ongers)"
-  vote:    "<br>6-0
-            <br>https://doodle.com/poll/vwakbg36mnwqbiqu"
+            The following should be added to the Code of Conduct policy to enable sanctions:
+            Sanctions
+            The Executive Director can suspend participation in OWASP for 30 days for perceived or actual breaches of the OWASP Code of Conduct or US law. Depending on the severity of the breach, the member or participant can accept the 30-day suspension, or in serious cases, the member or participant will be referred to the Compliance Committee for a decision regarding their ongoing participation or membership by the OWASP Board at the next available Board meeting. 
+            For first time Code of Conduct breaches where no violation of US law has occurred: The member or participant can agree to comply with a temporary suspension imposed by the Executive Director of all OWASP participation for no more than 30 days. Membership will not be extended to cover the suspension.
+            For repeat or serious breaches of the Code of Conduct, or where a participant has been charged with a crime, the Executive Director must suspend the member, refer the matter to the Compliance Committee, who will make an independent evaluation on if the Board should strip leadership, revoke participation, or membership privileges. The period of suspension will remain in place until after the Board votes on the matter.
+            If the Board decides to take no action, full participation can resume immediately. If the participant is a member, their membership will be extended by the period of the suspension served.
+            Transparency and Oversight
+            To provide transparency and oversight of sanctions, the Executive Director will inform the Board privately of the actions being taken under these sanctions, informing the Compliance Committee as required, and providing recommendations from the Compliance Committee to the Board and scheduling a vote as necessary.  Grant Ongers motions, Richard Greenberg seconds
+            [Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/TBm1RhwAxaQ/m/dBOrsLWkCwAJ)"
+  result:  "In Favor:  6 (Owen Pendlebury, Sherif Mansour, Vandana Verma, Richard Greenberg, Martin Knobloch and Grant Ongers)"
+  vote:    "6-0
+            https://doodle.com/poll/vwakbg36mnwqbiqu"
 - date:  2020-10-20
   motion:  "Resolved, the Foundation is directed to create or update any necessary bylaw or policies that govern Board meetings and any associated informative documents to state that Robert's Rules of Order, Newly Revised (12th ed.) are adopted for OWASP Board Meetings and Special Meetings. Projects, Chapters, and Committees can adopt RONR (12th ed.) for their meetings if they so choose, but it is not required by the Foundation.
-            <br>[Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/xi_9O0WEhTA/m/q2gtJMWuBwAJ)
-            <br>The Board directs the Foundation to add a new clause to Section 3 of the OWASP Bylaws:
-            <br>Section 3.1x ADOPTION OF ROBERTS RULES OF ORDER
-            <br>The rules contained in the current edition of Robert's Rules of Order Newly Revised (12th ed.) shall govern the OWASP Foundation Board and special meetings in all cases to which they are applicable and in which they are not inconsistent with the bylaws, and any special rules of order the Board may adopt.  The Foundation is directed to add consistent language to all relevant Board governance policies and Board governance informational pages. Owen Pendlebury motions, Sherif Mansour seconds"
-  result:  "<br>In Favor:  6 (Owen Pendlebury, Sherif Mansour, Vandana Verma, Richard Greenbreg, Martn Knobloch and Grant Ongers)"
-  vote:  "<br>6-0
-          <br>Previous Doodle:  https://doodle.com/poll/9pivsn4cc35zy2bz"
+            [Discussion Link](https://groups.google.com/a/owasp.org/g/global-board/c/xi_9O0WEhTA/m/q2gtJMWuBwAJ)
+            The Board directs the Foundation to add a new clause to Section 3 of the OWASP Bylaws:
+            Section 3.1x ADOPTION OF ROBERTS RULES OF ORDER
+            The rules contained in the current edition of Robert's Rules of Order Newly Revised (12th ed.) shall govern the OWASP Foundation Board and special meetings in all cases to which they are applicable and in which they are not inconsistent with the bylaws, and any special rules of order the Board may adopt.  The Foundation is directed to add consistent language to all relevant Board governance policies and Board governance informational pages. Owen Pendlebury motions, Sherif Mansour seconds"
+  result:  "In Favor:  6 (Owen Pendlebury, Sherif Mansour, Vandana Verma, Richard Greenbreg, Martn Knobloch and Grant Ongers)"
+  vote:  "6-0
+          Previous Doodle:  https://doodle.com/poll/9pivsn4cc35zy2bz"
 - date:  2020-09-20
   motion:  "Resolved, the Board will establish a Board audit sub-committee, initially comprised of Sherif Mansour, Vandana Verma, Gary Robinson, Grant Ongers, and Martin Knobloch. 
             Note: Once established, the sub-committee will elect new officers at the start of each Board year per the bylaws (they didn't vote on that, but that's how it will operate).  
             Sherif Mansour motions, Grant Ongers seconds"
   result:  "In Favor:  5 (Sherif Mansour, Vandana Verma, Gary Robinson, Martin Knobloch and Grant Ongers)  Abstain:  2 (Richard Greenberg and Owen Pendlebury)"
-  vote:  "<br>5-0"
+  vote:  "5-0"
 - date:  2020-09-12
   motion:  "It is resolved that the action by the Executive Director, Andrew van der Stock, to temporarily suspend and refer an OWASP leader to the Compliance Committee for review is supported by the Board. Grant Ongers motions, Vandana Verma seconds"
-  results:  "<br>In Favor:  6 (Martn Knobloch, Vandana Verma, Richard Greenberg, Grant Ongers, Gary Robinson and Owen Pendlebury)"
-  vote:  "<br>6-0" 
+  results:  "In Favor:  6 (Martn Knobloch, Vandana Verma, Richard Greenberg, Grant Ongers, Gary Robinson and Owen Pendlebury)"
+  vote:  "6-0" 
 - date:  2020-09-12
   motion:  "Even though I disagree with Josh on almost every topic, Josh has done amazing things for OWASP over a very long period of time, including being an Austin chapter leader for a long time, running LASCON, and being an ex-Board member. I vouch for Josh to be an honorary member.  Richard Greenberg motions, Grant Ongers seconds"
-  results:  "<br>In Favor:  4 (Vandana Verma, Richard Greenberg, Grant Ongers and Gary Robinson)  No:  1 (Martin Knobloch)  Abstain:  1  (Sherif Mansour)"  
-  vote:  "<br>4-1"
+  results:  "In Favor:  4 (Vandana Verma, Richard Greenberg, Grant Ongers and Gary Robinson)  No:  1 (Martin Knobloch)  Abstain:  1  (Sherif Mansour)"  
+  vote:  "4-1"
 - date:  2020-09-22
   motion:  "It is resolved that the following three policies are approved, which have completed the policy review process. The Foundation shall upload them within 30 days of this vote:
-<br>[Donations](https://github.com/OWASP/www-policy/commit/20fc56ec67fc8af428a4f2c7a5986fa9a2486056#diff-53aec32babf59be45208dbc87e397b76)
+[Donations](https://github.com/OWASP/www-policy/commit/20fc56ec67fc8af428a4f2c7a5986fa9a2486056#diff-53aec32babf59be45208dbc87e397b76)
 <br[Conference and Events Attendees](https://github.com/OWASP/www-policy/commit/003b8215a0afbaabf2eb5bf184517f5cb36618a2#diff-38f512208455ae19608d02cb197f6c91)
-<br>*[Global Event Team](https://github.com/OWASP/www-policy/commit/23afdeb142545afd101e0c10f8848bd7d13bb1d3#diff-bbad2c5254f8246742d82b5b2e8686d4)
-<br>Feedback for these policies has been published to the global-board list.   Sherif Mansour motions, Richard Greenberg seconds"
-  results:  "<br>In Favor:  6 (Grant Ongers, Gary Robinson, Martin Knobloch, Vandana Verma, Richard Greenberg and Sherif Mansour)"
-  vote:  "<br>6-0"
+*[Global Event Team](https://github.com/OWASP/www-policy/commit/23afdeb142545afd101e0c10f8848bd7d13bb1d3#diff-bbad2c5254f8246742d82b5b2e8686d4)
+Feedback for these policies has been published to the global-board list.   Sherif Mansour motions, Richard Greenberg seconds"
+  results:  "In Favor:  6 (Grant Ongers, Gary Robinson, Martin Knobloch, Vandana Verma, Richard Greenberg and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2020-09-22
   motion:  "It is resolved that a Project Committee be established under the most recent approved Committee policy, with the Committee purpose to provide mentorship and guidance for all OWASP projects, promote project activity, evangelize OWASP projects publicly, and to advise the Board or Foundation on bylaw or policy changes.  Sherif Manosur motions, Vandana Verma seconds
-<br>[Project Committee Purpose](https://docs.google.com/document/d/1UKSfshQ7MASqR8DnH0dfMa8345WJ1kAtix8xf5HBBio/edit?usp=sharing)"
-  results:  "<br>In Favor:  6 (Martin Knobloch, Grant Ongers, Vandana Verma, Richard Greenberg, Gary Robinson and Sherif Mansour)"
-  vote:  "<br>6-0"
+[Project Committee Purpose](https://docs.google.com/document/d/1UKSfshQ7MASqR8DnH0dfMa8345WJ1kAtix8xf5HBBio/edit?usp=sharing)"
+  results:  "In Favor:  6 (Martin Knobloch, Grant Ongers, Vandana Verma, Richard Greenberg, Gary Robinson and Sherif Mansour)"
+  vote:  "6-0"
 - date:  2020-09-22
   motion:  "It is resolved that the Board approves of the OWASP Foundation's 2021 Operation Plan, and directs the Foundation to publish the Plan to the owasp.org website and to start executing the Plan as soon as possible, reporting back at least quarterly on progress.  Sherif Mansour motions, Grant Ongers seconds
-<br>[Draft Operating Plan 2021](https://docs.google.com/document/d/1TJjbznAalh9Esbs26KGEzy42vjNM0pakLasFNLTPG-w/edit?usp=sharing)"
-  results:  "<br>In Favor:  5 (Martin Knobloch, Grant Ongers, Vandana Verma, Gary Robinson and Sherif Mansour)"
-  vote:  "<br>5-0"
+[Draft Operating Plan 2021](https://docs.google.com/document/d/1TJjbznAalh9Esbs26KGEzy42vjNM0pakLasFNLTPG-w/edit?usp=sharing)"
+  results:  "In Favor:  5 (Martin Knobloch, Grant Ongers, Vandana Verma, Gary Robinson and Sherif Mansour)"
+  vote:  "5-0"
 - date:  2020-08-25
   motion: "It is resolved that to address the Compliance Committee’s recommendation that Foundation funds not be used for membership and that any such paid 
            membership (if any exists) shall constitute a non-voting membership. As this will affect the eligibility of AppSec Cali 2020 attendees who were 
            granted membership paid by the Foundation, this amendment will be effective November 1, 2020.
-           <br>Amend section 3.02 (Qualifications) by adding the following italic text:
-           <br>Foundation funds should not be used to pay for membership. Foundation paid memberships of any class, from any funding source including conferences, 
+           Amend section 3.02 (Qualifications) by adding the following italic text:
+           Foundation funds should not be used to pay for membership. Foundation paid memberships of any class, from any funding source including conferences, 
            chapters, projects, donations, etc, shall not constitute paid membership nor possess voting rights. Martin Knobloch motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  7 (Martin Knobloch, Richard Greenberg, Owen Pendlebury, Grant Ongers, Vandana Verma, Gary Robinson and Sherif Mansour)"
-  vote:  "<br>7-0
-          <br>Previous Doodle: https://doodle.com/poll/ua8s8qbehwcumb44 (now invalid)"
+  result:  "In Favor:  7 (Martin Knobloch, Richard Greenberg, Owen Pendlebury, Grant Ongers, Vandana Verma, Gary Robinson and Sherif Mansour)"
+  vote:  "7-0
+          Previous Doodle: https://doodle.com/poll/ua8s8qbehwcumb44 (now invalid)"
 - date:  2020-08-25
   motion:  "It is resolved that after technical issues cut short the Special Meeting before adjournment, the Board motions that the Special Board Meeting of August 11, 2020 is formally adjourned. Owen Pendlebury motions, Sherif Mansour seconds"
-  result:  "<br>In Favor:  6 (Grant Ongers, Vandana Verma, Gary Robinson, Richard Greenberg, Owen Pendlebury and Sherif Mansour)  Abstain:  1 (Martin Knobloch)"
-  vote:  "<br>6-0"
+  result:  "In Favor:  6 (Grant Ongers, Vandana Verma, Gary Robinson, Richard Greenberg, Owen Pendlebury and Sherif Mansour)  Abstain:  1 (Martin Knobloch)"
+  vote:  "6-0"
 - date:  2020-08-25
   motion:  "It is resolved that in light of the uncertainties around the COVID pandemic, the Foundation is authorized to make best efforts to postpone to 2022 or cancel the contract under force majeure the Dublin event booking, for the least fees possible. If the Dublin event is postponed to 2022, Berlin will become the 2023 location for an EU based Global AppSec. A replacement virtual event may be authorized by the Board after the conclusion of the October 2020 AppSec Days Virtual event, depending on financial performance. Owen Pendlebury motions, Sherif Mansour seconds."
-  result:  "<br>In Favor:  7 (Gary Robinson, Vandana Verma, Martin Knobloch, Richard Greenberg, Owen Pendlebury, Grant Ongers and Sherif Mansour)"
-  vote:  "<br>7-0"
+  result:  "In Favor:  7 (Gary Robinson, Vandana Verma, Martin Knobloch, Richard Greenberg, Owen Pendlebury, Grant Ongers and Sherif Mansour)"
+  vote:  "7-0"
 - date:  2020-08-25
   motion:  "It is resolved that the OWASP Board affirms that they have previously signed, and will again review and recommit to the requirements laid out in the OWASP Board Code of Conduct, including all sections: Code of Conduct, Board Conduct with One Another, Board Conduct with Staff, and Board Conduct with the public., Board Conduct with other organizations, Sanctions, Principles of Proper Conduct, and Checklist for Monitoring Conduct. Grant Ongers motions, Owen Pendlebury seconds"
-  result:  "<br>In Favor:  7 (Martin Knobloch, Owen Pendlebury, Gary Robinson, Richard Greenberg, Grant Ongers, Vandana Verma and Sherif Mansour)"
-  vote:  "<br>7-0" 
+  result:  "In Favor:  7 (Martin Knobloch, Owen Pendlebury, Gary Robinson, Richard Greenberg, Grant Ongers, Vandana Verma and Sherif Mansour)"
+  vote:  "7-0" 
 - date:  2020-08-11
   motion: "It is resolved that the motion text from e-Vote Motion (3) section 3.02 be changed from:
-          <br>An individual is limited to four (4) consecutive two (2) year terms effective January 1, 2014. 
-          <br>to be:
-          <br>An individual is limited to four (4) elected two-year (2) terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) two-year (2) terms in a ten (10) year period.
-          <br>Section 2.02 should be updated to mirror this change.  Owen Pendlebury motions, Vandana Verma seconds
-          <br>Reference: https://owasp.org/assets/legal/bylaws#section-302-number-tenure-and-qualifications"
-  result:  "<br>In Favor:  6 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma, Richard Greenberg and Owen Pendlebury)"
-  vote:  "<br>6-0
-         <br>As per the Compliance Committee recommendation, Martin's proxy vote has been removed"
+          An individual is limited to four (4) consecutive two (2) year terms effective January 1, 2014. 
+          to be:
+          An individual is limited to four (4) elected two-year (2) terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) two-year (2) terms in a ten (10) year period.
+          Section 2.02 should be updated to mirror this change.  Owen Pendlebury motions, Vandana Verma seconds
+          Reference: https://owasp.org/assets/legal/bylaws#section-302-number-tenure-and-qualifications"
+  result:  "In Favor:  6 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma, Richard Greenberg and Owen Pendlebury)"
+  vote:  "6-0
+         As per the Compliance Committee recommendation, Martin's proxy vote has been removed"
 - date:  2020-08-11
   motion:  "It is resolved that the passed motion on conflicts of interest will contain the following clarifications. The replacement section will now read:  
-  <br>At the time of their election, to qualify to stand, candidates must hold an Individual membership, Lifetime membership, or hold a valid Honorary Membership. This membership must have been in place for a 12 month period prior to the date of the election.  Owen Pendlebury motions, Vandana Verma seconds"
-  result:  "<br>In Favor: 5 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma and Owen Pendlebury) Against: 1 (Richard Greenberg)"
-  vote:  "<br>5-1
-          <br>**As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
+  At the time of their election, to qualify to stand, candidates must hold an Individual membership, Lifetime membership, or hold a valid Honorary Membership. This membership must have been in place for a 12 month period prior to the date of the election.  Owen Pendlebury motions, Vandana Verma seconds"
+  result:  "In Favor: 5 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma and Owen Pendlebury) Against: 1 (Richard Greenberg)"
+  vote:  "5-1
+          **As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
 - date:  2020-08-11
   motion:  "It is resolved the passed motion on grace periods will contain the following clarifications. The replacement section will now read:
-            <br>SECTION 3.14 Good standing grace period
-            <br>Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual **or lifetime** membership, honorary membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period.  Owen Pendlebury motions, Vandana Verma seconds"
-  result:  "<br>In Favor:  6 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma, Richard Greenberg and Owen Pendlebury)"
-  vote:  "<br>6-0
-         <br>**As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
+            SECTION 3.14 Good standing grace period
+            Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual **or lifetime** membership, honorary membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period.  Owen Pendlebury motions, Vandana Verma seconds"
+  result:  "In Favor:  6 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma, Richard Greenberg and Owen Pendlebury)"
+  vote:  "6-0
+         **As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
 - date:  2020-08-11
-  motion:  "<br>It is resolved that all passed motions on the topic of bylaw changes to address Compliance Committee concerns with eligibility and good standing will take effect on November 1, 2020 unless a date is included in the motion itself.  Grant Ongers motions, Owen Pendlebury seconds"
-  result:  "<br>In Favor:  6 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma, Richard Greenberg and Owen Pendlebury)"
-  vote:  "<br>6-0
-          <br>**As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
+  motion:  "It is resolved that all passed motions on the topic of bylaw changes to address Compliance Committee concerns with eligibility and good standing will take effect on November 1, 2020 unless a date is included in the motion itself.  Grant Ongers motions, Owen Pendlebury seconds"
+  result:  "In Favor:  6 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma, Richard Greenberg and Owen Pendlebury)"
+  vote:  "6-0
+          **As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
 - date:  2020-08-11
-  motion:  "<br>It is resolved to amend the Vacancy provisions in the OWASP bylaws to address the Compliance Committee report recommendation to 'clarify' that Directors that exit their term prematurely have served a two-year term for the purposes of term limits, and Directors that serve a partial term to fill a vacancy have not served a two-year term for the purposes of term limits. This motion will take effect November 1, 2020. 
-            <br>This motion replaces section 2.05 and 3.10 with the following text. The italic text is new.
-            <br>
-            <br>SECTION 2.05 Vacancies
-            <br>A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by the Board of Directors for the unexpired portion of the term.
-            <br>If a Director creates a Vacancy, such as being removed or resigned, the entire term is considered served for that Member for the purposes of term limits.
-            <br>
-            <br>SECTION 3.10 Vacancies
-            <br>Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairman of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
-            <br>Appointed Directors filling a vacancy shall not have this partial term counted against term limits.
-            <br>
-            <br>Subsidiary Motion: It is resolved to amend the vacancy appointment bylaws in section 3.10 to prevent multiple appointments to get around term limits, by adding to the end of the main amendment the following text:
-            <br>Members can only be appointed to fill a vacancy once every ten years to prevent bypassing term limits: to section 3.10.  Grant Ongers motions, Owen Pendlebury seconds
-            <br>Previous Doodle: https://doodle.com/poll/scpmxy6vpixf5693 (now invalid)"
-  result:  "<br>In Favor:  5 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma and Owen Pendlebury)  Against: 1 (Richard Greenberg)"
-  vote:  "<br>5-1
-          <br>**As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
+  motion:  "It is resolved to amend the Vacancy provisions in the OWASP bylaws to address the Compliance Committee report recommendation to 'clarify' that Directors that exit their term prematurely have served a two-year term for the purposes of term limits, and Directors that serve a partial term to fill a vacancy have not served a two-year term for the purposes of term limits. This motion will take effect November 1, 2020. 
+            This motion replaces section 2.05 and 3.10 with the following text. The italic text is new.
+            
+            SECTION 2.05 Vacancies
+            A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by the Board of Directors for the unexpired portion of the term.
+            If a Director creates a Vacancy, such as being removed or resigned, the entire term is considered served for that Member for the purposes of term limits.
+            
+            SECTION 3.10 Vacancies
+            Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairman of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
+            Appointed Directors filling a vacancy shall not have this partial term counted against term limits.
+            
+            Subsidiary Motion: It is resolved to amend the vacancy appointment bylaws in section 3.10 to prevent multiple appointments to get around term limits, by adding to the end of the main amendment the following text:
+            Members can only be appointed to fill a vacancy once every ten years to prevent bypassing term limits: to section 3.10.  Grant Ongers motions, Owen Pendlebury seconds
+            Previous Doodle: https://doodle.com/poll/scpmxy6vpixf5693 (now invalid)"
+  result:  "In Favor:  5 (Sherif Mansour, Grant Ongers, Gary Robinson, Vandana Verma and Owen Pendlebury)  Against: 1 (Richard Greenberg)"
+  vote:  "5-1
+          **As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
 - date:  2020-08-11
   motion:  "It is resolved to allow Richard Greenberg a one-time exception due to the circumstances of his eligibility and membership to allow him to run for the board in 2020.  Richard Greenberg motions, Grant Ongers second"
-  result:  "<br>In Favor:  4 (Grant Ongers, Gary Robinson, Vandana Verma and Richard Greenberg)  Against:  2 (Sherif Mansour and Owen Pendlebury)"
-  vote:  "<br>4-2
-          <br>**As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
+  result:  "In Favor:  4 (Grant Ongers, Gary Robinson, Vandana Verma and Richard Greenberg)  Against:  2 (Sherif Mansour and Owen Pendlebury)"
+  vote:  "4-2
+          **As per the Compliance Committee recommendation, Martin's proxy vote has been removed**"
 - date:  2020-08-05
   motion:  "E-Vote (1): It is resolved that any member whose membership lapsed due to issues with the membership management system, but who otherwise fulfils the 
            requirements to stand for the Board, should be granted exemption from the 'paid' component of the 'in good standing' clause for eligibility so long as 
@@ -928,39 +956,39 @@
            continuous membership would involve: an email trail between the member and the Foundation's staff showing an honest attempt to pay for one's membership 
            through acceptable means; evidence of a failed transaction to the OWASP account; or evidence of a credit to a member's membership belatedly applied by 
            the Foundation. Should there be any doubt as the validity of the claim a majority vote of the Board will decide the outcome on a case-by-case basis.  
-           <br>Grant Ongers motions, Owen Pendlebury seconds 
-           <br>e-Vote here: https://doodle.com/poll/7v33363xe2x6s2t9"
-  result: "<br>Passes:  5-1"
-  vote:  "<br>In Favor:  5 (Owen Pendlebury, Gary Robinson, Grant Ongers, Vandana Verma and Richard Greenberg) Against: 1 (Sherif Mansour)"
+           Grant Ongers motions, Owen Pendlebury seconds 
+           e-Vote here: https://doodle.com/poll/7v33363xe2x6s2t9"
+  result: "Passes:  5-1"
+  vote:  "In Favor:  5 (Owen Pendlebury, Gary Robinson, Grant Ongers, Vandana Verma and Richard Greenberg) Against: 1 (Sherif Mansour)"
 - date:  2020-08-05
   motion:  "E-Vote (2): It is resolved to address the Compliance Committee's recommendation that a grace period of 7 days be established in relation to good standing. Additionally, this should apply to both Candidates and Directors. Additionally, Directors should be permitted to hold all functions of the Board per their duties during the grace period. This motion will go into effect on November 1, 2020.Add a new section to section 3, including the following italic text: SECTION 3.14 Good standing grace period Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual membership, honorary membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period. Owen Pendlebury moitons, Grant Ongers seconds e-vote Doodle: https://doodle.com/poll/4m8szax7nqnz6539 Discussion: https://groups.google.com/u/3/a/owasp.org/g/global-board/c/yjFSwoi6xK0/m/E19CNN9pBAAJ"
-  result:  "<br>Passes:  7-0"
-  vote:  "<br>In Favor:  7 (Owen Pendlebury, Sherif Mansour, Gary Robinson, Martin Knobloch, Grant Ongers, Vandana Verma and Richard Greenberg)"
-- date:  2000-08-05
+  result:  "Passes:  7-0"
+  vote:  "In Favor:  7 (Owen Pendlebury, Sherif Mansour, Gary Robinson, Martin Knobloch, Grant Ongers, Vandana Verma and Richard Greenberg)"
+- date:  2020-08-05
   motion:  "E-Vote (3): It is resolved that the OWASP bylaws be amended to address the Compliance Committee recommendation that Directors are responsible for maintaining their membership in good standing throughout their term. This motion would come into effect on November 1, 2020. 
-           <br>Amend section 3.02 as follows (adding the italic text):
-           <br>SECTION 3.02 Number, Tenure, and Qualifications
-           <br>The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) consecutive two (2) year terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure.Directors are responsible for maintaining their membership in good standing for the duration of their term.
+           Amend section 3.02 as follows (adding the italic text):
+           SECTION 3.02 Number, Tenure, and Qualifications
+           The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) consecutive two (2) year terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure.Directors are responsible for maintaining their membership in good standing for the duration of their term.
            (NB: This motion has inccorrect text of the existing bylaw. See below to correct it to the current bylaw text. ajv)
-           <br>e-vote Doodle: https://doodle.com/poll/9duhfhfyuck95327
-           <br>Discussion: https://groups.google.com/u/3/a/owasp.org/g/global-board/c/Mzqc6iLyxO0/m/9NltFwQoBAAJ  Owen Pendlebury motions, Grant Ongers seconds"
-  result:  "<br>Passes:  7-0"
-  vote:  "<br>In Favor:  7 (Owen Pendlebury, Sherif Mansour, Gary Robinson, Martin Knobloch, Grant Ongers, Vandana Verma and Richard Greenberg)"
+           e-vote Doodle: https://doodle.com/poll/9duhfhfyuck95327
+           Discussion: https://groups.google.com/u/3/a/owasp.org/g/global-board/c/Mzqc6iLyxO0/m/9NltFwQoBAAJ  Owen Pendlebury motions, Grant Ongers seconds"
+  result:  "Passes:  7-0"
+  vote:  "In Favor:  7 (Owen Pendlebury, Sherif Mansour, Gary Robinson, Martin Knobloch, Grant Ongers, Vandana Verma and Richard Greenberg)"
 - date:  2020-08-05
   motion:  "E-Vote (4): It is resolved to address the Compliance Committee's recommendation that Directors must maintain their membership over the previous 12 months, to take effect November 1, 2020. The Board also directs Foundation staff to update the Board of Directors Commitment Agreement with the same qualifications as the final amended Section 3.02, and lastly, to document and test a procedure to ensure that approved bylaw and policy amendments are updated within 30 days of Board approval.
-<br>Amend section 3.02 (Qualifications) by adding the following italic text:
-<br>A Director or Candidate for the Board shall have maintained continuous membership in good standing over the previous 12 months, notwithstanding any grace periods established in these bylaws.  Owen Pendlebury motions, Grant Ongers seconds
-<br>e-vote Doodle can be found here:  https://doodle.com/poll/nr4cqb36tupiupf8
-<br>Discussion here: https://groups.google.com/u/3/a/owasp.org/g/global-board/c/xr-3gVw2q30/m/vZHxXfsPBAAJ"
-  result:  "<br>Passes:  6-0"
-  vote:  "<br> 6 (Owen Pendlebury, Sherif Mansour, Martin Knobloch, Grant Ongers, Vandana Verma and Richard Greenberg)  Abstain: 1 (Gary Robinson)"
+Amend section 3.02 (Qualifications) by adding the following italic text:
+A Director or Candidate for the Board shall have maintained continuous membership in good standing over the previous 12 months, notwithstanding any grace periods established in these bylaws.  Owen Pendlebury motions, Grant Ongers seconds
+e-vote Doodle can be found here:  https://doodle.com/poll/nr4cqb36tupiupf8
+Discussion here: https://groups.google.com/u/3/a/owasp.org/g/global-board/c/xr-3gVw2q30/m/vZHxXfsPBAAJ"
+  result:  "Passes:  6-0"
+  vote:  " 6 (Owen Pendlebury, Sherif Mansour, Martin Knobloch, Grant Ongers, Vandana Verma and Richard Greenberg)  Abstain: 1 (Gary Robinson)"
 - date:  2020-08-05
-  motion: "E-Vote (5): It is resolved that the bylaws be amended to address the Compliance Committee's recommendation to avoid conflicts of interest, perceived or actual that Directors must have paid for their own membership. Additionally to the recommendation, this motion incorporates Honorary Members as a qualifying member class. This amendment would come into effect November 1, 2020.<br>
-          Amend section 3.02 (Qualifications) by adding the italic text:<br>
-          At the time of their election, to qualify as a candidate or re-election, Directors must have paid for their own Individual or Lifetime membership, or hold a valid Honorary Membership.  Owen Pendlebury motions, Grant Ongers seconds<br>
+  motion: "E-Vote (5): It is resolved that the bylaws be amended to address the Compliance Committee's recommendation to avoid conflicts of interest, perceived or actual that Directors must have paid for their own membership. Additionally to the recommendation, this motion incorporates Honorary Members as a qualifying member class. This amendment would come into effect November 1, 2020.
+          Amend section 3.02 (Qualifications) by adding the italic text:
+          At the time of their election, to qualify as a candidate or re-election, Directors must have paid for their own Individual or Lifetime membership, or hold a valid Honorary Membership.  Owen Pendlebury motions, Grant Ongers seconds
           e-vote Doodle: https://doodle.com/poll/n29tyuikem4eq9bt Discussion: https://groups.google.com/u/3/a/owasp.org/g/global-board/c/CpdBeLPcpO4/m/cBn5TG9sBAAJ"
-  result: "<br>Passes:  6-1"
-  vote: "<br>In Favor:  6 (Owen Pendlebury, Sherif Mansour, Gary Robinson, Martin Knobloch, Grant Ongers and Vandana Verma) Against: 1 (Richard Greenberg)"
+  result: "Passes:  6-1"
+  vote: "In Favor:  6 (Owen Pendlebury, Sherif Mansour, Gary Robinson, Martin Knobloch, Grant Ongers and Vandana Verma) Against: 1 (Richard Greenberg)"
 - date:  2020-07-28
   motion:  "Approve the OWASP Educational Committee, Grant Ongers motioned, Owen Pendlebury seconds"
   result:  "Passes:  7-0"
@@ -1025,11 +1053,11 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
   result:  "Passes:  4-0"
   vote:  "In Favor:  4 (Vandana Verma, Owen Pendlebury, Grant Ongers and Sherif Mansour)"
 - date:  2020-03-12
-  motion:  "To postone the Global AppSec Conference in Dublin to the week of February 15, 2021."
+  motion:  "To postpone the Global AppSec Conference in Dublin to the week of February 15, 2021."
   result:  "Passes:  4-0"
   vote:  "In Favor:  4  (Martin Knobloch, Gary Robinson, Grant Ongers and Owen Pendlebury)"
 - date: 2020-02-18
-  motion: "To approved 2020 Operating Plan excluding mission statement."
+  motion: "To approve 2020 Operating Plan excluding mission statement."
   result: "Passes: 7-0"
 - date: 2020-02-16
   motion:  "To approve the Outreach Committee"
@@ -1131,7 +1159,7 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
 - date: 2018-10-10
   motion: "Motion: Sherif Mansour to replace Andrew van der Stock as Treasurer, Owen Pendlebury seconds."
   result: "Passes: 7-0"
-  vote: "In Favvor: 7 (Martin Knobloch, Sherif Mansour, Andrew van der Stock, Matt Konda, Owen Pendlebury, Greg Anderson and Chenxi Wang) Against: 0"
+  vote: "In Favor: 7 (Martin Knobloch, Sherif Mansour, Andrew van der Stock, Matt Konda, Owen Pendlebury, Greg Anderson and Chenxi Wang) Against: 0"
 - date: 2018-07-04
   motion: "Motion: To hold a Global Event in Tel Aviv, Israel in 2019. Sherif Mansour motions, Andrew van der stock seconds."
   result: "Passes: 7-0"
