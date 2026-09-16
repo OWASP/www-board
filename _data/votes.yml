@@ -720,11 +720,11 @@
   vote:  "7-0"
 - date:  2020-11-24
   motion:  "The reviewed Code of Contact policy is approved. [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct)  Vandana Verma motions, Owen Pendlebury seconds"
-  result:  "In Favor:  4 (Grant Ongers, Martn Knobloch, Vandana Verma and Gary Robinson)"
+  result:  "In Favor:  4 (Grant Ongers, Martin Knobloch, Vandana Verma and Gary Robinson)"
   vote:  "4-0  [E-vote - Doodle](https://doodle.com/poll/qwuu22tkz7wrhv44)"
 - date:  2020-11-24
   motion:  "The reviewed Branding policy is approved. [Branding Policy](https://policy.owasp.org/operational/branding), [Feedback](https://owasp.org/www-staff/files/2020-policy-review-feedback/Policy-Feedback-Branding.pdf) Vandana Verma motions, Owen Pendlebury seconds"
-  result:  "In Favor:  4 (Grant Ongers, Martn Knobloch, Vandana Verma and Gary Robinson)"
+  result:  "In Favor:  4 (Grant Ongers, Martin Knobloch, Vandana Verma and Gary Robinson)"
   vote:  "4-0  [E-vote - Doodle](https://doodle.com/poll/yqc54tieamng2tz8)"
 - date:  2020-11-24
   motion:  "This motion is to approve the virtual elements of the events strategy, which intends to spend up to $41,500 with gross income of $259,000, likely netting $217,500 profit.  Resolved, the Foundation is permitted to plan and run the virtual component of the events strategy, with an approved budget of $41,500 to run the nominated events throughout 2021.  Sherif Manosur motions, Vandana Verma seconds"
@@ -841,7 +841,7 @@
             The Board directs the Foundation to add a new clause to Section 3 of the OWASP Bylaws:
             Section 3.1x ADOPTION OF ROBERTS RULES OF ORDER
             The rules contained in the current edition of Robert's Rules of Order Newly Revised (12th ed.) shall govern the OWASP Foundation Board and special meetings in all cases to which they are applicable and in which they are not inconsistent with the bylaws, and any special rules of order the Board may adopt.  The Foundation is directed to add consistent language to all relevant Board governance policies and Board governance informational pages. Owen Pendlebury motions, Sherif Mansour seconds"
-  result:  "In Favor:  6 (Owen Pendlebury, Sherif Mansour, Vandana Verma, Richard Greenbreg, Martn Knobloch and Grant Ongers)"
+  result:  "In Favor:  6 (Owen Pendlebury, Sherif Mansour, Vandana Verma, Richard Greenberg, Martin Knobloch and Grant Ongers)"
   vote:  "6-0
           Previous Doodle:  https://doodle.com/poll/9pivsn4cc35zy2bz"
 - date:  2020-09-20
@@ -852,11 +852,11 @@
   vote:  "5-0"
 - date:  2020-09-12
   motion:  "It is resolved that the action by the Executive Director, Andrew van der Stock, to temporarily suspend and refer an OWASP leader to the Compliance Committee for review is supported by the Board. Grant Ongers motions, Vandana Verma seconds"
-  results:  "In Favor:  6 (Martn Knobloch, Vandana Verma, Richard Greenberg, Grant Ongers, Gary Robinson and Owen Pendlebury)"
+  result:  "In Favor:  6 (Martin Knobloch, Vandana Verma, Richard Greenberg, Grant Ongers, Gary Robinson and Owen Pendlebury)"
   vote:  "6-0" 
 - date:  2020-09-12
   motion:  "Even though I disagree with Josh on almost every topic, Josh has done amazing things for OWASP over a very long period of time, including being an Austin chapter leader for a long time, running LASCON, and being an ex-Board member. I vouch for Josh to be an honorary member.  Richard Greenberg motions, Grant Ongers seconds"
-  results:  "In Favor:  4 (Vandana Verma, Richard Greenberg, Grant Ongers and Gary Robinson)  No:  1 (Martin Knobloch)  Abstain:  1  (Sherif Mansour)"  
+  result:  "In Favor:  4 (Vandana Verma, Richard Greenberg, Grant Ongers and Gary Robinson)  No:  1 (Martin Knobloch)  Abstain:  1  (Sherif Mansour)"  
   vote:  "4-1"
 - date:  2020-09-22
   motion:  "It is resolved that the following three policies are approved, which have completed the policy review process. The Foundation shall upload them within 30 days of this vote:
@@ -864,17 +864,17 @@
 <br[Conference and Events Attendees](https://github.com/OWASP/www-policy/commit/003b8215a0afbaabf2eb5bf184517f5cb36618a2#diff-38f512208455ae19608d02cb197f6c91)
 *[Global Event Team](https://github.com/OWASP/www-policy/commit/23afdeb142545afd101e0c10f8848bd7d13bb1d3#diff-bbad2c5254f8246742d82b5b2e8686d4)
 Feedback for these policies has been published to the global-board list.   Sherif Mansour motions, Richard Greenberg seconds"
-  results:  "In Favor:  6 (Grant Ongers, Gary Robinson, Martin Knobloch, Vandana Verma, Richard Greenberg and Sherif Mansour)"
+  result:  "In Favor:  6 (Grant Ongers, Gary Robinson, Martin Knobloch, Vandana Verma, Richard Greenberg and Sherif Mansour)"
   vote:  "6-0"
 - date:  2020-09-22
   motion:  "It is resolved that a Project Committee be established under the most recent approved Committee policy, with the Committee purpose to provide mentorship and guidance for all OWASP projects, promote project activity, evangelize OWASP projects publicly, and to advise the Board or Foundation on bylaw or policy changes.  Sherif Manosur motions, Vandana Verma seconds
 [Project Committee Purpose](https://docs.google.com/document/d/1UKSfshQ7MASqR8DnH0dfMa8345WJ1kAtix8xf5HBBio/edit?usp=sharing)"
-  results:  "In Favor:  6 (Martin Knobloch, Grant Ongers, Vandana Verma, Richard Greenberg, Gary Robinson and Sherif Mansour)"
+  result:  "In Favor:  6 (Martin Knobloch, Grant Ongers, Vandana Verma, Richard Greenberg, Gary Robinson and Sherif Mansour)"
   vote:  "6-0"
 - date:  2020-09-22
   motion:  "It is resolved that the Board approves of the OWASP Foundation's 2021 Operation Plan, and directs the Foundation to publish the Plan to the owasp.org website and to start executing the Plan as soon as possible, reporting back at least quarterly on progress.  Sherif Mansour motions, Grant Ongers seconds
 [Draft Operating Plan 2021](https://docs.google.com/document/d/1TJjbznAalh9Esbs26KGEzy42vjNM0pakLasFNLTPG-w/edit?usp=sharing)"
-  results:  "In Favor:  5 (Martin Knobloch, Grant Ongers, Vandana Verma, Gary Robinson and Sherif Mansour)"
+  result:  "In Favor:  5 (Martin Knobloch, Grant Ongers, Vandana Verma, Gary Robinson and Sherif Mansour)"
   vote:  "5-0"
 - date:  2020-08-25
   motion: "It is resolved that to address the Compliance Committee’s recommendation that Foundation funds not be used for membership and that any such paid 
@@ -1153,7 +1153,7 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
   result: "Passes: 4-2"
   vote: "In Favor: 4 (Andrew van der Stock, Chenxi Wang, Owen Pendlebury and Martin Knobloch) Against: 2 (Greg Anderson and Matt Konda - Martin Knobloch abstain)"
 - date: 2018-11-21
-  motion: "Motion: To approved the Compliance Committee Charter, Greg Anderson motions, Andrew van der Stock seconds"
+  motion: "Motion: To approve the Compliance Committee Charter, Greg Anderson motions, Andrew van der Stock seconds"
   result: "Passes: 6-1"
   vote: "In Favor: 6 (Andrew van der Stock, Greg Anderson, Martin Knobloch, Sherif Mansour, Owen Pendlebury and Chenxi Wang) Against: 1 (Matt Konda)"
 - date: 2018-10-10
@@ -1253,7 +1253,7 @@ Sam Stepanyan, Avi Douglen, Justin Ferguson, Kyle Smith, Vlad Styran, Anant Shri
   result: "Pass: 4-0"
   vote: "In Favor: 4 (Tom Brennan, Josh Sokol, Tobias Gondrom and Michael Coates) Against: 0"
 - date: 2017-03-08
-  motion: "Motion: To approved the $10,000 item on the pending 2017 Budget for Latam Tour, Tom Brennan motioned, Josh Sokol seconds"
+  motion: "Motion: To approve the $10,000 item on the pending 2017 Budget for Latam Tour, Tom Brennan motioned, Josh Sokol seconds"
   result: "Pass: 5-0"
   vote: "In Favor: 5 (Johanna Curiel, Josh Sokol, Tobias Gondrom, Michael Coates and Tom Brennan) Against: 0"
 - date: 2017-03-08
